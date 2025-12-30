@@ -2,3 +2,8 @@ Visuals are being created in Tableau Public at [Kristin's Tableau](https://publi
 
 I still need to find a way to get multiple visuals in there. 
 I probably need to have separate files for each of them...
+
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-01/01-PriceDistributionMenuItems?publish=yes
+
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-02/02-RestoDistributionbyRestoLocation?publish=yes
+

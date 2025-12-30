@@ -1,21 +1,164 @@
-name,address,avg_price,ratings,price_to_rating
-De Friettoerist,Sint-Jacobsplein 13,2.722018348623853,3.6,0.7561162079510703
-Frietcafé l'Etoile d'Or,Tiensevest 16,3.63219696969697,4.7,0.7728078658929722
-Frituur Den Dreef,Naamsesteenweg 58,3.7707142857142855,4.5,0.8379365079365079
-Sahtain,Louis Melsensstraat 5,4.238095238095238,4.8,0.882936507936508
-Frituur Het Grotteke,Heilige-Geeststraat 102,4.08135593220339,4.5,0.9069679849340867
-Fritboutique,Tiensestraat 58,3.7375000000000003,4.1,0.9115853658536587
-De Smullende Heks,Diestsestraat 250,4.176146788990826,4.3,0.971196927672285
-Falafel Top,Diestsestraat 159,4.8875,4.9,0.9974489795918366
-The Sandwich Factory,Naamsestraat 86,4.827862595419847,4.8,1.005804707379135
-Bocata,Maria Theresiastraat 12A,3.867682926829268,3.8,1.0178112965340178
-Frituur Belgium,Kortestraat 4,4.297413793103448,4.2,1.0231937602627257
-Friterie Pepe's Taste,Tiensestraat 103,3.7584905660377355,3.6,1.0440251572327042
-Frituur Movie bij Patrick,Burgemeestersstraat 42,4.575,4.3,1.0639534883720931
-Frituur De Ring,Tiensevest 192,3.656190476190476,3.4,1.0753501400560224
-De Pasvite,Tiensestraat 14,4.9904761904761905,4.5,1.108994708994709
-Chick 'n Dip,Tiensestraat 170,4.456164383561644,4.0,1.114041095890411
-T'More Enjoy,Schrijnmakersstraat 31,5.245454545454545,4.6,1.140316205533597
-'t Fritwinkeltje,J.P. Minckelersstraat 35,5.253658536585366,4.6,1.142099681866384
-NotCake,Diestsestraat 1,5.64375,4.9,1.1517857142857142
-Potala Momo,Drie Engelenberg 4,5.1066666666666665,4.4,1.1606060606060604
+name,address,avg_price,ratings
+'t Fritwinkeltje,J.P. Minckelersstraat 35,5.253658536585366,4.6
+Ah Quy,Alfons Smetsplein 4,7.913043478260869,4.5
+Ali Baba,Kortestraat 12,7.1876033057851245,3.7
+Annapurna,Tiensesteenweg 19,14.452525252525252,4.1
+Ascoli,Muntstraat 17,16.641509433962263,3.8
+Asian Bowl,Brusselsestraat 47,9.75,4.4
+Asian Express,Brusselsestraat 116,10.083333333333334,4.5
+Baguette & Salad Bar,Parijsstraat 59,5.575462962962963,3.5
+Balls & Glory Leuven,Tiensestraat 31 bus c,11.829545454545455,4.4
+Bar Nine,Oude Markt 9,11.479999999999999,4.2
+Barouche Leuven,Tiensestraat 11,10.521176470588234,4.2
+Bavet,Savoyestraat 2,10.18235294117647,3.6
+Belchicken Leuven,Rector de Somerplein 14,9.418916666666666,3.9
+Bia Mara,Tiensestraat 20,10.134375,4.3
+Bite,Tiensestraat 12,10.215789473684211,4.9
+Bocata,Maria Theresiastraat 12A,3.867682926829268,3.8
+Boccone,Rector de Somerplein 15A,5.926829268292683,4.1
+Bodhi,Mechelsestraat 140 bus 2,8.970588235294118,4.7
+Brasserie Foyer,Mathieu de Layensplein 5,11.227272727272727,4.8
+Buddha House,Tiensestraat 79,16.174107142857142,4.1
+Burger Folie,Muntstraat 4,13.222857142857142,4.2
+Burger King,Rector de Somerplein 8,6.5795,2.3
+Capital 88,Fonteinstraat 1A,16.792168674698797,4.1
+Casa Mia,Muntstraat 8,14.978282828282827,3.8
+Casper,oude markt 2,8.538735632183908,3.4
+Cheekofte & Wraps,Diestsestraat 126,6.208088235294118,4.7
+Chick 'n Dip,Tiensestraat 170,4.456164383561644,4.0
+Croque 'n Roll,Tiensestraat 35,14.322222222222221,4.8
+D'entreprise,Naamsestraat 18,10.973684210526315,4.2
+D-Afro Flavours,Naamsestraat 87,16.013157894736842,2.3
+Dal Pesce Innamorato,Bogaardenstraat 81,17.232758620689655,3.5
+Damasco,Alfons Smetsplein 3/2,6.744186046511628,4.1
+Dar Za,Diestsestraat 128A,6.935294117647059,4.4
+De Appel,Ravenstraat 15,14.561224489795919,4.6
+De Blauwe Schuit,Mathieu de Layensplein 9,22.85151515151515,3.9
+De Friettoerist,Sint-Jacobsplein 13,2.722018348623853,3.6
+De Klimop,Martelarenplein 5,15.946808510638299,4.1
+De Nijl 1,Naamsestraat 66,6.2153284671532845,3.0
+De Pasvite,Tiensestraat 14,4.9904761904761905,4.5
+De Smullende Heks,Diestsestraat 250,4.176146788990826,4.3
+Deli Sushi,Muntstraat 18,14.32846153846154,3.5
+Domino's Pizza,Diestsestraat 265/267,8.38048780487805,3.4
+Domino's Pizza,Naamsevest 8,8.843055555555557,3.1
+Domus,Tiensestraat 8,15.724590163934426,4.4
+El Sombrero,Lei 25,17.896153846153847,4.3
+Ellis,Naamsestraat 5,11.519512195121951,3.1
+Falafel Top,Diestsestraat 159,4.8875,4.9
+FoodBar,Brusselsestraat 146,11.00940170940171,3.3
+Frietcafé l'Etoile d'Or,Tiensevest 16,3.63219696969697,4.7
+Fritboutique,Tiensestraat 58,3.7375000000000003,4.1
+Friterie Pepe's Taste,Tiensestraat 103,3.7584905660377355,3.6
+Frituur Belgium,Kortestraat 4,4.297413793103448,4.2
+Frituur Boem Patat,Martelarenlaan 83,4.367816091954023,2.9
+Frituur De Ring,Tiensevest 192,3.656190476190476,3.4
+Frituur Den Dreef,Naamsesteenweg 58,3.7707142857142855,4.5
+Frituur Het Grotteke,Heilige-Geeststraat 102,4.08135593220339,4.5
+Frituur Movie bij Patrick,Burgemeestersstraat 42,4.575,4.3
+Fuji Sushi,Tiensestraat 121,11.486942675159236,4.7
+Greenway,Parijsstraat 12,15.59375,4.4
+Grill & Service,Diestsestraat 248,7.2322033898305085,4.0
+Hawaiian Poké Bowl,Tiensestraat 64,6.875471698113207,3.9
+Heli's,Tiensestraat 62,8.79873417721519,4.6
+Hokkaido Sushi,Mechelsestraat 46,11.058653846153845,4.2
+Il Pastaio,Baron August de Becker Remyplein 19,8.68421052631579,4.6
+Indian Royal Food,Brusselsestraat 91,11.315263157894737,4.0
+Istanbul,Kortestraat 11,8.53467741935484,3.6
+Jagat's Place,Naamsestraat 114,9.046052631578947,4.7
+KFC,Grote Markt 14,9.73426966292135,3.1
+Kalypta Wereldkeuken & Tapasbar,Parijsstraat 21,17.43529411764706,3.4
+Kebab Company,Martelarenplein 16,6.641304347826087,3.8
+Kebab Leuven,Diestsestraat 62,6.713483146067416,3.2
+Kibo Sushi,Tiensesteenweg 126,11.477594936708861,4.3
+Kintsugi Sushi Bar & Grill,Tiensevest 14,12.57392857142857,4.3
+Kyoto,Tiensestraat 237-239,10.547435897435896,4.6
+La Cantina del Coronel,Munstraat 12,17.59375,3.8
+La Favola,Muntstraat 14,23.165178571428573,3.9
+La Piazzetta,Mechelsestraat 65,13.151785714285714,4.3
+Lavinia,Rector de Somerplein 19,7.208333333333333,4.5
+Le Graal,Rector de Somerplein 3,6.908163265306122,4.4
+Le Pain Quotidien,Parijsstraat 35,10.799065420560748,4.5
+Lettuce,Tiensestraat 6,8.732142857142858,4.5
+Loco Pizza,Oude Markt 27,9.003921568627451,2.2
+Loco Pizza 2,Brabanconnestraat 43,11.620735785953176,2.9
+Loempialand,Vlamingenstraat 72,4.405555555555555,3.7
+Mac&Roni by Bavet,Martelarenplein 16,5.342307692307693,3.9
+Magnum and Ben&Jerry's Store,Oude Markt 2,8.071428571428571,3.0
+McDonald's,Bondgenotenlaan 86,4.440367647058824,2.9
+McDonald's,Kortestraat 7-9,4.7823232323232325,2.4
+Mosaic,Oude Markt 25,8.886458333333334,4.3
+My Thai,Dirk Boutslaan 7,14.551724137931034,4.2
+Namaste Tandoori,Standonckstraat 2E,15.027777777777779,4.4
+Nepal Delight,Tiensestraat 92,12.592857142857143,4.0
+New Holycow,Naamsestraat 51,13.39310344827586,4.1
+New Mexico,Muntstraat 40,9.75925925925926,3.9
+New York Pizza,Naamsevest 4,8.079711538461538,2.4
+NewWay Leuven,Maria-Theresiastraat 6C,5.1578125,4.0
+Ni Hao,Tiensestraat 266,10.99375,4.0
+Nobu Sushi,Leuvensestraat 44,13.716981132075471,4.5
+NotCake,Diestsestraat 1,5.64375,4.9
+O'Tacos,Rector de Somerplein 7,5.161904761904761,2.6
+Oh' Fresh,Leopold Vanderkelenstraat 3,11.802,4.5
+"Oh, my kimchi!",Busleidengang 6D,11.351020408163267,3.1
+Oinaris,Parijsstraat 18,13.630645161290323,4.3
+Osteria Michele,Tiensestraat 23,22.176136363636363,3.3
+Otomat,Tiensestraat 33,13.11875,4.3
+Palmyra,Parijsstraat 84,15.113432835820896,4.4
+Past-A-Porter,Parijsstraat 8,6.125,4.5
+Pasta Ruffo,Tiensestraat 48,11.76969696969697,4.3
+Piano A,Ravenstraat 38,13.372727272727273,4.2
+Piccolo,Bondgenotenlaan 89,4.566666666666666,4.7
+Pitaya,Rector de Somerplein 16,6.680487804878048,3.9
+Pizza American,Tiensestraat 107,9.128173076923076,3.6
+Pizza Hut Delivery,Tervuursevest 10/A,17.34494382022472,3.3
+Pizza Pirkan,Diestsesteenweg 130,10.34731182795699,4.0
+Pizza Service,Diestsesteenweg 68,14.128041237113402,3.7
+Pizza Sole Mio,Kortestraat 5,12.3932,2.5
+Pizza Ti Amo,Kapucijnenvoer 195,9.570980392156862,3.3
+Potala Momo,Drie Engelenberg 4,5.1066666666666665,4.4
+Poule & Poulette,Tiensestraat 15,7.962745098039216,3.7
+Punto Caffè,Brusselsestraat 33,5.913043478260869,5.0
+Quetzal De Chocoladebar,Alfons Smetsplein 3F,18.583333333333332,4.8
+Quo Vadis,Muntstraat 11,16.875,3.9
+Rotis,Wieringstraat 2,7.118181818181818,4.6
+Ruba Healthy & Fresh Food,Tiensestraat 71,6.590000000000001,4.2
+Sahtain,Louis Melsensstraat 5,4.238095238095238,4.8
+Saki Sushi,Naamsestraat 43,14.32104,3.9
+Sapori Del Sud,Diestsesteenweg 182,16.41904761904762,4.2
+Sewar Snack-Resto,Diestsestraat 259,8.448924731182796,3.4
+Soroki - Sushi & Wok,Koetsweg 200,8.886538461538462,4.1
+Stuffed,Vital Decosterstraat 16,5.545698924731183,4.4
+Subway,Rector De Somerplein 6,6.521269841269841,3.7
+Sushi Hungry Eye,Naamsestraat 28,11.079213483146066,3.1
+Sushi Leuven,Tiensestraat 28,11.686857142857143,3.9
+Sushi Mama,Kapucijnenvoer 193,10.161832061068703,4.6
+T'More Enjoy,Schrijnmakersstraat 31,5.245454545454545,4.6
+Tabi Loo,Naamsestraat 29,7.292307692307692,4.7
+Taj Mahal,Muntstraat 10B,13.875,3.8
+Tandoori Masala Indian Nepali Restaurant,Muntstraat 22,16.766666666666666,3.9
+Taste of Asia,Brusselsestraat 42b,16.910416666666666,4.5
+Tasty Food Vesalius,Andreas Vesaliusstraat 7,8.305,3.5
+Taverne Fonske,Rector de Somerplein 13,12.102941176470589,4.6
+Thai House,Alfons Smetsplein 11,7.470454545454545,4.1
+Thai Time,Tiensestraat 135,12.916666666666666,4.7
+The Bake Off Pastabar,Diestsestraat 152,7.3516666666666675,4.5
+The Daily,Bondgenotenlaan 91,5.65728,3.4
+The Fonteintje,Fonteinstraat 123,9.455670103092784,4.5
+The Rolling Dogs,Vital Decosterstraat 20/ 01,5.657894736842105,4.3
+The Sandwich Factory,Naamsestraat 86,4.827862595419847,4.8
+The Vexican,Alfons Smetsplein 3/3,10.777777777777779,4.7
+Tian Tan,Lei 3,11.477777777777778,4.2
+Tikka Masala House,Tiensestraat 65,10.086524822695036,3.8
+Timory,Brusselsestraat 76,15.269444444444444,4.2
+Wabi Sabi,Muntstraat 10,16.4512987012987,3.7
+Wasbar,Tiensestraat 7,8.351,3.9
+Wiseguys,Tiensestraat 130,8.192307692307692,4.1
+Wok & Momo House,Parijsstraat 65-67,12.867500000000001,4.5
+Wolfgang,Tiensestraat 82,11.0,4.1
+Würst,Margarethaplein 1,7.651282051282051,4.2
+Xiongmao Panda,Naamsestraat 178,12.335576923076925,4.5
+Yammi Yammi Ramen,Oude Markt 54,9.39,4.2
+Yamy Food,Brusselsestraat 90,5.440298507462686,4.2
+You Sushi,Muntstraat 7,16.314685314685313,4.3
+l'Italiano,Leopold Vanderkelenstraat 26,20.833333333333332,3.5

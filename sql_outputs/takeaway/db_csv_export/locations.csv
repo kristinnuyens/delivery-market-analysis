@@ -1,0 +1,2506 @@
+ID,postalCode,latitude,longitude,city,name
+0,9400,50.79216429,4.052103801,Lieferinge,Onze-Lieve-Vrouwekerk
+1,9620,50.87253221,3.832818803,Grotenberge,Sint-Petrusbanden en Sint-Berlindiskerk
+2,9500,50.77588475,3.869851649,Nederboelare,Sint-Machariuskerk
+3,9120,51.2134487,4.2573832,Beveren,Sint-Martinuskerk
+4,2845,51.10964503,4.327743486,Niel,Onze-Lieve-Vrouwkerk
+5,2620,51.13776423,4.336553174,Hemiksem,Onze-Lieve-Vrouw Onbevlekt Ontvangen
+6,2020,51.19299686,4.379620139,Antwerp,Sint-Catharinakerk
+7,1760,50.84369274,4.075417648,Pamel,Sint-Gaugericuskerk
+8,9402,50.82487107,4.040548044,Meerbeke,Sint-Pieterskerk
+9,2240,51.21501883,4.660999541,Zandhoven,Sint-Amelbergakerk
+10,8450,51.23514147,2.977563491,Bredene-Bad,Sint-Rikierkerk
+11,9300,50.93546203,4.044983081,Aalst,Sint-Catharinakerk
+12,8421,51.25489367,3.055741987,Vlissegem,Sint-Blasiuskerk
+13,8490,51.16929065,3.122604832,Snellegem,Sint-Eligiuskerk
+14,8630,51.08768148,2.744251861,Veurne,Sint-Audomaruskerk
+15,8680,51.08532917,2.942839339,Koekelare,Heilige Pastoor van Arskerk
+16,8400,51.21551454,2.883544333,Ostend,Onze-Lieve-Vrouw Koninginkerk
+17,8400,51.2403904,2.940021059,Ostend,Kapel
+18,8480,51.15991335,3.045990342,Ichtegem,Sint-Amanduskerk
+19,8450,51.22320659,2.955387495,Bredene,Sint-Jozefskerk
+20,8400,51.20183763,2.915018713,Ostend,Begraafplaats Stene
+21,8377,51.26550995,3.156425417,Zuienkerke,Sint-Michielskerk
+22,8460,51.17906801,3.032153087,Ettelgem,Sint-Eligiuskerk
+23,8211,51.11274523,3.091891551,Aartrijke,0
+24,3920,51.25247633,5.385545098,Lommel,Sint-Jozefkerk
+25,3900,51.20955004,5.42723415,Overpelt,0
+26,2470,51.26734664,5.084976873,Retie,Sint-Martinuskerk
+27,3990,51.13627394,5.414149881,Wijchmaal,Sint-Trudokerk
+28,2400,51.17828121,5.08986043,Mol,Sint-Willibrorduskerk
+29,2950,51.35389706,4.397389462,Kapellen,Sint-Dionysiuskerk
+30,9180,51.20137756,3.938282084,Kruisstraat,Heilig Hartkerk
+31,9230,50.99902408,3.864770265,Wetteren,Sint-Theresiakerk
+32,9420,50.9199197,3.929134481,Bambrugge,Sint-Martinuskerk
+33,1702,50.87139585,4.26490222,Groot-Bijgaarden,Sint-Egidiuskerk
+34,1652,50.74302474,4.336138841,Alsemberg,Onze-Lieve-Vrouwekerk
+35,8710,50.89297649,3.336599463,Ooigem,Sint-Brixiuskerk
+36,9600,50.74805,3.566096179,Ronse,Onze-Lieve-Vrouwe van de Altijddurende Bijstandkerk
+37,8530,50.85514726,3.308393904,Harelbeke,0
+38,9000,51.05350319,3.719796213,Ghent,Saint Michael's Church
+39,3271,51.02811224,4.984141905,Averbode,Sint-Jan Baptistkerk
+40,2920,51.39744211,4.501091712,Achterbroek,Onze-Lieve-Vrouw Bezoeking en Bijstandkerk
+41,3890,50.70730128,5.150817619,Kortijs,Maria Magdalenakerk
+42,3290,50.98491279,5.051086274,Diest,Sint-Sulpitius en Dionysiuskerk
+43,3545,50.96083689,5.090586169,Halen,Sint-Pancratiuskerk
+44,3290,51.03850186,5.096286704,Deurne,Sint-Engelbertuskerk
+45,3290,50.9780046,5.051831885,Diest,Woon- en dagcentrum Poels
+46,3500,50.92628513,5.35195025,Hasselt,Sint-Catharinakerk
+47,9230,50.96969047,3.861974719,Westrem,Sint-Martinuskerk
+48,3540,50.9412731,5.16303843,Herk-de-Stad,Klooster
+49,9080,51.07976984,3.878717798,Beervelde,Sint-Daniëlkerk
+50,9200,51.00494618,4.015566979,Schoonaarde,Onze-Lieve-Vrouw-van-Zeven-Weeën-en-Sint-Jozefkerk
+51,9000,51.07644338,3.72268103,Ghent,0
+52,3700,50.74503117,5.444678065,Rutten,Sint-Evermaruskapel
+53,3660,51.05071245,5.607509361,Opglabbeek,Sint-Jozefkerk
+54,3665,50.99842308,5.564253391,As,Sint-Barbarakerk
+55,3621,50.92413361,5.704037243,Lanaken,0
+56,9240,51.06502877,4.028028884,Zele,Kapel van Onze-Lieve-Vrouw van Zeven Weeën
+57,3690,50.95310615,5.559324786,Zutendaal,Sint-Jozefkerk
+58,3600,50.97498725,5.469420098,Winterslag,Sint-Eventius
+59,9820,50.97865514,3.72675992,Merelbeke,Sint-Henricuskerk
+60,3511,50.94423368,5.306240502,Kuringen,Sint-Gertrudiskerk
+61,2800,51.02640541,4.47266455,Mechelen,Heilig Hartkerk
+62,9200,51.03863311,4.165223827,Baasrode,Sint-Ursmaruskerk
+63,9308,50.98514013,4.054096607,Gijzegem,Sint-Martinuskerk
+64,9520,50.92689234,3.90871436,Zonnegem,Sint-Stefanuskerk
+65,1800,50.94955445,4.464425777,Vilvoorde,Sint-Antonius Abtkerk
+66,2800,51.06611061,4.457515307,Mechelen,Onze-Lieve-Vrouw van Bijstandkerk
+67,9032,51.08875942,3.712206187,Ghent,Begraafplaats Wondelgem
+68,3390,50.94091607,4.902532777,Tielt,Onze-Lieve-Vrouwkerk
+69,1861,50.9737336,4.306145542,Wolvertem,Sint-Kwintenkerk
+70,2440,51.16225139,5.000061773,Holven,0
+71,2440,51.16459756,5.011869674,Geel,Sint-Dimpnakapel
+72,3870,50.73815657,5.255761969,Mechelen-Bovelingen,Kapel Sint-Martinus
+73,9473,50.89525392,4.043479832,Welle,0
+74,9630,50.8617823,3.722784759,Sint-Denijs-Boekel,Sint-Margarethakapel
+75,9550,50.84453234,3.87833751,Herzele,0
+76,9550,50.85179549,3.858579599,Zottegem,0
+77,9450,50.87473326,3.989018348,Denderhoutem,0
+78,9500,50.73964926,3.905063355,Geraardsbergen,0
+79,3381,50.88721628,4.957217883,Kapellen,Onze-Lieve-Vrouw-Geboortekerk
+80,9040,51.06262099,3.748772135,Ghent,Sint-Amanduskerk
+81,3191,50.97990615,4.5297863,Boortmeerbeek,Heilige Familiekerk
+82,3870,50.78103677,5.289412181,Mettekoven,Sint-Martinuskerk
+83,2321,51.44288647,4.736652953,Meer,Onze-Lieve-Vrouw Bezoekingkerk
+84,2940,51.33136987,4.365398996,Stabroek,Sint-Catharinakerk
+85,9280,51.00057114,4.12926689,Lebbeke,Onze-Lieve-Vrouwekerk
+86,8691,50.96769601,2.704963435,Alveringem,0
+87,9300,50.94010413,4.043222753,Aalst,Werfkapel Onze-Lieve-Vrouw Ter Druiven
+88,3700,50.76223208,5.50874308,Tongeren,0
+89,3740,50.88633569,5.478464503,Bilzen,0
+90,3793,50.75255561,5.849206619,Teuven,0
+91,3054,50.82678459,4.688690873,Vaalbeek,Maria Magdalenakapel
+92,1570,50.76042889,4.024099668,Vollezele,Sint-Pauluskerk
+93,2060,51.22533567,4.43527381,Antwerp,Sint-Eligiuskerk
+94,2550,51.12773088,4.472271152,Kontich,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+95,8400,51.20889715,2.888570545,Ostend,Sint-Franciscuskerk
+96,2440,51.16262179,5.063866764,Bel,Sint-Lambertuskerk
+97,9160,51.11508192,3.997873775,Lokeren,Kopkapel
+98,9968,51.2300832,3.676173283,Bassevelde,Onze-Lieve-Vrouw Hemelvaartkerk
+99,8573,50.80840955,3.475782833,Tiegem,Sint-Arnolduskerk
+100,9988,51.27591406,3.627886796,Watervliet,Onze-Lieve-Vrouw Hemelvaartkerk
+101,3583,51.03938461,5.173278431,Paal,Sint-Jan-de-Doperkerk
+102,2800,51.03185914,4.474369741,Mechelen,Begijnhofkerk Sint-Alexius en Catharina
+103,1755,50.76922341,4.042757035,Oetingen,Steenhoutbos
+104,9600,50.75640145,3.654083455,Ronse,Kapel Lorette
+105,1831,50.89484692,4.454438221,Diegem,Onze-Lieve-Vrouw van Zeven Smartenkerk
+106,9790,50.87083426,3.551722537,0,Sint-Amanduskerk
+107,9680,50.77089731,3.644174204,Maarkedal,Onze-Lieve-Vrouw van La Salettekerk
+108,8670,51.13128059,2.670132838,Oostduinkerke,De Rozenkrans
+109,9170,51.26036045,4.14681547,Meerdonk,Sint-Corneliuskerk
+110,9620,50.85271617,3.786268893,Sint-Goriks-Oudenhove,Sint-Gorikskerk
+111,9401,50.81383065,4.000482948,Pollare,0
+112,9400,50.82630194,3.990279298,Appelterre-Eichem,Sint-Martinuskerk
+113,3740,50.89082647,5.521848297,Munsterbilzen,Rust- en verzorgingstehuis Sint-Jozef
+114,2910,51.46943641,4.503400111,Horendonk,Sint-Vincentius a Paulokerk
+115,8650,50.99651373,2.907084011,Klerken,0
+116,3511,50.96676563,5.283153824,Hasselt,Sint-Amanduskerk
+117,1800,50.92461693,4.412643192,Vilvoorde,Heilig Hartkerk
+118,8620,51.10934119,2.763020992,Nieuwpoort,Sint-Laurentiuskerk
+119,8670,51.11300329,2.623743368,Koksijde,Kapel Ster der Zee
+120,2900,51.2646384,4.533139112,Schoten,"Onze-Lieve-Vrouw, Koningin van Alle Heiligenkerk"
+121,9790,50.83324726,3.556837401,0,Sint-Martinuskerk
+122,9230,51.01055484,3.878080883,Wetteren,Onze-Lieve-Vrouw ten Hemel Opgenomenkerk
+123,3600,51.00872029,5.502908458,Genk,Evangelische Christengemeente Zwartberg
+124,2860,51.04193738,4.497127418,Mechelen,De Goede Herder
+125,9080,51.0959804,3.833694069,Lochristi,Sint-Niklaaskerk
+126,2812,51.01133098,4.514617075,Mechelen,Westtoren van de voormalige Sint-Lambertuskerk
+127,8490,51.21445755,3.071248434,Stalhille,Sint-Jan Baptistkerk
+128,3650,51.01457867,5.720910554,Lanklaar,Sint-Pauluskerk
+129,9890,50.91807567,3.69090039,Dikkelvenne,Sint-Petruskerk
+130,9150,51.14694562,4.299967383,Bazel,Sint-Pieterskerk
+131,2540,51.15437528,4.470639181,Hove,Sint-Laurentiuskerk
+132,8500,50.81996921,3.270151149,Kortrijk,Sint-Rochuskerk
+133,3210,50.88197112,4.85443911,Lubbeek,Kapel van Onze-Lieve-Vrouw van Lubbeek
+134,2490,51.146897,5.113671846,Balen,Sint-Hubertuskerk
+135,8930,50.80322008,3.110657335,Menin,Sint-Jan Baptistkerk
+136,9620,50.83269862,3.795903492,Sint-Maria-Oudenhove,0
+137,3700,50.76822163,5.456708944,Tongeren,St- Hubertuskapel
+138,1750,50.83166103,4.140596944,Sint-Kwintens-Lennik,Sint-Ursulakerk
+139,3530,51.02076146,5.395362638,Houthalen,Sint-Lambertuskerk
+140,3271,51.02483128,5.013343138,Zichem,Heilig Hart en Sint-Antonius van Paduakerk
+141,3500,50.92988021,5.338825296,Hasselt,Sint-Quintinuskathedraal
+142,2860,51.0599423,4.483911113,Sint-Katelijne-Waver,Sint-Augustinuskerk
+143,1785,50.98409753,4.223106085,Merchtem,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+144,9820,50.98459409,3.722156295,Merelbeke,Sint-Elooiskapel
+145,2830,51.05630722,4.372287841,Blaasveld,Sint-Amanduskerk
+146,3770,50.7978394,5.633448533,Riemst,Sint-Genovevakerk
+147,3740,50.86472257,5.54549733,Waltwilder,Sint-Remigiuskerk
+148,2950,51.30542014,4.435276583,Kapellen,Onze-Lieve-Vrouw Onbevlekt Ontvangen
+149,9100,51.17211473,4.150002496,Sint-Niklaas,Paterskerk
+150,9140,51.16033996,4.207559045,Temse,Sint-Jozefkerk
+151,3360,50.827472,4.759744224,Bierbeek,Sint-Hilariuskerk
+152,9450,50.90219989,4.005687305,Haaltert,Sint-Gorikskerk
+153,2450,51.11287292,5.097206915,Meerhout,Onze-Lieve-Vrouwkerk
+154,2600,51.19908499,4.424140125,Antwerp,Sint-Hubertuskerk
+155,3512,50.91662244,5.250777269,Stevoort,Sint-Martinuskerk
+156,3550,50.98833706,5.274629061,Heusden-Zolder,Sint-Jobkerk
+157,2870,51.07666363,4.276060988,Puurs,Sint-Pieterskerk
+158,3700,50.79839209,5.510957429,Berg,Sint-Stefanuskerk
+159,9240,51.06646856,3.991224278,Zele,Parochiekerk Sint-Jozef en Sint-Antonius van Padua
+160,8560,50.80254645,3.152358977,Wevelgem,Sint-Theresia van het Kind Jezuskerk
+161,3070,50.88572467,4.549268014,Kortenberg,0
+162,9630,50.84957276,3.75240639,Zwalm,Onze-Lieve-Vrouwekerk
+163,3530,51.03151141,5.371993906,Houthalen,Sint-Martinuskerk
+164,2370,51.33720152,5.100078879,Arendonk,0
+165,9290,51.01835296,3.957935776,Uitbergen,Sint-Pietersbandenkerk
+166,1861,50.99213233,4.323658474,Wolvertem,Onze-Lieve-Vrouw-van-de-Rozenkranskerk Westrode
+167,2880,51.09208775,4.305175941,Hingene,Sint-Lambertuskerk
+168,2900,51.24531329,4.464211058,Schoten,Heilig Hartkerk
+169,3020,50.90302743,4.613595789,Veltem,Sint-Michielskerk
+170,3945,51.10169974,5.1469479,Kwaadmechelen,Sint-Lambertuskerk
+171,3770,50.8076205,5.573656801,Riemst,Sint-Jan-de-Doperkerk
+172,9820,50.96316551,3.755868237,Bottelare,Sint-Annakerk
+173,3052,50.82754096,4.717864033,Blanden,Sint-Jan-Evangelistkerk
+174,8511,50.7786417,3.22986063,Kortrijk,Sint-Corneliuskerk
+175,9042,51.15481878,3.825041516,Ghent,Heilig Kruiskerk
+176,9840,50.97843611,3.695490665,Zevergem,Onze-Lieve-Vrouw Hemelvaartkerk
+177,3700,50.77375998,5.468276235,Tongeren,0
+178,2630,51.133622,4.38759313,Aartselaar,Sint-Leonarduskerk
+179,9400,50.82308844,3.94928771,Voorde,Sint-Pietersbandenkerk
+180,9100,51.15334285,4.160058612,Sint-Niklaas,Heilige Familiekerk
+181,9820,51.01746333,3.759453672,Merelbeke,Onze-Lieve-Vrouw van de Rozenkranskerk
+182,9000,51.05036483,3.703443208,Ghent,Sint-Martinuskerk
+183,3920,51.16174702,5.264788804,Lommel,Sint-Jan-Baptistkerk
+184,9890,50.92859287,3.662791558,Gavere,Sint-Amanduskerk
+185,9041,51.10069884,3.764332479,Ghent,Sint-Amanduskerk
+186,3530,51.02358365,5.480174055,Houthalen,Onze-Lieve-Vrouw-van-Banneuxkerk
+187,3680,51.09774757,5.75901523,Maaseik,Sint-Laurentiuskerk
+188,3300,50.81852364,4.886512001,Kumtich,Sint-Gilliskerk
+189,9200,51.04842674,4.129815091,Baasrode,Sint-Gertrudiskerk
+190,1730,50.92202325,4.184662509,Asse,Onbevlekt Hart van Mariakerk
+191,9040,51.07423336,3.779346461,Ghent,Onze-Lieve-Vrouwkerk
+192,2870,51.08912112,4.33126302,Ruisbroek,Sint-Katharinakerk
+193,8820,51.08367837,3.128511788,Torhout,0
+194,3730,50.82730688,5.45145717,Sint-Huibrechts-Hern,Sint-Hubertuskerk
+195,9070,51.05582985,3.799037791,Destelbergen,Onze-Lieve-Vrouw-ter-Sneeuwkerk
+196,8400,51.22967404,2.920362818,Ostend,Sint-Pieterstoren
+197,8570,50.83897373,3.403922709,Vichte,Sint-Stephanus en Sint-Theodoricuskerk
+198,2820,51.03030898,4.539377195,Bonheiden,Abij Bethlehem
+199,9940,51.13254185,3.67880624,Sleidinge,Sint-Joriskerk
+200,3700,50.76598738,5.530714851,Sluizen,Sint-Servatiuskerk
+201,3790,50.74940326,5.812548051,Sint-Martens-Voeren,Sint-Martinuskerk
+202,2060,51.23177905,4.4281696,Antwerp,Sint-Lambertuskerk
+203,9500,50.78219244,3.910738651,Geraardsbergen,Sint-Martinuskerk
+204,2450,51.13105165,5.091654272,Meerhout,Sint-Jozefkerk
+205,2300,51.32659637,4.943014152,Turnhout,Heilig Kruiskerk
+206,3600,50.93394697,5.521982199,Genk,Sint-Jozefkerk
+207,3600,50.97250507,5.482451045,Winterslag,Heilig-Hartkerk
+208,3511,50.95602429,5.327652346,Kuringen,Parochiaal Centrum Sint-Jan
+209,9255,51.03139879,4.191962977,Buggenhout,Onze-Lieve-Vrouw-Hemelvaartkerk
+210,1860,50.95654522,4.32702848,Meise,Sint-Brixiuskerk
+211,9280,50.98380542,4.144607187,Lebbeke,Heilig Kruiskerk
+212,3870,50.76978464,5.357610497,Heks,Onze-Lieve-Vrouw Hemelvaartkerk
+213,3320,50.780998,4.915315136,Hoegaarden,Sint-Servatiuskapel
+214,0,50.76556372,4.906750673,Jodoigne,O.L.V. van bijstand
+215,3960,51.14759168,5.58831693,Gerdingen,Onze-Lieve-Vrouwkerk
+216,8500,50.81841128,3.257878614,Kortrijk,0
+217,3950,51.18862799,5.588937003,Bocholt,0
+218,3560,50.99836482,5.141580161,Meldert,Sint-Willibrorduskerk
+219,2580,51.02860631,4.65626396,Putte,Sint-Gerardus Majellakerk
+220,2400,51.28945367,5.189957357,Mol,Sint-Niklaaskerk
+221,9160,51.14889887,3.965927961,Eksaarde,Onze-Lieve-Vrouw-Hemelvaartkerk
+222,8520,50.86415283,3.272953124,Kortrijk,0
+223,8470,51.14939897,2.926543421,Gistel,0
+224,3650,51.03760094,5.722643845,Dilsen,Sint Martinuskerk
+225,3650,51.06571558,5.759357851,Elen,Sint-Pieterskerk
+226,8560,50.84323337,3.204017587,Gullegem,Sint-Amanduskerk
+227,2170,51.25556651,4.444785071,Antwerp,Onze-Lieve-Vrouw van Smartenkerk
+228,9100,51.16443239,4.14223296,Sint-Niklaas,Sint-Nicolaaskerk
+229,3054,50.83302935,4.693295865,Vaalbeek,Residentie La Foresta
+230,8900,50.8502236,2.890477041,Ypres,Sint-Jacobskerk
+231,9620,50.87344784,3.770705138,Strijpen,Sint-Antoniuskapel
+232,3950,51.15493357,5.561430364,Reppel,Sint-Willibrorduskerk
+233,9400,50.82775571,4.026698005,Ninove,Berdam
+234,9630,50.8964324,3.715408307,Paulatem,Sint-Gangulfuskerk
+235,3730,50.83317879,5.480241246,Werm,Sint-Domitianuskerk
+236,3550,51.02325164,5.313803315,Heusden-Zolder,Sint-Hubertus en Vincentiuskerk
+237,3530,51.04200556,5.384547903,Houthalen,Sint-Jozef Werkmankerk
+238,3520,50.99143017,5.367973361,Zonhoven,Sint-Quintinuskerk
+239,3290,50.98730553,5.057087714,Diest,Onze-Lieve-Vrouwekerk
+240,1785,50.9222672,4.280842267,Brussegem,Sint-Jan De Doperkerk
+241,9051,51.03093901,3.668762094,Ghent,Sint-Jan de Doperkerk
+242,8433,51.1255939,2.817757671,Mannekensvere,Onze-Lieve-Vrouwekerk
+243,8400,51.20618677,2.858479794,Ostend,Sint-Rafaëlkerk
+244,8420,51.24244665,3.025418506,Klemskerke,Sint-Clemenskerk
+245,1820,50.90985913,4.512207389,Steenokkerzeel,Sint-Rumolduskerk
+246,1730,50.88499245,4.238275741,Bekkerzeel,Sint-Godarduskerk
+247,2140,51.21642159,4.434120929,Antwerp,Onze-Lieve-Vrouw-ter-Sneeuwkerk
+248,2030,51.25102874,4.421159483,Antwerp,Onze-Lieve-Vrouw-Boodschapkerk
+249,9700,50.86816102,3.622068431,Eine,Sint-Eligiuskerk
+250,9771,50.88526606,3.511370602,Nokere,Sint-Ursmaruskerk
+251,8580,50.77500257,3.447935956,Avelgem,Sint-Martinuskerk
+252,8880,50.86823301,3.145389817,Rollegem-Kapelle,Sint-Jan Baptistkerk
+253,9506,50.81305912,3.917638018,Geraardsbergen,Sint-Mattheuskerk
+254,9630,50.90547523,3.73989143,Dikkele,Sint-Pietersbandenkerk
+255,3740,50.87381941,5.50833062,Bilzen,0
+256,8501,50.84272051,3.256174753,Kortrijk,Sint-Godelievekerk
+257,3530,51.05573253,5.383942406,Helchteren,Sint-Trudokerk
+258,3770,50.82928797,5.618237321,Vlijtingen,Onze-Lieve-Vrouw van Lourdeskapel
+259,8431,51.18147895,2.839875425,Wilskerke,Sint-Guilielmuskerk
+260,8860,50.88648398,3.237863031,Lendelede,Sint-Blasiuskerk
+261,9790,50.85033671,3.56228787,0,Sint-Pietersstoelkerk
+262,1930,50.88788846,4.470250958,Zaventem,Sint-Jozefskerk
+263,9250,51.10628292,4.08596433,Waasmunster,Onze-Lieve-Vrouwekerk
+264,2600,51.18668616,4.426231615,Antwerp,Onze-Lieve-Vrouw Middelares en Sint-Lodewijk
+265,2160,51.20631134,4.490115176,Wommelgem,Onze-Lieve-Vrouw-Boodschapkerk
+266,9140,51.12932536,4.22987203,Temse,Christus Koningkerk
+267,3000,50.87597311,4.698383771,Leuven,Sint-Antoniuskapel
+268,3930,51.25465733,5.47916614,Achel,Sint-Monulphus en Gondulphuskerk
+269,1790,50.89208964,4.099255972,Teralfene,Sint-Jan Evangelistkerk
+270,8880,50.8528784,3.126197268,Ledegem,Sint-Petruskerk
+271,9180,51.22454038,3.97658569,Moerbeke,Sint-Filippus en Jacobuskerk
+272,8980,50.81309739,2.980274998,Zandvoorde,Sint-Bartholomeuskerk
+273,8970,50.85509956,2.726209856,Poperinge,Sint-Bertinuskerk
+274,3740,50.87437543,5.513321136,Bilzen,0
+275,1501,50.74096704,4.250151687,Buizingen,Sint-Vincentiuskerk
+276,3000,50.88053753,4.691153855,Leuven,Sint-Jacobskerk
+277,9500,50.74274733,3.930538981,Geraardsbergen,Sint-Amanduskerk
+278,9667,50.83771365,3.687679109,Sint-Maria-Horebeke,Onze-Lieve-Vrouw Hemelvaartkerk
+279,9500,50.76214873,3.828678294,Geraardsbergen,Onze-Lieve-Vrouwkerk
+280,2660,51.17164816,4.338279584,Antwerp,Sint-Jozefkerk
+281,8600,51.10086467,2.891380124,Leke,Sint-Niklaaskerk
+282,9000,51.05887434,3.703699707,Ghent,Sint-Jan-Baptistkerk
+283,3910,51.2202827,5.445515228,Neerpelt,0
+284,3800,50.82023942,5.214176262,Sint-Truiden,0
+285,3980,51.06943576,5.126085805,Tessenderlo,Onze-Lieve-Vrouw-Onbevlekt-Ontvangenkerk
+286,3360,50.85490094,4.776852218,Lovenjoel,Salve Mater
+287,3740,50.82960844,5.537087157,Grote-Spouwen,0
+288,3300,50.82938695,4.990214486,Oplinter,Sint-Genovevakerk
+289,8906,50.88458245,2.816342722,Elverdinge,Sint-Petrus- en Sint-Pauluskerk
+290,9960,51.2278015,3.753277909,Assenede,Sint-Petrus- en Sint-Martinuskerk
+291,1861,50.95074268,4.308012598,Wolvertem,Sint-Laurentiuskerk
+292,8930,50.79427704,3.185689135,Lauwe,Sint-Bavokerk
+293,9620,50.86758942,3.818878094,Zottegem,Heilig Hartkerk
+294,2627,51.12928142,4.335925763,Schelle,Sint-Petrus en Pauluskerk
+295,3970,51.13355377,5.256610538,Leopoldsburg,Onze-Lieve-Vrouw Maagd der Armenkerk
+296,2880,51.10641621,4.298056927,Hingene,Sint-Margarethakerk
+297,3600,50.9638924,5.500857199,Winterslag,Sint-Martinuskerk
+298,9000,51.05654622,3.727652208,Ghent,Saint James' Church
+299,2275,51.21604619,4.865173358,Poederlee,Heerlekapel
+300,3740,50.88074727,5.571882787,Eigenbilzen,Kapel O.L. Vrouw van Rust
+301,9290,51.04547261,3.943889676,Overmere,d' Oude Kapel
+302,3590,50.90815927,5.41962949,Diepenbeek,Sint-Servaaskerk
+303,2800,51.01862123,4.473184063,Mechelen,Sint-Jan Berchmanskerk
+304,8970,50.86557757,2.716737651,Poperinge,0
+305,2018,51.20925194,4.409604975,Antwerp,Kapel van het Allerheiligste Sacrament
+306,9960,51.22795517,3.750777104,Assenede,0
+307,3600,50.97178053,5.507904831,Winterslag,0
+308,9420,50.94039112,3.955106437,Erondegem,Sint-Pietersbandenkerk
+309,9700,50.83428643,3.622635085,Edelare,Sint-Martinuskerk
+310,3000,50.87523291,4.707540265,Leuven,Onze-Lieve-Vrouw van de Rozenkranskapel
+311,2370,51.32004332,5.085885275,Arendonk,Onze-Lieve-Vrouw en Sint-Jobkerk
+312,2580,51.05733295,4.671402603,Beerzel,Sint-Remigiuskerk
+313,2820,51.00099539,4.583623021,Rijmenam,Sint-Martinuskerk
+314,9031,51.049883,3.662125195,Ghent,Sint-Jozefskapel
+315,2200,51.18529769,4.836746542,Herentals,Sint Elisabeth
+316,2275,51.22682854,4.835427099,Poederlee,Sint-Jan Baptistkerk
+317,3400,50.77104726,5.025608728,Laar,Sint-Trudokerk
+318,3890,50.75037151,5.135334648,Gingelom,Sint-Petruskerk
+319,3806,50.77902811,5.133545597,Velm,Sint-Martinuskerk
+320,2440,51.16674501,4.945473182,Larum,Onze-Lieve-Vrouw Bezoekingskerk
+321,2275,51.2189195,4.832953673,Poederlee,Heggekapel
+322,2950,51.31641908,4.426833862,Kapellen,Sint-Jacobuskerk
+323,2940,51.3068007,4.404760905,Hoevenen,Onze-Lieve-Vrouw-Geboortekerk
+324,2440,51.09888145,4.948599528,Zammel,Sint-Laurentiuskerk
+325,9040,51.06516932,3.770462068,Ghent,Heilig Kruiskerk
+326,8972,50.92000611,2.624774297,Roesbrugge-Haringe,Sint-Martinuskerk
+327,9200,50.99641016,4.069234641,Mespelare,Sint-Aldegondiskerk
+328,3830,50.82764247,5.301784725,Berlingen,Kapel van Oetersloven
+329,3724,50.84045128,5.42950473,Kortessem,Sint-Agapituskerk
+330,9881,51.08792214,3.491082041,Bellem,Onze-Lieve-Vrouw Geboortekerk
+331,8720,50.93427551,3.432566553,Dentergem,Sint-Martinuskerk
+332,9260,51.01394655,3.928273259,Schellebelle,Sint-Jan Onthoofdingkerk
+333,9300,50.93112927,4.025613963,Aalst,St Jobkapel
+334,2260,51.108873,4.920982431,Tongerlo,Kapel van Onze-Lieve-Vrouw ten Eik
+335,9280,51.00139379,4.084052073,Lebbeke,Sint-Martinuskerk
+336,9000,51.0629447,3.710605171,Ghent,Sint-Jozefskerk
+337,9032,51.07863648,3.713194639,Ghent,Sint-Godelieve kerk
+338,9340,50.9603637,3.952076336,Impe,Sint-Denijskerk
+339,9860,50.92538606,3.790213279,Balegem,Sint-Martinuskerk
+340,9860,50.95633839,3.830334669,Oosterzele,0
+341,9000,51.05299579,3.727199683,Ghent,Saint Bavo Cathedral
+342,9270,51.02972407,3.850739083,Laarne,Sint-Machariuskerk
+343,9320,50.92346961,4.004172724,Nieuwerkerken,Onze-Lieve-Vrouw Hemelvaartkerk
+344,3012,50.8968818,4.703264755,Leuven,Sint-Martinuskerk
+345,3384,50.86482216,4.930253721,Attenrode,Kapel van Onze-Lieve-Vrouw van de Heinkensberg
+346,2000,51.22032067,4.401294395,Antwerp,Cathedral of Our Lady
+347,9700,50.84256306,3.603146133,Oudenaarde,Sint-Walburgakerk
+348,3740,50.8814253,5.537564345,Munsterbilzen,Sint-Rochuskapel
+349,3960,51.12094873,5.638042916,Opitter,Kapel Onze-Lieve-Vrouw Ter Heibaan
+350,1501,50.74725799,4.265316401,Buizingen,Don Boscokerk
+351,3040,50.81716417,4.625721699,Neerijse,Sint-Pieter en Pauwelkerk
+352,9620,50.86922091,3.810936385,Zottegem,Onze-Lieve-Vrouw-Hemelvaartkerk
+353,9620,50.88926437,3.808837534,Elene,Onze-Lieve-Vrouw-Geboorte en Sint-Jozefkerk
+354,2000,51.2164812,4.397969838,Antwerp,Sint-Andrieskerk
+355,1861,50.95774196,4.287343454,Wolvertem,Onze-Lieve-Vrouw Boodschapkerk
+356,9300,50.94156678,4.053740819,Aalst,Onze-Lieve-Vrouw van Bijstandkerk
+357,9500,50.77237609,3.890248172,Geraardsbergen,Kapel Onze-Lieve-Vrouw-van-Oudeberg
+358,9550,50.84910336,3.924938248,Sint-Antelinks,Sint-Gertrudiskerk
+359,9500,50.77263428,3.876918846,Geraardsbergen,0
+360,3717,50.72701019,5.427236832,Herstappe,Sint-Jan-de-Doperkerk
+361,1730,50.90426186,4.166255724,Asse,Heilige Familiekerk
+362,3530,51.04156384,5.34631241,Houthalen,Sint-Antoniuskerk
+363,2880,51.06030258,4.189506042,Mariekerke,Onze-Lieve-Vrouw-ten-Hemelopgenomenkerk
+364,2800,51.040955,4.44381241,Mechelen,Sint-Jozefkerk
+365,3631,50.94121668,5.719979494,Maasmechelen,Sint-Joriskerk
+366,2900,51.25048771,4.484290816,Schoten,Sint-Filippuskerk
+367,3320,50.78733353,4.874062493,Hoegaarden,Sint-Catharinakapel
+368,9000,51.05396769,3.722955552,Ghent,Saint Nicholas' Church
+369,3560,51.01345403,5.22655095,Lummen,Sint-Rochuskerk
+370,2811,51.03312062,4.419101268,Mechelen,Sint-Niklaaskerk
+371,9940,51.14316616,3.765768188,Evergem,Sint-Petrus en Pauluskerk
+372,3700,50.74964769,5.490128935,Vreren,Kapel van Onze-Lieve-Vrouw van Zeven Weeën
+373,2830,51.05307165,4.355607526,Willebroek,0
+374,2860,51.04060933,4.512737882,Sint-Katelijne-Waver,Vzw Borgerstein
+375,8434,51.16890057,2.776558367,Westende-Bad,0
+376,3600,50.97360272,5.519317557,Winterslag,Onze-Lieve-Vrouw van Fatimakerk
+377,3001,50.86398489,4.69309012,Leuven,Sint-Lambertuskerk
+378,9051,51.02246353,3.692560249,Ghent,Putkapel
+379,9000,51.08724788,3.727811858,Ghent,Sint-Antonius Abtkerk
+380,3732,50.84088538,5.450630355,Schalkhoven,Sint-Brixiuskerk
+381,9620,50.85939921,3.820717974,Godveerdegem,Sint-Paulus-Bekeringskerk
+382,3960,51.13203236,5.580110236,Bree,Klooster Gerkenberg
+383,9052,51.02113174,3.698632455,Ghent,Don Bosco Kapel (Maria Hulp van de Christenen)
+384,3293,50.97915168,5.019301818,Kaggevinne,Heilig Kind Jezuskerk
+385,9090,50.98421601,3.798043283,Gontrode,Sint-Baafskerk
+386,9255,51.01534121,4.202862086,Buggenhout,Sint-Niklaaskerk
+387,9041,51.08287769,3.763545967,Ghent,Oostakker Basilica
+388,9810,50.95634405,3.642392961,Eke,Sint-Amanduskerk
+389,8620,51.13041053,2.778658349,Nieuwpoort,Sint-Joriskerk
+390,3668,51.01568955,5.600060087,Niel-bij-As,Sint-Nicolaas van Tolentijnkerk
+391,1930,50.88116699,4.502753658,Nossegem,Sint-Lambertuskerk
+392,1950,50.86232134,4.466342301,Kraainem,Sint-Pancratiuskerk
+393,8193,50.90600034,3.404005889,Sint-Eloois-Vijve,Sint-Eligiuskerk
+394,8552,50.76833102,3.397871723,Moen,Sint-Eligiuskerk
+395,8930,50.79450668,3.122720873,Menin,Sint-Vedastuskerk
+396,9620,50.83143101,3.784870867,Sint-Maria-Oudenhove,0
+397,3960,51.12671693,5.659986749,Tongerlo,Sint-Pieterskerk
+398,3520,50.98741264,5.411313734,Zonhoven,Kerk Maagd der Armen
+399,8490,51.18913349,3.142898606,Varsenare,Sint-Mauritiuskerk
+400,2880,51.09397662,4.226184989,Bornem,Sint-Bernardusabdij
+401,9120,51.18150395,4.241057134,Haasdonk,Sint-Jacobuskerk
+402,3090,50.77050273,4.603004705,Terlanen,Sint-Michielskerk
+403,3920,51.22907917,5.28343149,Lommel,Sint-Pauluskerk
+404,9500,50.76513138,3.839208541,Geraardsbergen,Sint-Bavokerk
+405,9403,50.80303276,4.060133524,Neigem,Sint-Margarethakerk
+406,1730,50.91018723,4.202090863,Asse,0
+407,3581,51.08721109,5.220151876,Beringen,Sint-Lambertuskerk
+408,1800,50.92717963,4.455009954,Peutie,Sint-Martinuskerk
+409,2800,51.03186138,4.476396855,Mechelen,Sint-Katelijnekerk
+410,1540,50.7006883,4.038304464,Enghien,0
+411,9060,51.20026653,3.812131128,Zelzate,Sint-Laurentiuskerk
+412,9890,50.9428823,3.66326545,Semmerzake,Sint-Pietersbandenkerk
+413,1731,50.886357,4.262797484,Zellik,Sint-Bavokerk
+414,8956,50.78383886,2.826284652,Kemmel,Sint-Laurentiuskerk
+415,9700,50.83906711,3.644094761,Volkegem,Sint-Martinuskerk
+416,3580,51.04838466,5.224881783,Beringen,Sint-Pietersbandenkerk
+417,1840,51.02706842,4.294019086,Londerzeel,Sint-Jozefkerk
+418,2870,51.04442163,4.326253642,Breendonk,Sint-Leonarduskerk
+419,9860,50.96812331,3.793033056,Landskouter,Sint-Agathakerk
+420,1541,50.70755564,3.989996621,Sint-Pieters-Kapelle,Sint-Pieterskerk
+421,1547,50.72079295,3.908144995,Bever,Sint-Gereonkerk
+422,8470,51.13747864,2.920477176,Zevekote,Onze-Lieve-Vrouwkerk
+423,9040,51.0569538,3.747730529,Ghent,Begijnhofkerk Sint-Elisabeth
+424,9130,51.25510981,4.187959537,Verrebroek,Sint-Laurentiuskerk
+425,3090,50.75475106,4.568007077,Tombeek,Sint-Bernarduskerk
+426,9200,51.02716593,4.097736404,Dendermonde,Begijnhofkerk
+427,3950,51.17249045,5.578802302,Bocholt,Sint-Laurentiuskerk
+428,3740,50.90349589,5.4732664,Bilzen,Onze-Lieve-Vrouw Maagd der Armenkerk
+429,8860,50.87194349,3.24095081,Lendelede,Sint-Katrienkerk
+430,9940,51.15515802,3.733237185,Kluizen,Onze-Lieve-Vrouw-Geboortekerk
+431,9750,50.90393314,3.654072537,Kruisem,Sint-Baafskerk
+432,9451,50.89001346,3.992263591,Kerksken,Sint-Martinuskerk
+433,2610,51.17930938,4.39094794,Antwerp,Onze-Lieve-Vrouw van de Rozenkranskerk
+434,2400,51.19253939,5.150437353,Mol,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+435,8582,50.75524542,3.430056111,Outrijve,Sint-Petruskerk
+436,9690,50.78915068,3.570604852,0,Sint-Jan-in-de-Oliekerk
+437,8970,50.8820526,2.695729186,Poperinge,De Lovie
+438,3530,51.04329329,5.381199091,Houthalen,Kerkje van Laak
+439,8820,51.08542773,3.096870819,Wijnendale,Sint-Jozef Arbeiderkerk
+440,3630,50.97643877,5.71458261,Vucht,Sint-Remigiuskerk
+441,9320,50.92342277,4.053815743,Erembodegem,Kapel Onze-Lieve-Vrouw Termuren
+442,9500,50.76851247,3.857730761,Geraardsbergen,0
+443,9400,50.83326355,4.023828468,Ninove,0
+444,1731,50.88338315,4.276479858,Zellik,0
+445,1730,50.91100257,4.196071917,Asse,Sint-Martinuskerk
+446,1640,50.75633448,4.382134913,Sint-Genesius-Rode,Onze-Lieve-Vrouw Oorzaak onzer Blijdschapkerk - Église Notre Dame Cause de Notre Joie
+447,2430,51.08604438,5.069904005,Vorst,Sint-Niklaaskerk
+448,3590,50.90746067,5.424320614,Diepenbeek,0
+449,9340,50.96616275,3.978278184,Lede,Sint-Martinuskerk
+450,9300,50.9407576,4.016531514,Aalst,Sint-Annakerk
+451,8470,51.1746603,2.937110951,Snaaskerke,Sint-Corneliuskerk
+452,8400,51.22502274,2.91352049,Ostend,Sint-Jozefkerk
+453,3665,51.00862602,5.585623963,As,Sint-Aldegondiskerk
+454,2640,51.16545415,4.463348115,Mortsel,Sint-Benedictuskerk
+455,3010,50.87736801,4.753227262,Leuven,0
+456,9280,50.97967948,4.079921567,Lebbeke,Sint-Salvatorkerk
+457,3700,50.80597672,5.462064035,Riksingen,Sint-Gertrudiskerk
+458,3090,50.77260359,4.538156228,Overijse,Sint-Martinuskerk
+459,3740,50.87063368,5.51766663,Bilzen,Sint-Mauritiuskerk
+460,9310,50.96361025,4.06153406,Herdersem,ten Beeldeken
+461,9270,51.03667034,3.918620083,Kalken,Sint-Denijskerk
+462,8510,50.76854945,3.262743421,Kortrijk,Sint-Antonius Abtkerk
+463,1755,50.79236232,4.082354817,Gooik,Onze-Lieve-Vrouw van Goede BijstandKerk
+464,3540,50.94063335,5.166837477,Herk-de-Stad,Sint-Martinuskerk
+465,3600,50.97346987,5.518639394,Bret,0
+466,9200,51.05413647,4.106767248,Grembergen,Sint-Margrietkerk
+467,1830,50.91259376,4.435146946,Machelen,Sint Gertrudiskerk
+468,3370,50.82025761,4.810681904,Neervelp,Sint-Remigiuskerk
+469,1570,50.73025885,3.967900792,Tollembeek,Onze-Lieve-Vrouwkapelanij
+470,9160,51.08581465,3.958826071,Lokeren,Heilig Hartkerk
+471,8958,50.78229027,2.772331816,Loker,Sint-Petruskerk
+472,9200,51.009379,4.061580663,Oudegem,Onze-Lieve-Vrouw-Hemelvaartkerk
+473,9700,50.85220805,3.611446297,Oudenaarde,Sint-Jozefskerk
+474,3000,50.87317063,4.699705091,Leuven,Amerikaans College
+475,9620,50.85544168,3.81436527,Erwetegem,Sint-Pieters-Bandenkerk
+476,1570,50.74080922,4.006529664,Tollembeek,Sint-Martinuskerk
+477,9120,51.22590414,4.267328365,Melsele,Kapel Onze-Lieve-Vrouw van Gaverland
+478,2660,51.1771001,4.350791716,Antwerp,Onze Lieve-Vrouwekerk
+479,2400,51.211403,5.134157578,Mol,Sint-Bernarduskerk
+480,2540,51.14424553,4.465587698,Hove,Sint-Jozefkerk
+481,3980,51.06777345,5.088544685,Tessenderlo,Sint-Martinuskerk
+482,3290,51.02058093,5.117235805,Schaffen,Heilige-Familiekerk
+483,9950,51.15187052,3.606113927,Waarschoot,Sint-Ghislenuskerk
+484,3620,50.90736096,5.68758037,Neerharen,Sint-Lambertuskerk
+485,2890,51.06596948,4.244562258,Oppuurs,Sint-Johannes en Amanduskerk
+486,2800,51.01271115,4.482863794,Mechelen,Sint-Jozef-Colomakerk
+487,8940,50.81578622,3.021190442,Wervik,Heilig Hartkerk
+488,2812,51.01108238,4.503913449,Mechelen,0
+489,3730,50.85786397,5.459561079,Romershoven,Sint-Jan Baptistkerk
+490,9961,51.25769912,3.717790937,Boekhoute,Heilig Kruiskerk
+491,3690,50.93198265,5.571477643,Zutendaal,Onze-Lieve-Vrouwekerk
+492,2620,51.14362762,4.345663779,Hemiksem,Sint-Niklaaskerk
+493,2600,51.19273603,4.420993727,Antwerp,Sint-Willibrorduskerk
+494,9820,50.99457311,3.746419324,Merelbeke,Sint-Pietersbandenkerk
+495,3020,50.89816603,4.643938842,Winksele,Maria Hemelvaartkerk
+496,3080,50.81583402,4.552589678,Duisburg,Sint-Katharinakerk
+497,3211,50.87107594,4.883672998,Binkom,Sint-Jan Baptistkerk
+498,9000,51.05434334,3.736487482,Ghent,Sint-Machariuskerk
+499,9090,51.00451549,3.803067622,Melle,Sint-Martinuskerk
+500,3000,50.87688691,4.7111938,Leuven,Sint-Jozefskerk
+501,9860,50.94545082,3.80373573,Oosterzele,Sint-Gangulphuskerk
+502,9500,50.76234709,3.864085795,Geraardsbergen,Sint-Aldegondekerk
+503,9620,50.8680622,3.787604952,Strijpen,Sint-Andreaskerk
+504,9250,51.11431189,4.124888912,Sombeke,Sint-Rochuskerk
+505,9420,50.93426032,3.947247084,Ottergem,Sint-Paulus-Bekeringkerk
+506,3401,50.7294188,5.063723034,Waasmont,Sint-Pancratiuskerk
+507,3770,50.78700381,5.599191933,Val-Meer,0
+508,3700,50.77925954,5.46936941,Tongeren,Sint-Catharinakerk
+509,9550,50.88752472,3.890238212,Herzele,Begraafplaats Herzele
+510,8340,51.25025302,3.281998805,Damme,Godshuizen Sint-Janshospitaal
+511,2100,51.22091072,4.454928453,Antwerp,Sint-Fredeganduskerk
+512,8480,51.12994746,3.026794601,Ichtegem,Sint-Medarduskerk
+513,3560,50.96587061,5.137581426,Linkhout,Sint-Trudokerk
+514,9220,51.07589556,4.095952145,Hamme,Onze-Lieve-Vrouw Hulp der Christenenkerk
+515,3300,50.7988179,4.890233532,Oorbeek,Sint-Joriskerk
+516,9688,50.77254936,3.677001192,Maarkedal,0
+517,3930,51.27466273,5.474677463,Achel,Heilige Kruisvindingskerk
+518,3770,50.78466391,5.560857371,Millen,Sint-Stefanuskerk
+519,3620,50.89556989,5.636715568,Lanaken,0
+520,9406,50.84151705,3.99984838,Outer,Sint-Amanduskerk
+521,1840,50.995529,4.267843481,Steenhuffel,Sint-Genovevakerk
+522,3700,50.79037542,5.49326143,Berg,Sint-Martinuskerk
+523,9051,51.02285197,3.670434968,Ghent,Sint-Denijskerk
+524,9160,51.14630994,3.955641819,Eksaarde,Kapel Sint-Teresiacollege
+525,3631,50.92415294,5.725586464,Maasmechelen,Sint-Niklaaskerk
+526,2140,51.20983038,4.452842367,Antwerp,Onze-Lieve-Vrouw van het Heilig Hartkerk
+527,9111,51.1649601,4.115715821,Belsele,Wijkkerk Pastoor Van Ars
+528,9750,50.89916225,3.590439454,Huise,Sint-Petrus en Urbanuskerk
+529,8501,50.83180998,3.245685123,Kortrijk,klooster OLV Fatima
+530,3000,50.88391666,4.697558203,Leuven,0
+531,9620,50.87415336,3.816930895,Zottegem,0
+532,9400,50.8339624,4.023707807,Ninove,0
+533,1500,50.76098328,4.200198548,Halle,Heilig Hartkerk
+534,9500,50.75333431,3.91935402,Geraardsbergen,Onze-Lieve-Vrouw Geboortekerk
+535,9700,50.84264754,3.663004933,Mater,Sint-Martinuskerk
+536,3700,50.79913141,5.470487214,Henis,Sint-Hubertuskerk
+537,9506,50.78813962,3.989850078,Geraardsbergen,Sint-Jan-Baptistkerk
+538,9660,50.83308036,3.764346952,Michelbeke,Sint-Sebastiaankerk
+539,9400,50.85538733,4.055976056,Okegem,Onze-Lieve-Vrouw Opdrachtkerk
+540,2050,51.21853274,4.381576442,Antwerp,Sint-Anna-ten-Drieënkerk
+541,3510,50.94963679,5.230776515,Hasselt,Onze-Lieve-Vrouw-Boodschapskerk
+542,9940,51.10931116,3.707985848,Evergem,Sint-Christoffelkerk
+543,9250,51.11489145,4.042081043,Ruiter,Sint-Jan-Baptistkerk
+544,3740,50.88916079,5.526159982,Munsterbilzen,Onze-Lieve-Vrouw-Tenhemelopnemingskerk
+545,9820,50.97135916,3.714940272,Schelderode,Sint-Martinuskerk
+546,9190,51.20689841,4.04072244,Stekene,Heilig Kruiskerk
+547,8670,51.13064682,2.67325002,Oostduinkerke,Mariakapel
+548,8430,51.18183952,2.815423587,Middelkerke,BuSO Ter Strepe
+549,9420,50.92305033,3.971507315,Erpe-Mere,Sint-Bavokerk
+550,3630,50.94167193,5.680849107,Maasmechelen,Sint-Christoffelkerk
+551,3630,50.99196712,5.736621457,Leut,Sint-Pieterskerk
+552,9420,50.9334663,3.976677384,Erpe,Sint-Martinuskerk
+553,8500,50.82638049,3.277375625,Kortrijk,0
+554,8500,50.8334345,3.259740659,Kortrijk,Sint-Elooiskerk
+555,3211,50.87767634,4.892704868,Binkom,St.-Rochus kapel
+556,3300,50.83575249,4.910639818,Vissenaken,Sint-Pieterskerk
+557,3300,50.80344781,4.958605457,Tienen,Necropolis
+558,9620,50.89890846,3.837603246,Oombergen,Sint-Martinuskerk
+559,2060,51.22089878,4.42228923,Antwerp,Heilig-Hartkerk
+560,9506,50.80303098,3.966698351,Geraardsbergen,Onze-Lieve-Vrouwekerk
+561,8792,50.88641943,3.350011947,Desselgem,Sint-Martinuskerk
+562,8581,50.78960061,3.487591099,Kerkhove,Onze-Lieve-Vrouw en Sint-Eligiuskerk
+563,9860,50.95910212,3.780669237,Moortsele,Sint-Amanduskerk
+564,3890,50.70403019,5.17180711,Gingelom,Heilig-Kruiskerk
+565,3660,51.03114112,5.536155742,Opglabbeek,Onze-Lieve-Vrouw der Kempenkerk
+566,3630,50.960989,5.700683939,Maasmechelen,Sint-Monulphus en Gondulphuskerk
+567,9160,51.09241501,3.996318781,Lokeren,Sint-Jozefskerk
+568,9552,50.90448384,3.893435212,Borsbeke,0
+569,8952,50.75980762,2.85446648,Wulvergem,Sint-Machutuskerk
+570,8800,50.90538261,3.143655588,Rumbeke,0
+571,9500,50.76908827,3.918408023,Geraardsbergen,Onze-Lieve-Vrouwkerk
+572,9111,51.1734809,4.070397954,Belsele,Sint-Jobkerk
+573,8620,51.12885992,2.7509411,Nieuwpoort,Onze-Lieve-Vrouwekerk
+574,8400,51.21452715,2.909984851,Ostend,Sint-Jan Baptistkerk
+575,3630,50.99407135,5.686213315,Eisden,Sint-Barbarakerk
+576,9120,51.20780009,4.238785417,Beveren,Onze Lieve Vrouw van Bijstandkerk
+577,2100,51.20501,4.465062639,Antwerp,Sint-Rochuskerk
+578,3910,51.1981892,5.443113305,Neerpelt,0
+579,8950,50.74581163,2.826595381,Heuvelland,Onze-Lieve-Vrouwkerk
+580,8970,50.8170215,2.764253581,Reninghelst,Sint-Vedastuskerk
+581,8972,50.8909733,2.656854036,Proven,Sint-Victorkerk
+582,9630,50.89019415,3.706485898,Sint-Maria-Latem,Onze-Lieve-Vrouw van VII Weeënkerk
+583,1630,50.77190224,4.336046679,Linkebeek,Sint-Sebastiaankerk - Église Saint-Sébastien
+584,9940,51.17432598,3.785782061,Ertvelde,Sint-Barbarakerk
+585,3740,50.89766312,5.512206154,Munsterbilzen,Onze-Lieve-Vrouwekapel
+586,3740,50.87314798,5.559365104,Hoelbeek,Sint-Adrianuskerk
+587,8620,51.15497167,2.7415184,Nieuwpoort,Kwartier Kamp van Lombardsijde
+588,1730,50.91002429,4.25058138,Kobbegem,Sint-Goriks- en Magdalenakerk
+589,1602,50.805401,4.233254291,Vlezenbeek,Onze-Lieve-Vrouw ten Hemel Opgenomenkerk
+590,2100,51.1966223,4.45998718,Antwerp,Sint-Jozefskerk
+591,3001,50.85125464,4.673954518,Leuven,Filosofenfontein
+592,9000,51.04471615,3.698152652,Ghent,0
+593,1570,50.76049011,3.992697048,Galmaarden,0
+594,9506,50.77793531,3.968726321,Geraardsbergen,Sint-Amanduskerk
+595,9290,51.04113,3.984646139,Berlare,Bareldonkkapel
+596,3550,51.01162791,5.28301098,Heusden-Zolder,Heilig-Hartkerk
+597,3740,50.83814285,5.54698434,Kleine-Spouwen,Sint-Aldegondiskerk
+598,8377,51.23624799,3.110834854,Houtave,Sint-Bavo-en-Sint-Machutuskerk
+599,8400,51.22124196,2.906033605,Ostend,Heilig Hartkerk
+600,3600,51.00936664,5.513400025,Genk,Sint-Albertuskerk
+601,3665,51.00607352,5.583994873,As,Sint-Theresiakerk
+602,3990,51.08539721,5.466827862,Peer,Sint-Jozefkerk
+603,9790,50.84876746,3.570535645,0,Kapel Onze-Lieve-Vrouw-ten-Doorn
+604,9340,50.95744385,3.902092559,Oordegem,Sint-Martinuskerk
+605,2900,51.24965768,4.49933727,Schoten,Sint-Cordulakerk
+606,8550,50.81311728,3.333357364,Zwevegem,Sint-Amanduskerk
+607,8510,50.77754255,3.279852796,Kortrijk,Sint-Amanduskerk
+608,9340,50.97425424,3.956429734,Wanzele,Sint-Baafskerk
+609,2440,51.12778856,5.009377665,Winkelomheide,Heilig-Hartkerk
+610,1970,50.82889224,4.504348737,Oppem,Heilig Hartcollege
+611,3798,50.75926702,5.758317222,'s-Gravenvoeren,0
+612,9620,50.88301354,3.783302075,Velzeke-Ruddershove,Sint-Martinuskerk
+613,9506,50.79524306,3.951253751,Geraardsbergen,Onze-Lieve-Vrouwekerk
+614,8551,50.78167765,3.411708975,Heestert,Onze-Lieve-Vrouw-Hemelvaartkerk
+615,3300,50.81272747,4.928869087,Tienen,Heilig-Hartkerk
+616,3582,51.05900658,5.27279865,Beringen,Sint-Brigidakerk
+617,9000,51.06330122,3.692138247,Ghent,Sint-Theresia van het Kind Jezuskerk
+618,3620,50.86543951,5.632320609,Veldwezelt,Sint-Lambertuskerk
+619,9230,50.98101796,3.872503035,Massemen,Sint-Martinuskerk
+620,1547,50.7167527,3.939493495,Bever,Sint-Martinuskerk
+621,8420,51.25905317,3.003835646,Vosseslag,0
+622,3600,50.97810665,5.512637918,Winterslag,Huize Montfort - klooster
+623,8550,50.79783928,3.36157202,Zwevegem,Sint-Maria-Bernardakerk
+624,3384,50.87736773,4.923297635,Attenrode,Sint-Andreaskerk
+625,8560,50.84059873,3.16379556,Moorsele,Sint-Martinus- en Sint-Christoffelkerk
+626,9660,50.82049336,3.717670392,Zegelsem,Het Groene Lilare
+627,9052,51.00092556,3.716493755,Ghent,Sint-Niklaaskerk
+628,2801,51.04709307,4.422598787,Mechelen,Sint-Amanduskerk
+629,3740,50.89669168,5.506409433,Bilzen,Sint-Jozefkerk
+630,1502,50.71363947,4.223692228,Lembeek,Sint-Veronuskerk
+631,3600,50.99951482,5.508080721,Winterslag,Sint-Jozef Werkmankerk
+632,9921,51.08708811,3.641280612,Vinderhoute,Sint-Bavokerk
+633,9800,50.98709836,3.526341431,Deinze,Leiepoort Campus Sint-Theresia
+634,3010,50.8861356,4.74281741,Leuven,Broeders Maristen
+635,3900,51.20990326,5.382672394,Overpelt,Sint-Barbarakerk
+636,3900,51.19306391,5.405408788,Overpelt,Sint-Corneliuskerk
+637,9600,50.74511461,3.605926203,Ronse,0
+638,3640,51.13269343,5.809407579,Ophoven,Sint-Lambertuskerk
+639,9700,50.87830281,3.656161511,Welden,Sint-Martinuskerk
+640,3290,50.98800923,5.060825673,Diest,Sint-Catharinakerk
+641,3540,50.95058936,5.208229065,Berbroek,Onze-Lieve-Vrouw Geboortekerk
+642,2830,51.08025622,4.365439382,Willebroek,Harmonium Art Museum
+643,1745,50.96942967,4.188987891,Opwijk,Sint-Pauluskerk
+644,9310,50.95484806,4.141792616,Baardegem,Sint-Margarethakerk
+645,9220,51.09447249,4.075395784,Waasmunster,0
+646,8210,51.12647539,3.157519329,Zedelgem,Sint-Eligiuskerk
+647,3621,50.92232458,5.694304922,Lanaken,Sint-Pieterskerk
+648,3630,51.00087282,5.747087233,Meeswijk,Sint-Laurentiuskerk
+649,1731,50.90023591,4.280371951,Relegem,Sint-Jan De Doperkerk
+650,8930,50.78602732,3.162614812,Rekkem,Sint-Niklaaskerk
+651,1570,50.73871776,3.966194702,Galmaarden,0
+652,3960,51.12210549,5.591387061,Bree,Onze-Lieve-Vrouw van het Heilig Hartkerk
+653,9600,50.75192964,3.629287673,Ronse,Sint-Pieterkerk
+654,9200,51.02660133,4.124593363,Sint-Gillis-bij-Dendermonde,Sint-Lutgartkerk
+655,8490,51.16607761,3.070218308,Zerkegem,Sint-Vedastuskerk
+656,1540,50.74810609,4.096616765,Herfelingen,Sint-Niklaaskerk
+657,9472,50.87376698,4.04720052,Iddergem,Sint-Amanduskerk
+658,3700,50.78241006,5.468427324,Tongeren,0
+659,3670,51.08925102,5.587520392,Gruitrode,Sint-Gertrudiskerk
+660,9630,50.87905091,3.733130684,Zwalm,Sint-Mattheuskerk
+661,9630,50.86627166,3.753290537,Zwalm,Sint-Denijskerk
+662,9404,50.84181243,3.957349682,Aspelare,Sint-Amanduskerk
+663,3740,50.87159252,5.519537186,Bilzen,0
+664,9690,50.77332346,3.485867212,0,Sint-Corneliuskerk
+665,2890,51.05641143,4.201696763,Puurs-Sint-Amands,Sint-Amandskerk
+666,3770,50.83409358,5.588746182,Vlijtingen,Sint-Albanuskerk
+667,3700,50.7682024,5.521753515,Mal,Kruisvindingskerk
+668,1500,50.7194593,4.258431608,Halle,Sint-Jozef en Sint-Franciscuskerk
+669,2018,51.20580481,4.410730328,Antwerp,Heilige Geestkerk
+670,9890,50.94562038,3.684471812,Vurste,Sint-Martinuskerk
+671,3920,51.23218141,5.337575885,Lommel,Maagd Der Armenkerk
+672,8951,50.76635165,2.783481455,Dranouter,Sint-Jan Baptistkerk
+673,9700,50.84319412,3.662861617,Mater,Sint-Amelbergakapel
+674,9680,50.79709092,3.648836772,Maarkedal,Sint-Petruskerk
+675,9667,50.83511172,3.697449746,Sint-Kornelis-Horebeke,Sint-Korneliskerk
+676,2170,51.2415758,4.440458077,Antwerp,Sint-Bartholomeuskerk
+677,3550,51.03393512,5.282074616,Heusden-Zolder,Sint-Willibrorduskerk
+678,3980,51.06623324,5.035018605,Tessenderlo,Sint-Jozefskerk
+679,1785,50.95914454,4.233640527,Merchtem,Onze-Lieve-Vrouw-ter-Noodtkerk
+680,2890,51.04317113,4.26286799,Lippelo,Sint-Stephanuskerk
+681,9185,51.20074807,3.889127385,Overslag,Onze-Lieve-Vrouw-Geboortekerk
+682,9521,50.92695138,3.880564122,Sint-Lievens-Houtem,Heilige Kruisverheffingkerk
+683,1500,50.73728601,4.237955153,Halle,0
+684,2570,51.09403817,4.51036598,Duffel,Onze-Lieve-Vrouw van Goede Wilkerk
+685,3050,50.83833216,4.662453086,Oud-Heverlee,Sint-Annakerk
+686,9451,50.88938425,3.988703711,Kerksken,Kerkskensveldweg
+687,3620,50.90125872,5.654859895,Lanaken,0
+688,3001,50.86477727,4.717628983,Leuven,Abdijkerk Sint-Jan Evangelist
+689,9450,50.88158369,3.954793931,Heldergem,Sint-Amanduskerk
+690,3840,50.79868221,5.329341395,Hendrieken,Sint-Lambertuskerk
+691,2870,51.0602495,4.280667491,Liezele,Sint-Jozefkerk
+692,9820,50.97951979,3.77225205,Lemberge,Sint-Aldegondiskerk
+693,8430,51.18467882,2.820549212,Middelkerke,Sint-Willibrorduskerk
+694,3680,51.04305431,5.624232648,Opoeteren,0
+695,8530,50.83119574,3.312932293,Harelbeke,Sint-Augustinuskerk
+696,1650,50.76695944,4.30760479,Beersel,Sint-Lambertuskerk
+697,2550,51.13496513,4.44548676,Kontich,Sint-Martinuskerk
+698,9111,51.14602155,4.088653365,Belsele,Sint-Andreas en Ghislenuskerk
+699,2000,51.21043024,4.396004201,Antwerp,Sint-Walburgiskerk
+700,9120,51.21911286,4.195306107,Vrasene,Heilig Kruiskerk
+701,3380,50.87293652,4.949013457,Glabbeek,Sint-Niklaaskerk
+702,3770,50.79204104,5.588519999,Val-Meer,Sint-Severinuskapel
+703,9230,51.00741643,3.885468545,Wetteren,Sint-Gertrudiskerk
+704,1652,50.73329019,4.325376932,Alsemberg,Sint-Elisabeth van Hongarijekerk
+705,1500,50.73678746,4.23741379,Halle,Sint-Martinusbasiliek
+706,8200,51.15968014,3.159173504,Zedelgem,Abbatiale Sint-Andriesbasiliek
+707,1703,50.82637885,4.209849869,Schepdaal,Sint-Gertrudiskerk
+708,1853,50.91001105,4.355623167,Strombeek-Bever,Sint-Amanduskerk
+709,3970,51.11745099,5.248726957,Leopoldsburg,0
+710,8902,50.83551646,2.922712089,Zillebeke,Sint-Catharinakerk
+711,1570,50.75594437,3.943229557,Galmaarden,Sint-Pauluskapel
+712,9600,50.75181968,3.63274419,Ronse,0
+713,9500,50.82184836,3.895005296,Geraardsbergen,Sint-Pietersbandenkerk
+714,9552,50.90486369,3.893642104,Borsbeke,Sint-Antoniuskerk
+715,9473,50.90092786,4.04506633,Welle,Sint-Pieters-Bandenkerk
+716,3840,50.79376726,5.361965496,Groot-Loon,Sint-Servatiuskerk
+717,1790,50.92442573,4.113939085,Hekelgem,Abdij van Affligem
+718,9080,51.11236447,3.812856075,Lochristi,Onze-Lieve-Vrouw Middelareskerk
+719,8433,51.15528457,2.847760769,Slijpe,Sint-Niklaaskerk
+720,8620,51.14576261,2.710883472,Nieuwpoort,Sint-Bernarduskerk
+721,1970,50.8421845,4.482549658,Oppem,Sint-Jozefskerk
+722,2650,51.15634056,4.450712601,Edegem,Onze-Lieve-Vrouw-van-Lourdesbasiliek
+723,2531,51.17521309,4.523335823,Vremde,Sint-Jan-in-de-Oliekerk
+724,3040,50.78996447,4.583905399,Huldenberg,Onze-Lieve-Vrouwekerk
+725,3360,50.85955835,4.763185868,Korbeek-Lo,Heilig Kruiskerk
+726,3640,51.14462991,5.7403581,Kinrooi,Sint-Martinuskerk
+727,9240,51.0853912,4.056427301,Zele,Heilig-Hartkerk
+728,3700,50.7862295,5.453890633,Tongeren,Sint-Gilliskerk
+729,8670,51.10058661,2.70041196,Koksijde,Sint-Willibrorduskerk
+730,9500,50.73835689,3.916912551,Geraardsbergen,Kapel van de Heilige Stede
+731,2140,51.22080455,4.441732192,Antwerp,Sint-Annakerk
+732,2440,51.16266754,5.002079571,Holven,Sint-Dimpnakerk
+733,9700,50.81595171,3.565277166,Melden,Sint-Martinuskerk
+734,3545,50.97969677,5.104185341,Zelem,Sint-Lambertuskerk
+735,9100,51.18658842,4.203895838,Sint-Niklaas,0
+736,1785,50.92719039,4.267435727,Brussegem,Sint-Stefanuskerk
+737,1860,50.93399032,4.32780533,Meise,Sint-Martinuskerk
+738,2850,51.09116382,4.393145999,Boom,Sint-Catharinakerk
+739,3210,50.88070427,4.843154494,Lubbeek,0
+740,3870,50.72854458,5.253913448,Rukkelingen-Loon,Sint-Quirinuskerk
+741,1640,50.74482176,4.345329352,Sint-Genesius-Rode,Sint-Genesiuskerk
+742,3560,51.02680251,5.207879677,Lummen,Sint-Lambertuskerk
+743,3290,50.97301104,5.072019881,Webbekom,Sint-Trudokerk
+744,1820,50.91689769,4.47581343,Melsbroek,Sint-Martinuskerk
+745,3770,50.81742124,5.534161034,Membruggen,Sint-Hubertuskerk
+746,9940,51.19084072,3.753709179,Ertvelde,Onze-Lieve-Vrouw van Stoepekapel
+747,8500,50.82789782,3.270502692,Kortrijk,0
+748,9040,51.06296254,3.749788693,Ghent,Sint-Amanduskapel
+749,9100,51.16647105,4.140398796,Sint-Niklaas,Collegekerk
+750,3001,50.86098259,4.660177572,Leuven,Sint-Michiel-en-Sint-Reneldiskerk
+751,3210,50.89584525,4.767534901,Linden,Sint-Kwintenkerk
+752,8900,50.84703925,2.889702279,Ypres,Sint-Pieterskerk
+753,8940,50.83854227,3.059391841,Wervik,0
+754,3700,50.80703663,5.496972059,'s Herenelderen,Sint-Stephanuskerk
+755,3700,50.78265893,5.476619256,Tongeren,Sint-Lutgartkerk
+756,9890,50.91308652,3.652426115,Asper,Sint Martinuskerk
+757,8500,50.81913144,3.281963389,Kortrijk,Sint-Elisabethkerk
+758,8531,50.87522486,3.311852422,Bavikhove,Sint-Amanduskerk
+759,8570,50.84821817,3.446492726,Anzegem,Sint-Theresiakerk
+760,3080,50.83468732,4.558431459,Vossem,Sint-Pauluskerk
+761,9700,50.86672209,3.63338423,Nederename,Sint-Vedastuskerk
+762,9636,50.88598484,3.685536349,Zwalm,Allerheiligenkerk
+763,2600,51.19471969,4.442751806,Antwerp,Heilig-Sacramentskerk
+764,2100,51.23020077,4.448404148,Antwerp,0
+765,8400,51.22975326,2.917769885,Ostend,0
+766,9860,50.93733956,3.784970849,Scheldewindeke,Sint-Christoffelkerk
+767,9940,51.17906205,3.747405455,Ertvelde,Onze-Lieve-Vrouw Hemelvaartkerk
+768,9240,51.06718031,4.074086044,Zele,Sint-Jozefkerk
+769,3550,51.02613823,5.240371361,Heusden-Zolder,Sint-Jacobuskerk
+770,3770,50.76836779,5.558786104,Riemst,0
+771,1755,50.81282827,4.080601352,Gooik,Woestijnkapel
+772,1755,50.77377507,4.062490657,Oetingen,0
+773,9450,50.8751896,4.014363454,Denderhoutem,0
+774,9630,50.86568785,3.711839804,Sint-Denijs-Boekel,Sint-Denijskerk
+775,9550,50.87259893,3.915804217,Woubrechtegem,Sint-Martinuskerk
+776,2850,51.08879178,4.3680999,Boom,0
+777,9830,51.02081909,3.640146129,Sint-Martens-Latem,Sint-Martinuskerk
+778,8490,51.18258869,3.093602169,Jabbeke,Sint-Blasiuskerk
+779,2627,51.12115763,4.326076121,Schelle,Onze-Lieve-Vrouw van Smartenkapel
+780,3370,50.83880716,4.83206409,Vertrijk,Sint-Hilariuskerk
+781,3300,50.79439842,4.981548224,Hakendover,Goddelijke Zaligmakerkerk
+782,9080,51.10715637,3.900057814,Zeveneken,Sint-Eligiuskerk
+783,1670,50.73510317,4.111764088,Heikruis,Sint-Bernarduskerk
+784,3001,50.87215243,4.7138123,Leuven,Sint-Antonius van Paduakerk
+785,8670,51.12016896,2.677990464,Oostduinkerke,Sint-Niklaaskerk
+786,9630,50.9055913,3.71654975,Beerlegem,Sint-Andreaskerk
+787,8210,51.10490598,3.160109716,Veldegem,Onze-Lieve-Vrouwekerk
+788,3545,50.94859454,5.114573606,Halen,Sint-Pieters-in-de-Bandenkerk
+789,1980,50.96164647,4.456336133,Zemst,Sint-Clemenskerk
+790,1982,50.97206648,4.47997845,Zemst,Sint-Martinuskerk
+791,9160,51.09814113,3.988288791,Lokeren,Heilig Hartkapel
+792,9630,50.88015356,3.734645176,Zwalm,Vredeskapel
+793,9550,50.89224226,3.885852201,Herzele,0
+794,3700,50.78089571,5.464638719,Tongeren,Onze-Lieve-Vrouwebasiliek
+795,3510,50.94770948,5.2532467,Hasselt,Onze-Lieve-Vrouw-Tenhemelopnemingskerk
+796,3500,50.92667472,5.328719815,Hasselt,Sint-Hubertuskerk
+797,9230,51.00868643,3.839742926,Wetteren,Sint-Annakerk
+798,9170,51.25636062,4.089706036,De Klinge,Onze-Lieve-Vrouw-Hemelvaartkerk
+799,9140,51.11457887,4.138362767,Elversele,Sint-Margrietkerk
+800,9860,50.97107212,3.815528163,Gijzenzele,Sint-Baafskerk
+801,8570,50.82819276,3.505746017,Gijzelbrechtegem,Sint-Mattheüskerk
+802,8500,50.82911189,3.281196673,Kortrijk,Sint-Janskerk
+803,3090,50.79886231,4.548886282,Eizer,Sint-Maria Magdalenakerk
+804,3471,50.86841432,4.985807037,Hoeleden,Sint-Amanduskerk
+805,3140,51.00300121,4.628616673,Keerbergen,Sint-Michielskerk
+806,3272,51.02094128,4.949868706,Testelt,Hoevekerk
+807,2280,51.19076171,4.737927699,Grobbendonk,Sint-Lambertuskerk
+808,2560,51.15094717,4.617160316,Kessel,Onze-Lieve-Vrouw Koningin van de Vredekerk
+809,2500,51.13050202,4.56639188,Lier,0
+810,2560,51.16915151,4.650887068,Nijlen,Sint-Pauluskerk
+811,8900,50.85513811,2.890083919,Ypres,VZW Wieltjesgracht
+812,3051,50.80341856,4.652954124,Sint-Joris-Weert,Sint-Joriskerk
+813,2570,51.09687331,4.555128425,Duffel,Sint-Franciscus van Saleskerk
+814,2000,51.20520074,4.393356421,Antwerp,Sint Michielskerk
+815,9140,51.11235402,4.175431022,Tielrode,Sint-Petruskerk
+816,8870,50.91858383,3.210162884,Izegem,Heilig-Hartkerk
+817,8470,51.12198479,2.955912981,Moere,Sint-Niklaaskerk
+818,8470,51.15757525,2.967786809,Gistel,Onze-Lieve-Vrouw-Tenhemelopnemingskerk
+819,2400,51.19717459,5.127640175,Mol,Sint-Jozef Ambachtsmankerk
+820,3300,50.76811959,4.952708428,Goetsenhoven,Sint-Laurentiuskerk
+821,3391,50.89555248,4.924361465,Meensel-Kiezegem,Sint-Mattheuskerk
+822,3620,50.88307918,5.606597413,Gellik,Sint-Laurentiuskerk
+823,9971,51.19470879,3.632411351,Lembeke,Sint-Egidiuskerk
+824,3770,50.82626239,5.640666498,Vroenhoven,Sint-Petrus en Pauluskerk
+825,8670,51.10298216,2.65417339,Koksijde,Sint-Pieterskerk
+826,9550,50.84854007,3.858157254,Sint-Lievens-Esse,Onze-Lieve-Vrouw van Fatimakerk
+827,2170,51.25383258,4.460244492,Antwerp,Sint-Jozefkerk
+828,8400,51.21408063,2.933920923,Ostend,Sint-Catharinakerk
+829,8434,51.16896457,2.77587188,Westende,Sint-Theresiakapel
+830,8770,50.94112627,3.248200254,Ingelmunster,Heilig Hartkerk
+831,1500,50.73122639,4.243927508,Halle,Sint-Rochuskerk
+832,3500,50.96320411,5.354480499,Hasselt,Sint-Lambertuskerk
+833,3680,51.07684666,5.795297327,Maaseik,Sint-Gertrudiskerk
+834,9880,51.04155548,3.44422067,Poeke,Sint-Lambertuskerk
+835,3700,50.74684933,5.45268053,Tongeren,0
+836,8850,50.97862879,3.197990412,Ardooie,Sint-Martinuskerk
+837,9620,50.85333258,3.819612751,Zottegem,0
+838,9080,51.13299316,3.862188711,Zaffelare,Onze-Lieve-Vrouw en Sint-Petruskerk
+839,3680,51.107643,5.695755737,Neeroeteren,Sint-Jozefkerk
+840,3770,50.80894625,5.602239562,Riemst,Sint-Martinuskerk
+841,9112,51.14404945,4.065991175,Sinaai,Sint-Franciscuskerk
+842,8978,50.85909155,2.664685142,Watou,Sint-Janskerk
+843,8570,50.81732801,3.434864628,Ingooigem,Sint-Antonius Abtkerk
+844,3621,50.92399123,5.700153601,Lanaken,Piano's Maene
+845,1850,50.92826058,4.41069803,Grimbergen,Allerheiligste Verlosserkerk
+846,2800,51.0384386,4.483111805,Mechelen,0
+847,2830,51.06655621,4.40711922,Heindonk,Sint-Jan Baptist en Sint-Amanduskerk
+848,2800,51.03298475,4.505796827,Mechelen,Sint Libertuskerk
+849,3321,50.76612073,4.919626477,Hoegaarden,Sint-Niklaaskerk
+850,9680,50.82276658,3.654648846,Maarkedal,Sint-Vincentiuskapel
+851,9660,50.80018468,3.77667836,Brakel,Toepkapel
+852,9160,51.12526331,3.980148908,Daknam,Onze-Lieve-Vrouwkerk
+853,3001,50.86051822,4.707443074,Leuven,Onze-Lieve-Vrouw-van-Troostkerk
+854,2070,51.2193936,4.326468894,Zwijndrecht,Heilige Kruiskerk
+855,9630,50.90514648,3.69834173,Meilegem,Sint-Martinuskerk
+856,9660,50.83027321,3.739590603,Elst,Sint-Apolloniakerk
+857,3920,51.22203307,5.297328665,Lommel,0
+858,1701,50.83931045,4.250035864,Itterbeek,Sint-Pieterskerk
+859,3545,50.93481171,5.070404838,Loksbergen,Sint-Andreaskerk
+860,2800,51.02236742,4.485425171,Mechelen,Onze-Lieve-Vrouw-van Hanswijkbasiliek
+861,1320,50.77141259,4.832226471,L'Écluse,Église Saint-Roch
+862,3300,50.80084842,4.953407777,Tienen,Sint Petrus en Pauluskerk
+863,9120,51.22136815,4.282125034,Melsele,Onze-Lieve-Vrouwekerk
+864,3473,50.91645995,5.004291699,Waanrode,Sint-Bartholomeuskerk
+865,3920,51.2098884,5.319096931,Lommel,0
+866,3110,50.95146105,4.709387965,Rotselaar,Sint-Pieterskerk
+867,3191,50.99239253,4.556203835,Boortmeerbeek,Onze-Lieve-Vrouwkerk
+868,2260,51.08742915,4.873044964,Zoerle-Parwijs,Sint-Niklaaskerk
+869,2491,51.14206828,5.149105875,Olmen,Sint-Willibrorduskerk
+870,3990,51.09697722,5.44668694,Peer,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+871,8810,51.02609236,3.139017393,Lichtervelde,Middenschool
+872,9850,51.07474752,3.534979796,Hansbeke,Sint-Petrus en Pauluskerk
+873,2460,51.26287689,5.023234836,Kasterlee,Heilige Familiekapel
+874,2470,51.26412906,5.076243265,Retie,Sint-Pieterskapel
+875,3118,50.97098074,4.693971848,Werchter,Sint-Jan-de-Doperkerk
+876,3971,51.10897013,5.228663959,Heppen,Sint-Blasiuskerk
+877,2470,51.25796507,5.099598378,Retie,Kapel van Onze-Lieve-Vrouw ter Sneeuw
+878,3990,51.17232926,5.449803533,Kleine-Brogel,Sint-Ursulakerk
+879,2430,51.10549713,5.003592264,Eindhout,Sint-Lambertuskerk
+880,2400,51.18872285,5.078527329,Mol,Sint-Odradakerk
+881,2440,51.2171971,5.038761235,Geel,Kapel O.L. Vrouw Geboorte
+882,8820,51.06558892,3.101649863,Goede Herder,Sint-Pieterskerk
+883,3900,51.21122115,5.426186365,Overpelt,Sint-Martinuskerk
+884,2450,51.13112726,5.078890993,Meerhout,Sint Trudokerk
+885,2490,51.18112174,5.202200011,Balen,Kapel Sint-Jans Onthoofding
+886,2450,51.14028389,5.090208935,Meerhout,Sint-Elisabethkapel
+887,3990,51.13594761,5.446035768,Peer,0
+888,3970,51.11931732,5.267186791,Leopoldsburg,Sint-Annakapel
+889,2400,51.20093107,5.098429344,Mol,Sint-Apolloniakerk
+890,2400,51.18436075,5.116315853,Mol,Sint-Pieter en Pauwelkerk
+891,2450,51.13511616,5.077248984,Meerhout,Kapel van het Heilig Graf
+892,3581,51.09109421,5.266275541,Beringen,Banneuxkapel
+893,3941,51.15387543,5.395356283,Eksel,Sint-Trudokerk
+894,2490,51.17786664,5.20216633,Balen,0
+895,3920,51.22854008,5.314949713,Lommel,Sint-Pietersbandenkerk
+896,3970,51.11444266,5.263421796,Leopoldsburg,Onze-Lieve-Vrouw-Tenhemelopnemingkerk
+897,3945,51.10084446,5.145009698,Kwaadmechelen,0
+898,2470,51.26142209,5.044554832,Retie,Kapel van Pontfort
+899,3940,51.1262043,5.364603433,Hechtel,Sint-Lambertuskerk
+900,3941,51.16142892,5.417641301,Eksel,Kapel van Onze-Lieve-Vrouw van Zeven Weeën
+901,8800,50.92099084,3.116585474,Rumbeke,Sint-Henricuskerk
+902,3500,50.93541451,5.32689921,Hasselt,Heilig Hartkerk
+903,3945,51.08388501,5.140770467,Kwaadmechelen,0
+904,3511,50.94910884,5.273242752,Kuringen,Sint-Jozefskerk
+905,8851,51.00226557,3.209364701,Koolskamp,Sint-Martinuskerk
+906,3550,51.04370916,5.31502437,Heusden-Zolder,Sint-Valentinuskerk
+907,3520,51.00302852,5.364056654,Zonhoven,Kapel Ten Eikenen
+908,8650,50.96883043,2.912497654,Houthulst,Sint-Jozefskerk
+909,8610,51.02847032,2.96289879,Werken,Sint-Martinuskerk
+910,8610,51.01870157,2.957997034,Zarren,Sint-Dionysiuskerk
+911,3582,51.08286623,5.322119961,Beringen,Kapel van O.L. Vrouw aan de Staak
+912,3500,50.93063178,5.340468936,Hasselt,Hogeschool UCLL Campus Hemelrijk
+913,3560,50.98534959,5.190418439,Lummen,Onze-Lieve-Vrouw Hemelvaartkerk
+914,8600,51.01313337,2.808708829,Diksmuide,Sint-Jan-Baptistkerk
+915,8800,50.94349914,3.124860439,Roeselare,Sint-Augustinuskerk
+916,3500,50.97526417,5.386725536,Hasselt,Kleuterschool
+917,3500,50.9291058,5.34366289,Hasselt,Clarenhof
+918,3511,50.9567955,5.280143703,Kuringen,Sacramentskapel
+919,3290,50.99828834,5.066800599,Schaffen,0
+920,3560,50.98669823,5.175278688,Lummen,Kapel Onze-Lieve-Vrouw van de Beukenboom
+921,8870,50.92224047,3.231167875,Emelgem,Sint-Pieterskerk
+922,3500,50.93219338,5.340061653,Hasselt,Z33 - house for contemporary art
+923,3500,50.93580039,5.326706079,Hasselt,0
+924,3290,50.98411488,5.053686017,Diest,Sint-Barbarakerk
+925,3290,50.98374218,5.048303922,Diest,Allerheiligenkapel
+926,3460,50.95186959,5.014328159,Assent,Onze-Lieve-Vrouwkerk
+927,2100,51.22239157,4.460576221,Antwerp,Sint-Pauluskerk
+928,9100,51.15533517,4.148534469,Sint-Niklaas,Ouderenzorg Zusters Jozefienen VZW
+929,3990,51.14983965,5.473838677,Peer,0
+930,3680,51.11302313,5.773776515,Maaseik,Sint-Jozef Werkman
+931,3910,51.2245445,5.494825171,Sint-Huibrechts-Lille,Boskapel
+932,3990,51.10683462,5.463303961,Peer,Dullerkapel
+933,3950,51.18828685,5.518088671,Kaulille,Sint-Monulphus en Gondulphuskerk
+934,3670,51.09262306,5.56970781,Gruitrode,0
+935,3960,51.11481697,5.658867482,Opitter,Sint-Antoniuskapel
+936,3680,51.10108472,5.80491546,Maaseik,Sint-Harlindis en Relindiskapel
+937,3680,51.09535748,5.789448757,Maaseik,Kruisherenkerk
+938,3670,51.13008028,5.524211914,Ellikom,Sint-Harlindis- en Relindiskerk
+939,3990,51.12300705,5.482176052,Peer,Deusterkapel
+940,3930,51.25103685,5.548253359,Hamont,0
+941,3930,51.25489079,5.552776517,Hamont,0
+942,3930,51.26474034,5.549485616,Hamont,0
+943,3930,51.25015467,5.540099557,Hamont,0
+944,3990,51.13936871,5.511783387,Grote-Brogel,Laarderkapel
+945,3990,51.1526522,5.507096839,Grote-Brogel,0
+946,3640,51.17862507,5.737226157,Molenbeersel,Daalkapel Onze-Lieve-Vrouw Moeder van Smarten
+947,3680,51.0864005,5.763265129,Maaseik,0
+948,3930,51.2603679,5.463588945,Achel,0
+949,3950,51.18228641,5.526639521,Kaulille,0
+950,3670,51.09647547,5.523261139,Meeuwen,Kiekapel
+951,3640,51.13194659,5.810715534,Ophoven,0
+952,3930,51.24146675,5.515339521,Hamont,0
+953,3680,51.10196472,5.80569359,Maaseik,Sint-Annakerk
+954,3930,51.24219334,5.535065068,Hamont,0
+955,3990,51.1210843,5.493715479,Grote-Brogel,Sint-Hubertuskerk
+956,3640,51.16813948,5.738106236,Molenbeersel,Onze-Lieve-Vrouw van Lourdes
+957,3950,51.20483577,5.578802067,Bocholt,Priorij Klaarland
+958,3680,51.08856172,5.686076796,Neeroeteren,Maria Hulp der Christenenkerk
+959,3930,51.2533564,5.527944411,Hamont,0
+960,3950,51.18458459,5.572768326,Bocholt,Kapel 18
+961,3680,51.09504867,5.794383445,Maaseik,Sint-Catharinakerk
+962,3680,51.11004655,5.69424192,Neeroeteren,Kapel Onze Lieve Vrouw van Banneux
+963,3910,51.22586527,5.48519752,Sint-Huibrechts-Lille,Sint-Monulphus en Gondulphuskerk
+964,8800,50.93944334,3.137004304,Roeselare,Sint-Jozefskerk
+965,9112,51.15698723,4.040361181,Sinaai,Klooster van Maria Reparatrix
+966,9971,51.19420338,3.63061325,Lembeke,0
+967,9180,51.17108145,3.91948174,Moerbeke,Kapel Heilige Antonius van Padua
+968,9940,51.10531697,3.701574664,Evergem,Kapel Onze-Lieve-Vrouw van Lourdes
+969,9190,51.18734187,3.992571066,Klein-Sinaai,0
+970,9971,51.18139259,3.641260817,Lembeke,Kapel van Troost en Vrede
+971,9190,51.20843872,4.039698725,Stekene,OCMW Stekene
+972,9220,51.09456435,4.076164597,Waasmunster,0
+973,9940,51.13744521,3.679045627,Sleidinge,0
+974,9060,51.1984365,3.794866748,Zelzate,Sint-Antonius van Paduakerk
+975,9190,51.20702764,4.079022291,Kemzeke,Sint-Jacobuskerk
+976,9160,51.10236023,4.001030552,Lokeren,0
+977,9080,51.13509885,3.862758457,Zaffelare,WZC Sint-Vincentius
+978,9160,51.15972795,3.978894347,Eksaarde,Kruiskapel
+979,9190,51.18477901,3.987046356,Klein-Sinaai,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+980,9190,51.20716748,4.039936067,Stekene,0
+981,8680,51.09035403,2.979249121,Koekelare,Sint-Martinuskerk
+982,8460,51.17061441,3.032729409,Roksem,Sint-Michielskerk
+983,8670,51.10992304,2.615914076,Koksijde,Keunekapel
+984,8490,51.20175552,3.150453225,Varsenare,0
+985,8620,51.12801497,2.747530764,Nieuwpoort,0
+986,8400,51.21177161,2.900952414,Ostend,0
+987,8490,51.20223056,3.148526778,Jabbeke,0
+988,8210,51.1441443,3.160574989,Zedelgem,Kasteel Ter Loo
+989,8433,51.12669486,2.875432947,Sint-Pieters-Kapelle,Sint-Petruskerk
+990,8400,51.2332774,2.919045788,Ostend,Kapucijnenkerk
+991,8400,51.23119856,2.94393162,Ostend,Sint-Antonius van Paduakerk
+992,8660,51.09899905,2.582576844,De Panne,0
+993,8432,51.17543635,2.877514124,Leffinge,Onze-Lieve-Vrouwkerk
+994,8470,51.15622805,2.970289794,Gistel,0
+995,8430,51.18366649,2.806803277,Middelkerke,Sint-Theresiakapel
+996,9100,51.16400788,4.147546709,Sint-Niklaas,0
+997,2840,51.10866554,4.388110666,Reet,0
+998,9570,50.82110523,3.847216125,Sint-Maria-Lierde,Sint-Maria-Magdalenakerk
+999,9660,50.80085512,3.762754719,Brakel,Viso Cor Mariae
+1000,8650,50.97809438,2.951606085,Houthulst,Sint-Jan Baptistkerk
+1001,8810,51.02749006,3.14166121,Lichtervelde,Sint-Jacobus-de-Meerderekerk
+1002,9660,50.77447094,3.776110294,Everbeek,Sint-Jozefskerk
+1003,8640,50.93378466,2.741782542,Oostvleteren,Sint-Amatuskerk
+1004,8600,51.04646793,2.915795355,Vladslo,Sint-Martinuskerk
+1005,8647,50.98095042,2.748760387,Lo,Sint-Pieterskerk
+1006,8647,50.95523768,2.810721296,Noordschote,Sint-Barnabaskerk
+1007,9660,50.7928702,3.747866679,Opbrakel,Sint-Martinuskerk
+1008,2910,51.44550448,4.409901815,Hoek,Sint-Pieterskerk
+1009,2300,51.30873768,4.954021845,Turnhout,Sint-Franciscus van Assisikerk
+1010,9620,50.88810848,3.829809087,Leeuwergem,Sint-Amanduskerk
+1011,2310,51.32904958,4.782548856,Sint-Jozef-Rijkevorsel,Sint-Jozefkerk
+1012,2320,51.40351708,4.763344179,Hoogstraten,Sint-Jan Evangelist en Heilige Beggakerk
+1013,2180,51.27714831,4.418557906,Antwerp,Sint-Lambertuskerk
+1014,8691,50.9754827,2.674575535,Alveringem,Sint-Petruskerk
+1015,2380,51.39169296,5.016244035,Ravels,Sint-Adrianuskerk
+1016,8020,51.09577326,3.206149206,Ruddervoorde,Sint-Eligiuskerk
+1017,2910,51.46192382,4.455229008,Heikant,Sint-Antonius van Paduakerk
+1018,2440,51.17578701,4.985038318,Holven,Sint-Jozefkerk
+1019,3800,50.77357876,5.181269526,Kerkom-bij-Sint-Truiden,Sint-Martinuskerk
+1020,9620,50.88197595,3.780941577,Zottegem,0
+1021,9661,50.78483447,3.797911856,Parike,Sint-Lambertuskerk
+1022,3700,50.77214952,5.407671956,Widooie,Sint-Pancratiuskerk
+1023,9500,50.75982052,3.881802504,Geraardsbergen,0
+1024,3471,50.84826893,4.99672646,Hoeleden,Onze-Lieve-Vrouw Hulp der Christenenkapelanij
+1025,9688,50.80660784,3.67942669,Sint-Maria-Horebeke,Sint-Petruskerk
+1026,8600,51.08089532,2.881884867,Keiem,Sint-Niklaaskerk
+1027,3390,50.92975786,4.907021403,Tielt,Sint-Martinuskerk
+1028,3800,50.76658619,5.263499081,Gelinden,Sint-Quintinuskerk
+1029,3272,50.99607061,4.937619698,Messelbroek,Sint-Michielskerk
+1030,3400,50.76576629,5.037442965,Neerwinden,Heilig-Kruiskerk
+1031,3020,50.9019179,4.625553712,Veltem-Beisem,0
+1032,9920,51.09746226,3.609472019,Lovendegem,0
+1033,9880,51.10867244,3.431764546,Aalter,Sint-Godelievekerk
+1034,8000,51.21464952,3.207997139,Bruges,Christus Koningkerk
+1035,9920,51.09534593,3.606644561,Lovendegem,Sint-Martinuskerk
+1036,8000,51.21649425,3.221203723,Bruges,Engelendale
+1037,9250,51.09565257,4.088840398,Waasmunster,Sint-Antoniuskapel
+1038,8840,50.97489382,3.014822964,Staden,Sint-Jan Baptistkerk
+1039,9950,51.15203935,3.606208598,Waarschoot,Sint-Ghislenuskerk
+1040,8000,51.21206698,3.232273131,Bruges,Sint-Annakerk
+1041,8000,51.21144999,3.229225075,Bruges,St. Walburga Church
+1042,9900,51.1933405,3.537672822,Eeklo,BKO @bij (vroeger Sint-Jozefkerk)
+1043,3724,50.81386639,5.406209732,Kortessem,Sint-Amanduskerk
+1044,8310,51.19507157,3.251598272,Bruges,Maria Assumptakerk
+1045,8000,51.21056314,3.220632073,Bruges,St. James's Church
+1046,8000,51.2097682,3.235122276,Bruges,Heilige Familiekerk
+1047,2000,51.22013181,4.410574211,Antwerp,Sint-Jacobskerk
+1048,3440,50.80705955,5.107134177,Halle,Sint-Bartholomeuskerk
+1049,3800,50.78257725,5.265401279,Groot-Gelmen,Sint-Martinuskerk
+1050,3800,50.79820143,5.176430328,Sint-Truiden,Sint-Lambertuskerk
+1051,3800,50.80223369,5.219092601,Brustem,Sint-Laurentiuskerk
+1052,8660,51.07538158,2.602912139,Adinkerke,Sint-Audomaruskerk
+1053,3472,50.88653179,4.994560624,Kortenaken,Sint-Servaaskerk
+1054,8640,50.92747599,2.71755785,Westvleteren,Sint-Martinuskerk
+1055,8691,50.94032573,2.674055433,Alveringem,Sint-Jan-Onthoofdingkerk
+1056,3803,50.81878565,5.143071942,Wilderen,Onze-Lieve-Vrouw Bezoekingskerk
+1057,3890,50.7464617,5.233618849,Boekhout,Sint-Pieterskerk
+1058,8630,51.04338863,2.65101394,Veurne,Sint-Bertinuskerk
+1059,8972,50.91513915,2.688864844,Poperinge,Sint-Blasiuskerk
+1060,8630,51.0122445,2.605973611,Veurne,Onze-Lieve-Vrouw-Hemelvaartkerk
+1061,8630,51.01625149,2.662299865,Veurne,Sint-Audomaruskerk
+1062,8691,50.99349726,2.654966373,Alveringem,Sint-Mildredakerk
+1063,8630,51.07325728,2.661678428,Veurne,Sint-Walburgakerk
+1064,8691,50.99451768,2.655230406,Alveringem,0
+1065,8690,50.97943627,2.692900181,Alveringem,Sint-Lambertuskerk
+1066,8630,51.07226602,2.663573427,Veurne,Sint-Niklaaskerk
+1067,8630,51.01548092,2.656052017,Veurne,Onze-Lieve-Vrouwekerk
+1068,3271,51.00142971,4.984755787,Zichem,Sint-Eustachiuskerk
+1069,3840,50.8060063,5.390905827,Borgloon,Heilige Kruisverheffingkerk Jesseren
+1070,8972,50.90628655,2.618429132,Roesbrugge-Haringe,Sint-Martinuskerk
+1071,3870,50.74093746,5.260371903,Mechelen-Bovelingen,Sint-Annakerk
+1072,3471,50.8476813,4.996702876,Hoeleden,0
+1073,8691,50.93868479,2.642272805,Alveringem,Sint-Audomaruskerk
+1074,3500,50.89835305,5.306748466,Sint-Lambrechts-Herk,Sint-Lambertuskerk
+1075,2200,51.16327457,4.826361785,Herentals,Sint-Jan de Doperkerk
+1076,2000,51.22295724,4.414514329,Antwerp,Sint-Catharinakerk
+1077,2030,51.24366965,4.385266068,Antwerp,Sint-Jan-de-Doperkerk Oosterweel
+1078,2840,51.10122896,4.411548364,Reet,Basisschool De Wingerd
+1079,9140,51.11344952,4.142500013,Elversele,Kapel Onze Lieve Vrouw Zeven Weeën
+1080,2000,51.22033251,4.403685795,Antwerp,0
+1081,2570,51.09388342,4.493983779,Duffel,0
+1082,9250,51.10854454,4.08485153,Waasmunster,0
+1083,2640,51.1782387,4.453723619,Mortsel,Sint-Lodewijkskerk
+1084,9100,51.16435888,4.146769683,Sint-Niklaas,Kapel De Ark
+1085,3440,50.82129204,5.085416897,Zoutleeuw,Sint-Laurentiuskapel
+1086,2160,51.21337443,4.52263271,Wommelgem,Sint-Janskapel
+1087,3450,50.88133524,5.076241587,Geetbets,Onze Lieve Vrouw van de Vrede
+1088,2020,51.1771979,4.422814397,Antwerp,Pius X-kerk
+1089,2610,51.17648205,4.377947044,Antwerp,Sint-Jan-Evangelistkerk
+1090,3472,50.89558326,5.012194405,Kortenaken,Sint-Germanuskerk
+1091,2900,51.25217883,4.51557198,Schoten,Heilige Familiekerk
+1092,2000,51.21368082,4.403243522,Antwerp,Zusters Karmelietessen
+1093,8830,50.99527269,3.095413106,Gits,Klooster Der Zusters Van De Heilige Vincentius
+1094,9140,51.12569567,4.202956281,Temse,0
+1095,2000,51.22097723,4.404705978,Antwerp,Sint-Carolus Borromeuskerk
+1096,2600,51.19707989,4.411547693,Antwerp,Basiliek van het Heilig Hart
+1097,9170,51.19555403,4.093738913,Sint-Pauwels,0
+1098,2627,51.11952145,4.333340938,Antwerp,0
+1099,9100,51.17486551,4.12068219,Sint-Niklaas,Heilige hartkapel
+1100,9100,51.15598684,4.146580061,Sint-Niklaas,Sint-Jozefkerk
+1101,9100,51.16790953,4.139509677,Sint-Niklaas,Heilige Familie Basis en Secundair
+1102,9120,51.22037344,4.284391672,Melsele,O.C. Boerenpoort
+1103,2660,51.18401742,4.367757718,Antwerp,Heilige-Geestkerk
+1104,2000,51.22161862,4.414649073,Antwerp,Kapucijnenklooster
+1105,2570,51.0938951,4.498919946,Duffel,Vrije school De Basis en Klooster
+1106,2018,51.19948653,4.394946057,Antwerp,0
+1107,2610,51.1536013,4.361377808,Antwerp,0
+1108,9220,51.09297734,4.138295598,Hamme,0
+1109,2200,51.14093676,4.840442842,Noorderwijk,Sint-Baafskerk
+1110,2000,51.21262023,4.404722072,Antwerp,Sint-Joriskerk
+1111,9100,51.16160934,4.158383337,Sint-Niklaas,Don Boscokerk
+1112,9220,51.09876344,4.137876471,Hamme,0
+1113,9120,51.21916955,4.193458824,Vrasene,0
+1114,2900,51.25854127,4.484938481,Schoten,Kapel van de Horst
+1115,9140,51.11064211,4.174350113,Tielrode,Sint-Jozefkapel
+1116,9250,51.1224035,4.09879103,Waasmunster,Heidekapel
+1117,2100,51.20793347,4.474009391,Antwerp,0
+1118,9170,51.26254483,4.112937883,De Klinge,0
+1119,2550,51.13011192,4.434673065,Kontich,Sint-Ritacollege
+1120,9100,51.19023778,4.143581424,Sint-Niklaas,O.L.V van de Eekhoek
+1121,2610,51.17654836,4.412618321,Antwerp,H.Damiaankerk
+1122,2880,51.10360295,4.269186013,Hingene,Sint-Stefaanskerk
+1123,2050,51.2262346,4.391424421,Antwerp,Sint-Petruskapel
+1124,9130,51.25475469,4.183634965,Verrebroek,0
+1125,2600,51.17970814,4.428578906,Antwerp,WZC Sint-Anna
+1126,2610,51.17485842,4.417233066,Antwerp,Medisch Instituut Sint-Augustinus
+1127,9140,51.12518882,4.272186656,Steendorp,Sint-Jan de Evangelistkerk
+1128,2140,51.1957278,4.451564824,Antwerp,0
+1129,2650,51.15680387,4.427607214,Edegem,Sint-Jozefkerk
+1130,2900,51.25066158,4.530627396,Schoten,0
+1131,9100,51.14943081,4.148835268,Sint-Niklaas,Onze Lieve Vrouw van Hal
+1132,2000,51.22174919,4.407413114,Antwerp,Sint-Annakapel
+1133,3350,50.8133699,5.018505114,0,Sint-Quintinuskerk
+1134,3470,50.90966238,5.05733081,Kortenaken,Sint-Amorkerk
+1135,3803,50.8467381,5.154022297,Runkelen,Sint-Andreaskerk
+1136,3840,50.80791217,5.331420546,Kuttekoven,Sint-Jan-de-Doperkerk
+1137,3350,50.7947018,5.039562371,Gussenhoven,Sint-Sulpitiuskerk
+1138,3570,50.87158856,5.272033624,Alken,Sint-Joriskerk
+1139,3800,50.81858507,5.183598644,Sint-Truiden,Sint-Gangulfuskerk
+1140,3850,50.8605447,5.164923439,Binderveld,Sint-Jan-de-Doperkerk
+1141,3870,50.73698849,5.293912346,Opheers,Sint-Lambertuskerk
+1142,3870,50.75545626,5.301850947,Heers,Sint-Martinuskerk
+1143,3803,50.83289142,5.164560308,Gorsem,Onze-Lieve-Vrouw-Tenhemelopnemingskerk
+1144,3350,50.80410446,5.062652877,Orsmaal,Sint-Pieterskerk
+1145,3870,50.77092561,5.318318047,Gutschoven,Drie-Morenkerk
+1146,3840,50.80122491,5.345002004,Borgloon,Sint-Odulphuskerk
+1147,3470,50.87533986,5.040092286,Ransberg,Onze-Lieve-Vrouw van de Rozenkranskerk
+1148,3350,50.79448677,5.052787117,Gussenhoven,Sint-Mauritiuskerk
+1149,3840,50.81168688,5.28482736,Hoepertingen,Sint-Vedastuskerk
+1150,3870,50.75855643,5.332847842,Horpmaal,Sint-Lambertuskerk
+1151,3440,50.84444292,5.085250194,Zoutleeuw,Onze-Lieve Vrouwkerk
+1152,8840,50.9405483,3.059790405,Oostnieuwkerke,Onze-Lieve-Vrouwekerk
+1153,3840,50.80457748,5.310616318,Gotem,Sint-Niklaas en -Dionysiuskerk
+1154,3570,50.86811178,5.275707529,Alken,Kapel Sint-Joris
+1155,3722,50.85086356,5.419305624,Kortessem,Sint-Pietersbandenkerk
+1156,3800,50.81329804,5.171590063,Sint-Truiden,0
+1157,3870,50.76304516,5.305538139,Heers,Onze-Lieve-Vrouw Ten Hemelopnemingskerk
+1158,3850,50.86452513,5.193999529,Nieuwerkerken,Sint-Pieterskerk
+1159,3590,50.90251485,5.410906008,Diepenbeek,Sint-Rochuskapel
+1160,3350,50.8442232,5.046392942,0,Onze-Lieve-Vrouw van het Heilig Hartkerk
+1161,3400,50.75320314,5.0492328,Overwinden,Sint -Wivinakerk
+1162,3800,50.83113851,5.198911507,Sint-Truiden,Salvator Mundikerk
+1163,3800,50.82161868,5.193881661,Sint-Truiden,Begijnhofkerk
+1164,3840,50.81638169,5.362909438,Kerniel,Sint-Pantaleon-kerk
+1165,3400,50.75440345,5.078405221,Landen,0
+1166,3450,50.88996229,5.116062836,Geetbets,Sint-Pauluskerk
+1167,3800,50.82129326,5.175198239,Sint-Truiden,Sint-Augustinuskerk
+1168,3700,50.78741433,5.442936504,Tongeren,Sint-Gilliskapel
+1169,3700,50.81241818,5.44482555,Neerrepen,Sint-Ludgeruskerk
+1170,3400,50.76736377,5.075628435,Rumsdorp,Sint-Gilliskapel
+1171,3840,50.81438114,5.357528746,Kerniel,Abdij Mariënlof
+1172,2380,51.37156481,4.994843191,Ravels,Sint-Servatiuskerk
+1173,2370,51.33745024,5.099745249,De Vrij,Sint-Jozefkerk
+1174,3870,50.76116198,5.373713827,Vechmaal,Sint-Martinuskerk
+1175,3440,50.84843643,5.136366227,Zoutleeuw,Onze-Lieve-Vrouw-van-de-Ossenwegkapel
+1176,3800,50.80373181,5.154198476,Halmaal,Sint Petrus en Paulus kerk
+1177,3840,50.78546903,5.38061091,Bommershoven,Sint-Alfonskerk
+1178,3720,50.85861659,5.389770701,Kortessem,Sint-Pieterskerk
+1179,3400,50.77675012,4.999686252,Ezemaal,Sint-Aldegondekerk
+1180,3832,50.84243911,5.306346079,Ulbeek,Sint-Rochuskerk
+1181,3831,50.8329324,5.333127213,Herten,Sint-Lambertuskerk
+1182,3830,50.81764501,5.310779371,Berlingen,Sint-Agathakerk
+1183,3400,50.74561779,5.077339083,Landen,Sint-Norbertuskerk
+1184,3840,50.79353718,5.400410003,Bommershoven,Sint-Pieterskerk
+1185,3870,50.73740978,5.281319751,Batsheers,Sint-Stefanuskerk
+1186,3404,50.77790529,5.080251318,Neerlanden,Heilige Maria Magdalenakerk
+1187,3800,50.82889965,5.186964922,Sint-Truiden,Heilig-Kruiskerk
+1188,3840,50.79850406,5.329529802,Hendrieken,Sint-Lambertuskerk
+1189,3020,50.93714516,4.617541248,Kampenhout,Sint-Antoniuskerk
+1190,3400,50.78506493,5.030638305,Wange,Kristus Koningkerk
+1191,3440,50.8224467,5.127417328,Booienhoven,Sint-Odulphuskerk
+1192,3891,50.75552637,5.215590247,Mielen-Boven-Aalst,Sint-Saturninuskerk
+1193,3850,50.87469669,5.239472105,Kozen,Sint-Laurentiuskerk
+1194,3570,50.89422481,5.266505255,Alken,no
+1195,8800,50.92054171,3.160685336,Oekene,Sint-Martinuskerk
+1196,3890,50.73198759,5.191314027,Jeuk,Onze-Lieve-Vrouw van Klein-Jeukkapel
+1197,3590,50.9027055,5.395680447,Diepenbeek,0
+1198,3800,50.77205989,5.256107073,Engelmanshoven,Sint-Jan Baptistkerk
+1199,3840,50.78230697,5.332090884,Borgloon,Sint-Lambertuskerk
+1200,8730,51.16028996,3.390116778,Oedelem,Sint-Petruskerk
+1201,3840,50.80309894,5.346333562,Borgloon,0
+1202,3800,50.80004428,5.220135942,Brustem,Sint-Eucheriuskapel
+1203,3800,50.81394646,5.185599321,Sint-Truiden,Minderbroederskerk
+1204,3870,50.77083062,5.275459644,Klein-Gelmen,Onze-Lieve-Vrouw-Boodschapskerk
+1205,3800,50.81573153,5.182315037,Sint-Truiden,Sint-Maartenkerk
+1206,3570,50.87554835,5.307464431,Alken,Sint-Aldegondiskerk
+1207,3450,50.87272572,5.126304618,Grazen,Onze-Lieve-Vrouwkerk
+1208,3440,50.80977905,5.102236406,Dormaal,Sint-Martinuskerk
+1209,2470,51.28953162,5.053141814,Retie,Sint-Jobkerk
+1210,2221,51.0312736,4.756877932,Booischot,Onze-Lieve-Vrouw en Sint-Jozefkerk
+1211,3300,50.79961117,4.926345292,Oorbeek,0
+1212,8000,51.2037461,3.216486447,Bruges,NH Brugge
+1213,3078,50.87841145,4.570314464,Everberg,Sint-Martinus- en Sint-Ludovicuskerk
+1214,3050,50.83046939,4.652785532,Oud-Heverlee,Salesianen van Don Bosco
+1215,3300,50.83836651,4.924024624,Vissenaken,Sint-Maartenskerk
+1216,3740,50.84568668,5.608969041,Hees,Zaal Fietskluis
+1217,3202,50.97436031,4.893720654,Rillaar,Sint-Niklaaskerk
+1218,8800,50.96827318,3.144762984,Beveren,Heilige Kruisverheffingskerk
+1219,8600,51.03594275,2.86319894,Diksmuide,0
+1220,3111,50.94756473,4.756138376,Wezemaal,Sint-Martinuskerk
+1221,3150,50.94474298,4.643663137,Tildonk,Sint-Jan-de-Doperkerk
+1222,8630,51.05018647,2.722086484,Veurne,Sint-Jans Onthoofdingkerk
+1223,3740,50.86285561,5.573956521,Bilzen,Sint-Catharinakerk
+1224,3730,50.85039973,5.486754874,Hoeselt,IKSO
+1225,3700,50.77837074,5.46470484,Tongeren,Sint-Janskerk
+1226,3700,50.75238173,5.497520934,Vreren,Sint-Medarduskerk
+1227,3730,50.86939334,5.482583965,Hoeselt,Onze-Lieve-Vrouw Maria Middelareskerk
+1228,3790,50.7567593,5.71043484,Moelingen,Onze-Lieve-Vrouw-ten-Hemel-Opnemingskerk
+1229,3700,50.77535404,5.451653492,Tongeren,Sint-Maternuskerk
+1230,3730,50.85035192,5.488306498,Hoeselt,Sint-Stephanuskerk
+1231,3770,50.81375795,5.673655669,Kanne,Sint-Hubertuskerk
+1232,3770,50.79154093,5.620542613,Riemst,Sint-Pieterskerk
+1233,8630,51.07591353,2.676212622,Veurne,Onze-Lieve-Vrouw-Onbevlekt Ontvangenkapel
+1234,2910,51.43935093,4.433128656,Hoek,0
+1235,8000,51.24212943,3.248945727,Bruges,Sint-Niklaaskerk
+1236,9991,51.20300312,3.485723751,Maldegem,Sint-Adrianuskerk
+1237,3870,50.75946973,5.364068649,Vechmaal,Sint-Pieterskapel
+1238,8930,50.79303859,3.188700136,Lauwe,0
+1239,8500,50.83102911,3.263351528,Kortrijk,0
+1240,9690,50.77640767,3.523982493,0,Sint-Amanduskerk
+1241,8501,50.84383441,3.234759023,Kortrijk,Sint-Eutropiuskerk
+1242,8500,50.82907966,3.26744574,Kortrijk,Church of Our Lady
+1243,8500,50.82233396,3.259335106,Kortrijk,Damiaankerk
+1244,9600,50.75691643,3.576422157,Ronse,Kapel Wittentak
+1245,2360,51.32236973,4.985188463,Oud-Turnhout,Sint-Bavokerk
+1246,2300,51.32044007,4.932008898,Turnhout,Onze-Lieve-Vrouw Middelareskerk
+1247,8000,51.20160478,3.227603132,Bruges,Kloosterkerk van de zusters redemptoristinnen
+1248,8530,50.84986145,3.31291266,Harelbeke,Sint-Jozef
+1249,8600,51.04644649,2.796005334,Diksmuide,Sint-Veerlekerk
+1250,3150,50.95932163,4.633553713,Wespelaar,Sint-Luciakerk
+1251,8540,50.85935352,3.37835224,Deerlijk,0
+1252,2812,51.011091,4.514424522,Mechelen,Sint-Lambertuskerk
+1253,8790,50.88657312,3.418714069,Waregem,Heilige Familiekerk
+1254,9700,50.83042535,3.629967097,Edelare,Kapel Onze Lieve Vrouw van Kerselare Bedevaartsoord
+1255,9690,50.79082497,3.508661485,0,Onze-Lieve-Vrouw van de Carmelkerk
+1256,8540,50.852108,3.356112374,Deerlijk,Woonzorgcentrum Heilige Familie
+1257,8510,50.74010522,3.331778024,Kortrijk,Sint-Laurentiuskerk
+1258,9940,51.13674999,3.720064294,Evergem,Onze-Lieve-Vrouw ten Troostkerk
+1259,9931,51.15113052,3.526051194,Oostwinkel,Sint-Jans Onthoofdingkerk
+1260,8200,51.19276484,3.194963658,Bruges,Sint-Willibrorduskerk
+1261,8000,51.20244992,3.216190695,Bruges,Sint-Godelieveabdij
+1262,9600,50.7451814,3.603116095,Ronse,Sint-Martinuskerk
+1263,8790,50.88100194,3.464123393,Waregem,0
+1264,8500,50.82384673,3.29892235,Kortrijk,0
+1265,9700,50.83321265,3.604351806,Leupegem,Sint-Amanduskerk
+1266,8000,51.21468503,3.234271533,Bruges,Engels Klooster Onze Lieve Vrouw van Nazareth
+1267,2960,51.34734641,4.679941294,Sint-Lenaarts,Sint-Leonarduskerk
+1268,2330,51.35546372,4.82525996,Merksplas,Kapel Onze-Lieve-Vrouw Hemelvaart
+1269,2180,51.29400026,4.439174494,Antwerp,Onze-Lieve-Vrouw van Altijddurende Bijstandkerk
+1270,9790,50.85245288,3.509920188,0,Onze-Lieve-Vrouw Geboortekerk
+1271,8573,50.81553971,3.467220721,Tiegem,0
+1272,8560,50.80928087,3.18397764,Wevelgem,Sint-Hilariuskerk
+1273,9600,50.75262906,3.598316367,Ronse,KSO Glorieux
+1274,2590,51.11120079,4.635397387,Berlaar,Hart-van-Mariakerk
+1275,8501,50.82284826,3.227251923,Kortrijk,Sint-Audomarus
+1276,9681,50.79724845,3.59520242,Maarkedal,Onze-Lieve-Vrouw-Hemelvaartkerk
+1277,9130,51.2888312,4.176278695,Kieldrecht,Sint-Michielskerk
+1278,2360,51.30939751,5.002268404,Zwaneven,Onbevlekt Hart van Mariakerk
+1279,2960,51.34227446,4.60482014,Brecht,Sint-Willibrorduskerk
+1280,2390,51.30138042,4.691564384,Westmalle,Sint-Martinuskerk
+1281,2390,51.28454497,4.656134478,Westmalle,0
+1282,8210,51.16076469,3.176717435,Zedelgem,Priorijkerk
+1283,8020,51.10390747,3.272120467,Hertsberge,0
+1284,3891,50.74176571,5.181060574,Borlo,Parochiekerk Sint-Petrus
+1285,8200,51.20198265,3.204623902,Bruges,Sint-Baafskerk
+1286,8020,51.11174282,3.2216257,Waardamme,Sint-Blasiuskerk
+1287,3723,50.83842893,5.401124685,Kortessem,Sint-Quintinuskerk
+1288,9982,51.24575096,3.601186599,Kaprijke,Sint-Eligiuskerk
+1289,3830,50.84104806,5.337760561,Wellen,Sint-Jan-de-Doperkerk
+1290,8830,51.00082339,3.034918205,Sint-Jozef / De Geite,Sint-Jozefskerk
+1291,3201,51.00900283,4.870291743,Langdorp,Onze-Lieve-Vrouw van Fatimakerk
+1292,8000,51.22320484,3.194051901,Bruges,Monastery of the Sisters Hospitallers of Saint John
+1293,8800,50.93754483,3.115668131,Roeselare,AZ Delta campus Westlaan
+1294,8957,50.76407732,2.899200394,Mesen,Sint-Niklaaskerk
+1295,8900,50.81968104,2.832802265,Dikkebus,Sint-Jan Baptistkerk
+1296,8940,50.78425723,3.036692124,Wervik,Sint-Jozefskerk
+1297,8930,50.78912065,3.132983605,Menin,Sint-Jozefkerk
+1298,8890,50.89158111,3.061797581,Moorslede,Sint Martinuskerk
+1299,8920,50.89023319,2.937619448,Langemark,Sint-Juliaankerk
+1300,8930,50.79664155,3.116733841,Menin,Sint Franciscus
+1301,8920,50.91348461,2.919255548,Langemark,Sint-Paulus Bekeringskerk
+1302,3200,50.98512213,4.832367694,Aarschot,Onze-Lieve-Vrouwekerk
+1303,8958,50.78024883,2.776737276,Loker,Stichting Godtschalck
+1304,8900,50.84993653,2.88016395,Ypres,0
+1305,8954,50.80007925,2.799405378,Heuvelland,Onze-Lieve-Vrouwekerk
+1306,8970,50.87335355,2.695707022,Poperinge,Het Vogeltje
+1307,9930,51.1183853,3.560364513,Lievegem,Sint-Martinuskerk
+1308,9930,51.13219169,3.602219035,Lievegem,Sint-Mauruskerk
+1309,8730,51.12739443,3.32483674,Beernem,Heilig Maria Moeder Gods-kerk
+1310,8310,51.21245962,3.287262878,Bruges,0
+1311,3600,51.0032385,5.510103596,Winterslag,Italiaanse kerk
+1312,3668,51.01559555,5.600883768,Niel-bij-As,0
+1313,8830,50.99682921,3.096262549,Gits,Sint-Jacob de Meerderekerk
+1314,8800,50.95088683,3.108444364,Roeselare,Dienstencentrum Schiervelde
+1315,2180,51.28009211,4.453284628,Brasschaat,Heilig Hartkerk
+1316,9130,51.32655935,4.214668074,Kieldrecht,Sint-Engelbertuskerk
+1317,2220,51.08468243,4.729666019,Hallaar,Onze-Lieve-Vrouw van Altijddurende Bijstandkerk
+1318,2382,51.44597584,5.038920218,Poppel,Sint-Valentinuskerk
+1319,3930,51.29912415,5.48825243,Achel,Achelse Kluis
+1320,2230,51.03219541,4.89355786,Herselt,Kapel Varenwinkel
+1321,9910,51.13026661,3.485639495,Ursel,Sint-Medarduskerk
+1322,8610,51.05365717,3.016564824,Handzame,Onze-Lieve-Vrouw Hemelvaartkerk
+1323,3190,50.98119441,4.572374793,Boortmeerbeek,Sint-Antonius Abtkerk
+1324,3461,50.92373116,4.967465361,Bekkevoort,Sint-Quirinuskerk
+1325,3200,50.97749691,4.818872759,Aarschot,Sint-Rochuskerk
+1326,2350,51.31276505,4.887076881,Vosselaar,Onze-Lieve-Vrouwkerk
+1327,9310,50.9644803,4.10900397,Moorsel,0
+1328,2235,51.07491602,4.791178243,Hulshout,Sint-Mattheuskerk
+1329,8800,50.9332037,3.144786461,Rumbeke,"De Kleine Stooringhe, STAP Rumbeke, SASK Rumbeke en Draadpoppentheater"
+1330,3220,50.92115195,4.756361262,Holsbeek,Sint-Mauruskerk
+1331,3200,51.00564349,4.836446972,Aarschot,Heilig-Hartkerk
+1332,2220,51.04531072,4.723963396,Heist-op-den-Berg,Sint-Alfonskerk
+1333,2220,51.07631424,4.731387779,Heist-op-den-Berg,0
+1334,8540,50.85089011,3.353844877,Deerlijk,Kapel Onze-Lieve-Vrouw ter Ruste
+1335,2220,51.05820952,4.749010735,Heist-op-den-Berg,Onze-Lieve-Vrouw Koningin van de Vredekerk
+1336,8310,51.21479866,3.250338896,Bruges,0
+1337,3220,50.92541408,4.807222553,Holsbeek,Sint-Catharinakerk
+1338,3460,50.94402168,4.973819908,Bekkevoort,Sint-Pieterskerk
+1339,2223,51.01317216,4.710550212,Schriek,Heilige Naam Jezuskerk
+1340,3271,50.98564857,4.955402459,Zichem,Sint-Jozefkerk
+1341,2300,51.33787712,4.910045603,Turnhout,Begraafplaats Nazareth
+1342,8730,51.14268284,3.341392368,Beernem,Sint-Amanduskerk
+1343,2431,51.07026529,4.986649559,Veerle,Onze-Lieve-Vrouw-in-de-Wijngaardkerk
+1344,2230,51.05309586,4.875600219,Herselt,Woonzorgcentrum Sint-Barbara
+1345,2387,51.4070328,4.89370668,Zondereigen,Sint-Rumolduskerk
+1346,1980,50.99219651,4.416194565,Zemst,Sint-Engelbertus en Bernarduskerk
+1347,1880,51.00699893,4.355323648,Kapelle-op-den-Bos,Sint-Theresiacollege Kapelle-op-den-Bos (STK)
+1348,9200,51.02954357,4.099634642,Dendermonde,Sint-Pietrs en Paulusabdij
+1349,2800,51.02587137,4.480964749,Mechelen,Onze-Lieve-Vrouw-van-Leliëndaalkerk
+1350,1745,50.94284175,4.172240252,Mazenzele,Sint-Pieters-Bandenkerk
+1351,1980,50.98408067,4.465066299,Zemst,Sint-Pieterkerk
+1352,1880,51.01461736,4.335204811,Ramsdonk,Sint-Martinuskerk
+1353,9310,50.93130368,4.097348275,Moorsel,0
+1354,2811,51.01522537,4.441761096,Mechelen,Sint-Martinuskerk
+1355,1800,50.9269466,4.42520163,Vilvoorde,Onze-Lieve-Vrouwekerk
+1356,1981,50.99134394,4.49335544,Zemst,Onze-Lieve-Vrouw van Goede Bijstandkerk
+1357,1982,50.96003483,4.497865462,Zemst,Sint-Hubertuskerk
+1358,2800,51.04653343,4.477473583,Mechelen,0
+1359,9200,51.03219709,4.094372296,Dendermonde,Onze-Lieve-Vrouwekerk
+1360,2840,51.07974191,4.396814414,Terhagen,Sint-Jozefkerk
+1361,1800,50.92776414,4.429435724,Vilvoorde,Onze-Lieve-Vrouw van Troostbasiliek
+1362,8904,50.9133815,2.828274349,Ypres,Sint-Leonarduskerk
+1363,2950,51.30912524,4.421746037,Kapellen,Sint-Jozefkapel
+1364,2300,51.32648666,4.941828073,Turnhout,Kapel van het Heilig Aanschijn
+1365,9220,51.09164664,4.155393594,Hamme,Heilige Familiekerk
+1366,2870,51.07398656,4.294585338,Puurs,Onze-Lieve-Vrouw-ten-Traankerk
+1367,1745,50.95501756,4.182798126,Opwijk,Sint-Jozefkerk
+1368,1800,50.93663612,4.434378617,Vilvoorde,0
+1369,9310,50.93173564,4.133547205,Meldert,Sint-Walburgakerk
+1370,1820,50.93338786,4.497067366,Perk,Sint-Niklaaskerk
+1371,9200,51.01895856,4.110360658,Sint-Gillis-bij-Dendermonde,Sint-Egidiuskerk
+1372,1880,51.01323301,4.355015666,Kapelle-op-den-Bos,Sint-Niklaaskerk
+1373,1840,51.00163907,4.302168322,Londerzeel,Sint-Christoffelkerk
+1374,8920,50.92621463,2.864819381,Bikschote,Sint-Andreaskerk
+1375,2820,51.03559105,4.535848811,Bonheiden,Sint-Ludwinakerk
+1376,1850,50.92387494,4.399235648,Grimbergen,Sint-Corneliuskerk
+1377,1850,50.93347398,4.37133585,Grimbergen,Grimbergen Abbey Church
+1378,2800,51.02539476,4.449598129,Mechelen,Sint-Jakob
+1379,9280,51.00032017,4.150753839,Lebbeke,Sint-Joannes Vianneykerk
+1380,1785,50.9139486,4.276044009,Hamme,Sint-Gudulakerk
+1381,2275,51.22759217,4.836654361,Poederlee,0
+1382,8000,51.21536703,3.231380648,Bruges,0
+1383,2040,51.35997645,4.307222548,Antwerp,Sint-Gertrudiskerk
+1384,8340,51.2494552,3.282089818,Damme,Pastorie Onze-Lieve-Vrouwparochie
+1385,2930,51.29006839,4.492233644,Brasschaat,Sint-Antoniuskerk
+1386,2370,51.30597685,5.100530101,Arendonk,0
+1387,3221,50.95080519,4.835464879,Nieuwrode,Sint-Lambertuskerk
+1388,8000,51.22552202,3.232260301,Bruges,Sint-Jozefkerk
+1389,9970,51.21797802,3.61659178,Kaprijke,Onze-Lieve-Vrouw Hemelvaartkerk
+1390,8020,51.10518023,3.273552347,Hertsberge,Sint-Janskerk
+1391,2322,51.41745351,4.762637041,Minderhout,Sint-Clemenskerk
+1392,9130,51.30969324,4.262946222,Doel,Onze-Lieve-Vrouw-Hemelvaartkerk
+1393,2930,51.32310864,4.520645145,Maria-ter-Heide,Onze-Lieve-Vrouw-Onbevlekt-Ontvangenkerk
+1394,8850,50.96207029,3.242251353,Meulebeke,Sint-Antonius van Paduakerk
+1395,2910,51.42723367,4.470742013,Wildert,Sint-Jan Baptistkerk
+1396,8000,51.20812208,3.226669712,Bruges,Basilica of the Holy Blood
+1397,8310,51.220855,3.242448693,Bruges,Sint-Franciscuskerk
+1398,8770,50.92130515,3.248885349,Ingelmunster,Maria Rustoord
+1399,3401,50.72187773,5.08745485,Walshoutem,Sint-Lambertuskerk
+1400,9900,51.18350697,3.566153432,Eeklo,Minderbroederskerk
+1401,2980,51.23943379,4.647898399,Halle,Sint-Martinuskerk
+1402,2200,51.17452629,4.835697993,Herentals,Sint-Waldetrudiskerk
+1403,2330,51.3588552,4.864258413,Merksplas,Sint-Willibrorduskerk
+1404,3272,51.00860614,4.952003576,Testelt,Sint-Pieterskerk
+1405,2920,51.35540416,4.473149581,Kalmthout,0
+1406,8020,51.16221409,3.262352706,Oostkamp,Sint-Godelievekerk
+1407,9880,51.09872413,3.37177622,Aalter,Onze-Lieve-Vrouw Hulp der Christenen-kerk
+1408,3800,50.82911804,5.209697432,Sint-Truiden,Sint-Joriskapel
+1409,8730,51.16964484,3.339816226,Oedelem,Sint-Lambertuskerk
+1410,8000,51.21481087,3.226899268,Bruges,Sint-Gilliskerk
+1411,2560,51.13871734,4.629387045,Kessel,Sint-Lambertuskerk
+1412,8340,51.23129777,3.307952119,Damme,Onze-Lieve-Vrouw-Geboorte en Sint-Philippuskerk
+1413,8000,51.21936273,3.230596403,Bruges,O-L-V-ter-Potterie
+1414,8650,50.94350309,2.860738282,Merkem,Kapel van Langewaede
+1415,8000,51.20338601,3.215827747,Bruges,Sint-Godelieve
+1416,9990,51.1811897,3.451989274,Maldegem,Sint-Vincentius a Paulokerk
+1417,8020,51.15505066,3.235527403,Oostkamp,Sint-Pieterskerk
+1418,9900,51.20467118,3.517414803,Eeklo,Sint-Antonius van Paduakerk
+1419,8840,50.95030545,2.979355389,Staden,Sint-Eligiuskerk
+1420,1910,50.9305367,4.540686043,Berg,Sint-Servatiuskerk
+1421,2230,51.05298457,4.881383935,Herselt,Sint-Servatiuskerk
+1422,3700,50.7401861,5.415041609,Lauw,Sint-Pieterskerk
+1423,8610,51.02573116,3.002505428,Handzame,Sint-Hadrianuskerk
+1424,8600,51.01585821,2.833925102,Diksmuide,Sint-Jacobskerk
+1425,2460,51.27467271,4.976205663,Kasterlee,0
+1426,8310,51.19646697,3.236463415,Bruges,Sint-Katarinakerk
+1427,8210,51.15515665,3.195589574,Zedelgem,Sint-Martinuskerk
+1428,8730,51.12777587,3.371491408,Sint-Joris,Sint-Joris ten Distelkerk
+1429,8691,50.9842972,2.621344434,Alveringem,Sint-Martinuskerk
+1430,8830,50.96194087,3.052457544,Hooglede,Christus Koningkerk
+1431,3390,50.93469329,4.860685557,Houwaart,Sint-Denijskerk
+1432,2200,51.12436228,4.83276026,Noorderwijk,Kapel van Onze-Lieve-Vrouw op 't Zand
+1433,2490,51.16203597,5.185946569,Balen,Sint-Thomas van Kantelbergkapel
+1434,8310,51.20202994,3.249707119,Bruges,Sint-Jozef en Sint-Kristoffelkerk
+1435,8200,51.18223977,3.190498943,Bruges,Zuster van de Heilige Jozef
+1436,8000,51.21293301,3.219226239,Bruges,Klooster van Ongeschoeide Karmelieten
+1437,3800,50.85747107,5.239534049,Sint-Truiden,Basiliek Onze-Lieve-Vrouw van Kortenbos
+1438,2328,51.49638536,4.77608303,Meerle,Kapucijnenklooster
+1439,8600,50.99939188,2.800504956,Diksmuide,Sint-Pieterskerk
+1440,9982,51.26819762,3.58068714,Sint-Jan-in-Eremo,Sint-Jan-de-Doperkerk
+1441,9932,51.13058457,3.552260554,Ronsele,Sint-Gangulfuskerk
+1442,8600,51.03024463,2.884479063,Diksmuide,Kapel Onze-Lieve-Vrouw-ter-Hulpe
+1443,3150,50.97711693,4.638098088,Haacht,Sint-Remigiuskerk
+1444,2260,51.08767044,4.837958723,Westerlo,Sint-Carolus Borromeuskerk
+1445,2990,51.39870407,4.643887216,Loenhout,Sint-Petrus en Sint-Pauluskerk
+1446,2930,51.303603,4.506349811,Brasschaat,Sint-Jozefskerk
+1447,3270,50.96496532,4.947036949,Scherpenheuvel,Sint-Jozef en Antonius van Paduakerk
+1448,2223,51.02815111,4.694143443,Schriek,Sint-Jan-Baptistkerk
+1449,8000,51.21266004,3.224464786,Bruges,0
+1450,2180,51.28454525,4.429057456,Antwerp,Sint-Theresia van het Kind Jezus
+1451,2990,51.35831596,4.541202082,Wuustwezel,Sint-Jozefkerk
+1452,2381,51.39694726,4.938202438,Weelde,Onze-Lieve-Vrouw-van-de-Rozenkranskerk
+1453,8610,51.02810739,3.043671991,Kortemark,Sint-Bartholomeuskerk
+1454,8600,51.07350133,2.79536483,Diksmuide,Sint-Niklaas- en Sint-Katharinakerk
+1455,3130,50.98469924,4.781270001,Betekom,Sint-Laurentiuskerk
+1456,2328,51.47432691,4.804243986,Meerle,Sint-Salvatorkerk
+1457,8640,50.89617663,2.721361756,Westvleteren,0
+1458,8870,50.91695877,3.214749083,Izegem,Sint-Tillokerk
+1459,3012,50.92863695,4.724137292,Leuven,Sint-Agathakerk
+1460,2230,51.03231874,4.833100163,Ramsel,Sint-Hubertuskerk
+1461,2340,51.29526753,4.781468662,Vlimmeren,Sint-Quirinuskerk
+1462,2340,51.32230084,4.833518815,Beerse,Onze-Lieve-Vrouw van Altijddurende Bijstandkerk
+1463,1910,50.94170174,4.549005314,Kampenhout,Onze-Lieve-Vrouwkerk
+1464,3201,51.02901196,4.91605016,Langdorp,Sint-Antonius Abtkerk
+1465,8000,51.21044461,3.217540196,Bruges,Technisch Instituut Heilige Familie
+1466,8000,51.2294875,3.205464961,Bruges,Sint-Pieterskerk
+1467,9910,51.13937238,3.412773539,Knesselare,Sint-Willibrorduskerk
+1468,8650,50.95491159,2.849630428,Merkem,Sint-Bavokerk
+1469,8820,51.06845988,3.104968544,Goede Herder,Scholengroep Sint-Rembert
+1470,8647,50.97081615,2.73317423,Pollinkhove,Sint-Bartholomeuskerk
+1471,1700,50.86437579,4.245919687,Dilbeek,Don Boscokerk
+1472,2300,51.30567547,4.939194962,Turnhout,0
+1473,3020,50.92792938,4.637023048,Winksele,Heilig-Hartkerk
+1474,2520,51.1611978,4.600152214,Emblem,Sint-Gummaruskapel
+1475,8800,50.94432734,3.123512996,Roeselare,Sint-Michielskerk
+1476,2180,51.27945496,4.409954764,Antwerp,Sint-Laurentiuskerk
+1477,8647,50.94766203,2.789880391,Reninge,Sint-Rictrudiskerk
+1478,8600,51.03401733,2.864707562,Diksmuide,Sint-Niklaaskerk
+1479,3130,51.0196123,4.782854305,Begijnendijk,Sint-Luciakerk
+1480,2930,51.31516637,4.501611307,Maria-ter-Heide,Goddelijk Kind Jezuskerk
+1481,3150,50.96236798,4.606472296,Wespelaar,Onze-Lieve-Vrouw van Gedurige Bijstandkerk
+1482,2820,51.02271189,4.548065016,Bonheiden,Onze-Lieve-Vrouwkerk
+1483,3150,50.95623019,4.679431858,Wakkerzeel,Sint-Hubertuskerk
+1484,2990,51.39279428,4.564707375,Wuustwezel,Sint-Antonius van Paduakerk
+1485,8690,51.01213491,2.710578468,Alveringem,Sint-Audomaruskerk
+1486,8600,51.05838769,2.886648359,Beerst,Sint-Wandregesiluskerk
+1487,8750,51.04841813,3.227988764,Zwevezele,Saint Joseph Church
+1488,2230,51.07586749,4.916995331,Herselt,Onze-Lieve-Vrouw Ten Hemel Opgenomenkerk
+1489,2340,51.3192192,4.856189386,Beerse,Sint-Lambertuskerk
+1490,2930,51.30167112,4.471254266,Brasschaat,Heilige Familiekerk
+1491,8650,50.99735858,2.904056909,Klerken,Sint-Laurentiuskerk
+1492,2431,51.05205014,4.98111672,Veerle,Sint-Jozef Werkmankerk
+1493,2300,51.32150259,4.955436521,Turnhout,Sint-Antoniuskerk
+1494,8680,51.05419321,2.963144868,Bovekerke,Sint-Gertrudiskerk
+1495,1930,50.88134383,4.473526138,Zaventem,Sint-Martinuskerk
+1496,3080,50.82365247,4.513714445,Tervuren,Sint-Jan-Evangelistkerk
+1497,1950,50.86418624,4.463589102,Kraainem,0
+1498,2200,51.18604448,4.838811101,Herentals,Onze-Lieve-Vrouwkerk
+1499,1500,50.74240772,4.229955152,Halle,Emmaüskerk
+1500,1651,50.76279298,4.278511506,Lot,Sint-Jozefkerk
+1501,2323,51.39838672,4.793835289,Wortel,Sint-Jan Baptistkerk
+1502,2370,51.35500732,5.059946896,Arendonk,0
+1503,8820,51.02709425,3.095264397,Torhout,Sint-Henricuskerk
+1504,2220,51.07609786,4.729491018,Heist-op-den-Berg,Sint-Lambertuskerk
+1505,2590,51.08348181,4.667993322,Berlaar,Sint-Rumolduskerk
+1506,2920,51.39039577,4.463280202,Kalmthout,Heilig Hartkerk
+1507,8600,51.02964009,2.903013928,Diksmuide,Sint-Pieterskerk
+1508,8630,51.06566548,2.733701316,Avekapelle,Sint-Michielskerk
+1509,2040,51.30472825,4.290244795,Antwerp,Sint-Benedictuskerk
+1510,2300,51.33112868,4.957146477,Turnhout,Goddelijk Kind Jezuskerk
+1511,2920,51.36523892,4.459217245,Heide,Sint-Jozefkerk
+1512,3110,50.96461015,4.740031658,Rotselaar,Onze-Lieve-Vrouw van Altijddurende Bijstandkerk
+1513,2820,51.02335634,4.580672624,Rijmenam,Heilige Geest
+1514,9800,51.00793999,3.47989998,Deinze,Sint-Bartholomeuskerk
+1515,1910,50.94598185,4.583074722,Kampenhout,Sint-Jozefkerk
+1516,8920,50.93561665,2.929045059,Langemark,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+1517,2440,51.16192872,4.975723126,Elsum,Sint-Franciscuskerk
+1518,2531,51.17207018,4.54323601,Vremde,Jongenstehuis Don Bosco
+1519,2275,51.26351002,4.786677891,Wechelderzande,Sint-Amelbergakerk
+1520,2235,51.04169729,4.808918866,Houtvenne,Sint-Adrianuskerk
+1521,2381,51.41220511,5.015356053,Weelde,Sint-Jan Baptistkerk
+1522,1910,50.91896782,4.564800351,Nederokkerzeel,Sint-Stephanuskerk
+1523,3128,50.99565636,4.753546597,Baal,Sint-Annakerk
+1524,2950,51.31587654,4.460872314,Kapellen,Sint-Jozefkerk
+1525,1770,50.87723814,4.097016393,Liedekerke,0
+1526,2250,51.18486624,4.904382447,Sint-Jozef-Olen,Sint-Jozefskerk
+1527,2500,51.12407067,4.550560145,Lier,Onze-Lieve-Vrouw Onbevlekt
+1528,2243,51.20509829,4.714200493,Pulle,Sint-Petrus- en Pauluskerk
+1529,2860,51.07011536,4.532508391,Sint-Katelijne-Waver,Sint-Catharinakerk
+1530,3370,50.85381225,4.870839119,Kerkom,Sint-Martinuskerk
+1531,3370,50.84889467,4.850975568,Boutersem,Onze-Lieve-Vrouw van Sterreborne
+1532,1700,50.84506639,4.262646947,Dilbeek,Sint-Ambrosiuskerk
+1533,8560,50.81735967,3.174790303,Wevelgem,Kerk Onbevlekt Hart van Maria
+1534,3670,51.09170963,5.61415011,Neerglabbeek,Sint-Hubertuskerk
+1535,1950,50.83182209,4.471482377,Kraainem,The Link
+1536,3770,50.80096233,5.535025792,Genoelselderen,Sint-Martinuskerk
+1537,3793,50.75160949,5.874884043,Teuven,Sint-Pieterskerk
+1538,3740,50.84630214,5.609700791,Hees,Sint-Quintinuskerk
+1539,8540,50.82161039,3.376831429,Deerlijk,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+1540,8880,50.87634756,3.179616121,Ledegem,Sint-Eligiuskerk
+1541,3000,50.87676644,4.705258819,Leuven,Sancta Maria Kapel
+1542,3000,50.87138837,4.697479774,Leuven,Sint-Jan De Doperkerk
+1543,3010,50.88437384,4.722157095,Leuven,Heilig-Hartkerk
+1544,9320,50.91065314,4.082278148,Erembodegem,St. Amanduskerk (Ten Bos)
+1545,3620,50.88981797,5.651422018,Lanaken,Sint-Ursulakerk
+1546,2600,51.17778398,4.436167468,Antwerp,Sint-Theresia
+1547,1570,50.75249287,3.970956731,Galmaarden,Sint-Pieterskerk
+1548,9571,50.80760983,3.857056131,Hemelveerdegem,Sint-Jan Baptistkerk
+1549,9660,50.82028631,3.717302648,Zegelsem,Sint-Ursmaruskerk
+1550,2850,51.09977124,4.368680914,Boom,Heilig Hartkerk
+1551,8780,50.94547928,3.35770379,Oostrozebeke,Sint-Jozefskerk
+1552,8480,51.0922277,3.009280488,Ichtegem,Sint-Michielskerk
+1553,8434,51.15943778,2.768118792,Westende,Sint-Laurentiuskerk
+1554,8434,51.14928908,2.757663278,Lombardsijde,Onze-Lieve-Vrouw Visitatiekerk
+1555,8460,51.16473105,3.015065214,Westkerke,Sint-Audomaruskerk
+1556,2400,51.196133,5.221407666,Mol,Sint-Jozefkerk
+1557,2480,51.24070113,5.146726547,Dessel,Heilige Familiekerk
+1558,3920,51.24568602,5.335974193,Lommel,Onze-Lieve-Vrouw-van-Lourdeskerk
+1559,3910,51.24711585,5.43824369,Neerpelt,Maagd der Armenkerk
+1560,8583,50.7477335,3.408196394,Avelgem,0
+1561,9600,50.74897882,3.599795845,Ronse,Sint-Hermesbasiliek
+1562,1700,50.86231035,4.214189729,Sint-Martens-Bodegem,Sint-Martinuskerk
+1563,8572,50.81432404,3.496489414,Kaster,Sint-Pieterskerk
+1564,3560,50.97523651,5.224252643,Lummen,Sint-Jan Baptistkerk
+1565,3650,51.02060058,5.744854395,Stokkem,Sint-Elisabethkerk
+1566,3680,51.06907194,5.654815512,Opoeteren,Sint-Dionysiuskerk
+1567,9220,51.06246356,4.153419321,Moerzeke,Sint-Martinuskerk
+1568,1850,50.94722384,4.411901541,Grimbergen,Heilig Hart
+1569,1880,50.97908593,4.350680876,Nieuwenrode,Onze-Lieve-Vrouw Hemelvaartkerk
+1570,2800,51.03046478,4.480965692,Mechelen,Sint-Janskerk
+1571,9310,50.94706331,4.098825019,Moorsel,Sint-Martinuskerk
+1572,2830,51.06430898,4.361675414,Willebroek,Sint-Niklaaskerk
+1573,3550,50.99624896,5.249488003,Heusden-Zolder,Sint-Quirinuskerk
+1574,9630,50.86416225,3.753042145,Zwalm,WZC Huize Roborst
+1575,9403,50.80930044,4.060104678,Neigem,Kapel Bevingen
+1576,9600,50.75195475,3.629655031,Ronse,Sint-Pieterkerk
+1577,8790,50.87444138,3.424848447,Waregem,Sint-Jozefskerk
+1578,8790,50.88107761,3.464116644,Waregem,0
+1579,3730,50.82765279,5.492203474,Hoeselt,Sint-Lambertuskerk
+1580,1745,50.96526831,4.15537938,Opwijk,Onze-Lieve-Vrouw Middelareskerk
+1581,3010,50.88376174,4.758336091,Leuven,Zusters Missionarissen Immaculati Cordis Mariae
+1582,1654,50.74627319,4.276666804,Huizingen,Sint-Jan-de-Doperkerk
+1583,9170,51.19414539,4.096512389,Sint-Pauwels,Sint-Pauluskerk
+1584,8500,50.81586558,3.262213428,Kortrijk,0
+1585,9550,50.85587574,3.888305398,Herzele,0
+1586,3680,51.08842984,5.705489327,Neeroeteren,Sint-Lambertuskerk
+1587,2100,51.2226294,4.480430223,Antwerp,Heilig-Hartkerk
+1588,1500,50.74195173,4.230226526,Halle,Sacramentinen van Halle
+1589,9255,50.99849774,4.17649781,Buggenhout,Sint-Gerardus Majellakerk
+1590,3600,50.94824105,5.501861173,Genk,Maria Moeder van de Kerk
+1591,3660,51.04378011,5.584032091,Opglabbeek,Sint-Lambertuskerk
+1592,1670,50.73984994,4.1350167,Bogaarden,Sint-Theodarduskerk
+1593,8500,50.82823677,3.262975668,Kortrijk,Sint-Michielskerk
+1594,8980,50.90026942,3.021260509,Passchendaele,Sint-Audomaruskerk
+1595,3930,51.233509,5.539473059,Hamont,Salvator Mundikerk
+1596,3300,50.79102552,4.913662616,Oorbeek,Sint-Lambertuskerk
+1597,9160,51.10199646,3.993468158,Lokeren,Sint-Antonius van Paduakerk
+1598,3630,50.98506466,5.713305034,Eisden,Sint-Willibrorduskerk
+1599,3600,51.000218,5.530012114,Genk,Christus Koningkerk
+1600,8531,50.88175009,3.295676539,Hulste,Sint-Pieterskerk
+1601,9190,51.23562435,4.043947313,Stekene,Onze-Lieve-Vrouw van Bijstandkerk
+1602,2660,51.1734281,4.366614573,Antwerp,Heilige-Familiekerk
+1603,3360,50.83501493,4.793160766,Bierbeek,Onze-Lieve-Vrouw Onbevlekt van Lourdeskapel
+1604,3300,50.82879341,4.956562614,Sint-Margriete-Houtem,Sint-Margarethakerk
+1605,9450,50.87168505,4.018598155,Denderhoutem,Sint-Amanduskerk
+1606,9551,50.89090194,3.911287247,Ressegem,Sint-Mauritskerk
+1607,3500,50.93246971,5.336494762,Hasselt,Sint-Rochuskerk
+1608,8980,50.84808642,3.02528911,Beselare,Sint-Martinuskerk
+1609,9550,50.85695793,3.884764402,Sint-Lievens-Esse,Sint-Martinuskerk
+1610,3620,50.83843997,5.630539067,Veldwezelt,Sint-Michielskerk
+1611,2610,51.17045886,4.402969054,Antwerp,Sint-Bavokerk
+1612,9550,50.89562837,3.853723584,Hillegem,Sint-Bartholomeuskerk
+1613,2170,51.24613012,4.450173612,Antwerp,Sint-Franciscuskerk
+1614,8400,51.21137353,2.871968665,Ostend,Onze-Lieve-Vrouw-ter-Duinenkerk
+1615,3360,50.80910735,4.794340983,Opvelp,Sint-Antonius-Abtkerk
+1616,3930,51.25174595,5.546394158,Hamont,Sint-Laurentiuskerk
+1617,3500,50.92094102,5.326175703,Hasselt,Heilig Kruiskerk
+1618,9042,51.14712577,3.821451634,Ghent,Sint-Baafskerk
+1619,8570,50.83861974,3.403529294,Vichte,0
+1620,1702,50.87403071,4.285043723,Groot-Bijgaarden,Heilige Familiekerk
+1621,2160,51.20431307,4.523422091,Wommelgem,Sint-Petrus en Pauluskerk
+1622,2640,51.16752233,4.477721819,Mortsel,0
+1623,8587,50.72967387,3.383580674,Helkijn,Sint-Jan-Baptistkerk
+1624,3210,50.88123848,4.842182781,Lubbeek,Sint-Martinuskerk
+1625,3360,50.85341121,4.750110779,Bierbeek,Kapel
+1626,8930,50.7906712,3.199452072,Lauwe,Verrijzeniskerk
+1627,9400,50.82901441,3.958144518,Voorde,Kapel Onze-Lieve-Vrouw-Ten Beukenboom
+1628,8800,50.89275474,3.11469366,Rumbeke,Sint-Godelievekerk
+1629,8581,50.7983971,3.501302969,Kerkhove,Sint-Amanduskerk
+1630,1703,50.83428946,4.192070554,Schepdaal,Sint-Rumolduskerk
+1631,1861,50.97369483,4.279580086,Wolvertem,Sint-Medarus en Gildarduskerk
+1632,2800,51.02312237,4.478856964,Mechelen,Onze-Lieve-Vrouw-over-de-Dijlekerk
+1633,9160,51.12139308,3.926163386,Eksaarde,Onze-Lieve-Vrouwekerk
+1634,3380,50.84323516,4.944937996,Bunsbeek,Sint-Quirinuskerk
+1635,9500,50.77164113,3.877917455,Geraardsbergen,Onze-Lieve-Vrouwekerk van het Oud-Hospitaal
+1636,9600,50.73967606,3.619288289,Ronse,0
+1637,1932,50.86948057,4.450553204,Zaventem,Sint-Stefaanskerk
+1638,2590,51.1281045,4.675226382,Gestel,Sint-Lambertuskerk
+1639,2260,51.12862055,4.86939746,Tongerlo,Onze-Lieve-Vrouw Bezoekingskerk
+1640,3540,50.95618719,5.176526603,Schulen,Sint-Jan Baptistkerk
+1641,3090,50.77074221,4.503659679,Onze-Lieve-Vrouwedal,0
+1642,2830,51.03401235,4.359309475,Tisselt,Sint-Jan-de-Doperkerk
+1643,8550,50.81809264,3.354620951,Kappaard,0
+1644,1933,50.86154459,4.512219024,Zaventem,Sint-Pancratiuskerk
+1645,9772,50.8895708,3.57562405,Kruisem,Sint-Dionysiuskerk
+1646,9420,50.88937954,3.936688039,Aaigem,Sint-Niklaaskerk
+1647,2430,51.0767991,5.020789988,Vorst,Sint-Gertrudiskerk
+1648,3740,50.89163412,5.474121787,Bilzen,Sint-Gertrudiskerk
+1649,9700,50.88290869,3.628097438,Heurne,Sint-Amanduskerk
+1650,2100,51.23022224,4.459647158,Antwerp,Onze-Lieve-Vrouw van Altijddurende Bijstandkerk
+1651,9120,51.25212906,4.276863492,Kallo,Sint-Petrus-en-Pauluskerk
+1652,1761,50.84870957,4.136783624,Borchtlombeek,Sint-Amanduskerk
+1653,2100,51.22350573,4.469772015,Antwerp,Sint-Rumolduskerk
+1654,3540,50.9394326,5.134737422,Donk,Onze-Lieve-Vrouw Geboortekerk
+1655,9470,50.88284997,4.082545787,Denderleeuw,Sint-Amanduskerk
+1656,9170,51.23518359,4.100229064,Sint-Gillis-Waas,0
+1657,2800,51.02931437,4.485344139,Mechelen,Sint-Pieter-en-Paulkerk
+1658,8780,50.92048149,3.335095639,Oostrozebeke,Sint-Amanduskerk
+1659,9630,50.88711473,3.7559018,Hundelgem,Sint-Martinuskerk
+1660,2100,51.22918559,4.47787872,Antwerp,0
+1661,9220,51.04819694,4.16726367,Moerzeke,Sint-Jozefkerk
+1662,9450,50.9097371,3.990444779,Haaltert,0
+1663,3530,51.06851255,5.416780965,Helchteren,Sint-Jan-Berchmanskerkje
+1664,1852,50.95174196,4.365588026,Beigem,Onze-Lieve-Vrouwekerk
+1665,9200,51.03171631,4.096755875,Dendermonde,0
+1666,9250,51.11928569,4.078502081,Waasmunster,Abdij Roosenberg
+1667,8450,51.24629411,2.961255646,Bredene-Bad,Sint-Theresiakerk
+1668,9790,50.82401548,3.537165767,0,Sint-Mauruskerk
+1669,9660,50.76342403,3.808805401,Everbeek,Onze-Lieve-Vrouwekerk
+1670,3770,50.78687124,5.595623357,Val-Meer,Sint-Stefanuskerk
+1671,1140,50.87331223,4.430146007,Haren,"Building Z, NCIA"
+1672,1730,50.93097319,4.227588963,Mollem,Sint-Stefanuskerk
+1673,2547,51.1276911,4.495946665,Lint,Onze-Lieve-Vrouw-Geboortekerk
+1674,3220,50.9106263,4.720450849,Holsbeek,Sint-Caroluskerk
+1675,3090,50.73785366,4.503331124,Maleizen,0
+1676,1620,50.78691463,4.316574486,Drogenbos,Sint-Niklaaskerk
+1677,1730,50.90157279,4.2164448,Asse,0
+1678,3945,51.08395244,5.105043896,Kwaadmechelen,Onze-Lieve-Vrouw Tenhemelopnemingskerk
+1679,8820,51.09224638,3.066758297,Wijnendale,Sint-Jozefskerk
+1680,1755,50.77558536,4.119184803,Leerbeek,Sint-Pieterskerk
+1681,2650,51.15639998,4.443840189,Edegem,Sint-Antoniuskerk
+1682,3792,50.73746324,5.82339545,Sint-Pieters-Voeren,Sint-Pieters-Stoelkerk
+1683,3791,50.73117828,5.880955598,Remersdaal,Sint-Heribertuskerk
+1684,8400,51.20087068,2.976373375,Ostend,Onze-Lieve-Vrouw-Hemelvaartkerk
+1685,3631,50.94752771,5.742158519,Maasmechelen,Sint-Philomenakerk
+1686,3960,51.11760895,5.646249928,Opitter,Sint-Trudokerk
+1687,1540,50.7252051,4.02943467,Herne,Sint-Petrus-en-Pauluskerk
+1688,8791,50.87548732,3.345773062,Beveren-Leie,0
+1689,3010,50.88515692,4.720215051,Leuven,Kapel Blauwput
+1690,8900,50.86811743,2.848752679,Ypres,Onze-Lieve-Vrouwekerk
+1691,3680,51.04356776,5.625053993,Opoeteren,Sint-Donatuskerk
+1692,8800,50.95780918,3.097497811,Roeselare,Sint Idesbald
+1693,1760,50.84297395,4.083945767,Pamel,Kapel Onze-Lieve-Vrouw-van-Ledeberg
+1694,3640,51.15059471,5.825200298,Kessenich,Sint-Martinuskerk
+1695,1840,51.01489557,4.228030881,Malderen,Mariakapel
+1696,3630,50.96474173,5.681193538,Maasmechelen,Sint-Petrus en Andreaskerk
+1697,3700,50.7456436,5.484858516,Diets-Heur,Sint-Cunibertuskerk
+1698,8540,50.8537491,3.354908396,Deerlijk,Sint-Columbakerk
+1699,3210,50.89675199,4.82503527,Lubbeek,Sint-Bernarduskerk
+1700,3010,50.88432484,4.759925753,Leuven,Missiehuis van Scheut
+1701,8550,50.81804734,3.354224489,Zwevegem,Sint-Jozef-Arbeiderkerk
+1702,3070,50.88596336,4.542180111,Kortenberg,Onze-Lieve-Vrouwekerk
+1703,9100,51.19327259,4.17858617,Nieuwkerken-Waas,Onze-Lieve-Vrouw-ten-Boskerk
+1704,8500,50.83310952,3.263439257,Kortrijk,"Guldensporencollege, campus Kaai"
+1705,2060,51.22631686,4.423659622,Antwerp,Sint-Amanduskerk
+1706,9660,50.80374001,3.764783153,Brakel,Sint-Petrusbandenkerk
+1707,9200,51.02731835,4.100679061,Dendermonde,Sint-Gillis-Binnenkerk
+1708,3000,50.87001001,4.698551557,Leuven,Sint-Kwintenskerk
+1709,8980,50.87247981,2.988408424,Zonnebeke,Onze-Lieve-Vrouwekerk
+1710,2880,51.10134787,4.193081122,Weert,Sint-Annakerk
+1711,3600,50.98732922,5.491886315,Winterslag,0
+1712,3001,50.87423875,4.672616145,Leuven,VBS Ter Bank Egenhoven
+1713,2400,51.19712349,5.12810741,Mol,0
+1714,9700,50.85479992,3.631988005,Ename,Sint-Laurentiuskerk
+1715,2170,51.24824216,4.432862357,Antwerp,Heilige Sacramentskerk
+1716,9200,51.03316956,4.115357274,Dendermonde,Sint-Jozef Arbeiderkerk
+1717,1730,50.92037903,4.241739576,Mollem,Sint-Antoniuskerk
+1718,8210,51.14320654,3.135970574,Zedelgem,Sint-Laurentiuskerk
+1719,9220,51.09207075,4.124051192,Hamme,Heilig Hartkerk
+1720,9770,50.90449446,3.528973673,Kruisem,Sint-Eligiuskerk
+1721,3053,50.83079494,4.727229698,Haasrode,Onze-Lieve-Vrouwekerk
+1722,3384,50.85802101,4.923326502,Attenrode,Sint-Antoniuskerk
+1723,8908,50.85502752,2.82143821,Vlamertinge,Sint-Vedastuskerk
+1724,9506,50.81683524,3.928068409,Geraardsbergen,Sint-Amanduskerk
+1725,3320,50.80190956,4.874611091,Hoegaarden,Sint-Jan Evangelistkerk
+1726,3370,50.81141034,4.840472124,Willebringen,Sint-Pietersbandenkerk
+1727,9255,51.027682,4.220838059,Opdorp,Sint-Amanduskerk
+1728,8670,51.10760646,2.613801228,Koksijde,Sint-Idesbalduskerk
+1729,1755,50.79509179,4.118073823,Gooik,Sint-Niklaaskerk
+1730,1853,50.9115894,4.368173902,Strombeek-Bever,0
+1731,3740,50.86870071,5.499730074,Bilzen,0
+1732,9506,50.80070092,3.926981316,Idegem,Sint-Pietersbandenkerk
+1733,9406,50.86483155,3.979928891,Denderhoutem,Sint-Antonius van Paduakerk
+1734,3798,50.75826244,5.762075132,'s-Gravenvoeren,Sint-Lambertuskerk
+1735,1653,50.7291186,4.299757794,Dworp,Sint-Gaugericuskerk
+1736,9620,50.87472135,3.816987019,Zottegem,Onze-Lieve-Vrouw van Deinsbekekapel
+1737,8980,50.8348237,2.994038429,Geluveld,Sint-Margarethakerk
+1738,9100,51.15860911,4.133781545,Sint-Niklaas,Sint-Jan de Doper
+1739,3401,50.72894678,5.104695291,Wezeren,Sint-Amanduskerk
+1740,1640,50.74351224,4.403048422,Sint-Genesius-Rode,0
+1741,3700,50.76615642,5.441551773,Koninksem,Sint-Servaaskerk
+1742,2070,51.20126803,4.345575413,Burcht,Sint-Martinuskerk
+1743,2880,51.09986983,4.235364043,Bornem,Onze-Lieve-Vrouw-en-Sint-Leodegariuskerk
+1744,8940,50.81033933,3.076951323,Geluwe,Sint-Dionysiuskerk
+1745,9500,50.77140971,3.883672348,Geraardsbergen,Sint-Bartholomeuskerk
+1746,8670,51.12031325,2.678711764,Oostduinkerke,0
+1747,1742,50.87332748,4.156670511,Sint-Katherina-Lombeek,Sint-Catharinakerk
+1748,9140,51.12405075,4.213876269,Temse,Onze-Lieve-Vrouwekerk
+1749,8790,50.88683369,3.432374222,Waregem,Sint-Amandus en Sint-Blasiuskerk
+1750,3360,50.85379341,4.782288506,Lovenjoel,Sint-Lambertuskerk
+1751,8553,50.80811432,3.423354402,Otegem,Sint-Amanduskerk
+1752,3320,50.7735625,4.888328306,Hoegaarden,Sint-Gorgoniuskerk
+1753,1851,50.96709355,4.379986737,Humbeek,Sint-Rumolduskerk
+1754,2800,51.04347591,4.469541826,Mechelen,GVBS Don Bosco
+1755,8680,51.11995673,2.921738468,Zande,Sint-Andreaskerk
+1756,8520,50.85002711,3.28755916,Kuurne,Sint-Michielskerk
+1757,1671,50.77964116,4.17099309,Elingen,Sint-Amanduskerk
+1758,9220,51.09824848,4.138200376,Hamme,Sint-Pietersbandenkerk
+1759,2840,51.10093298,4.413129762,Reet,Heilige Maria Magdalenakerk
+1760,3581,51.08963995,5.249562156,Beringen,Heilig Hartkerk
+1761,8902,50.80554587,2.936411777,Hollebeke,Onze-Lieve-Vrouw Geboortekerk
+1762,9620,50.88897129,3.809493989,Zottegem,0
+1763,9550,50.83978243,3.888364843,Steenhuize-Wijnhuize,Onze-Lieve-Vrouw-Hemelvaartkerk
+1764,9112,51.157356,4.042047405,Sinaai,Tinelkerkhof
+1765,3600,50.96131372,5.486017765,Winterslag,Onze-Lieve-Vrouw van de Rozenkranskerk
+1766,2650,51.16656593,4.427306663,Edegem,Heilige Familiekerk
+1767,9700,50.84054297,3.607592246,Oudenaarde,Onze-Lieve-Vrouwekerk van Pamele
+1768,3910,51.22847143,5.432133295,Neerpelt,Sint-Niklaaskerk
+1769,2020,51.18813396,4.382976412,Antwerp,0
+1770,9180,51.1726332,3.940432527,Moerbeke,Sint-Antonius Abtkerk
+1771,1820,50.90290368,4.516983341,Steenokkerzeel,Sint-Katharinakerk
+1772,3370,50.83050126,4.835501304,Vertrijk,Onze-Lieve-Vrouw-ten-Hemelopnemingkerk
+1773,3670,51.09655608,5.521027935,Meeuwen,Sint-Martinuskerk
+1774,9570,50.78555123,3.841973892,Deftinge,Sint-Ursmaruskerk
+1775,9680,50.81277086,3.627022818,Maarkedal,Sint-Britiuskerk
+1776,9770,50.93361425,3.540878891,Kruisem,Sint-Gabriëlkerk
+1777,8870,50.90211438,3.193909742,Izegem,Heilige Familiekerk
+1778,3294,51.00354006,5.014835718,Molenstede,Sint-Jozefkerk
+1779,3590,50.93606983,5.41971879,Diepenbeek,Heilig Hartkerk
+1780,1755,50.76379442,4.120262996,Kester,Sint-Martinuskerk
+1781,2880,51.07962547,4.199836091,Bornem,Sint-Vincentius a Paulokerk
+1782,8377,51.23538991,3.151689437,Meetkerke,Onze-Lieve-Vrouwekerk
+1783,3630,50.97728345,5.693032443,Vucht,Maagd der Armenkerk
+1784,1790,50.90176935,4.137452341,Essene,Onze-Lieve-Vrouw-Bezoekingkerk
+1785,9150,51.17106056,4.312043542,Kruibeke,Onze-Lieve-Vrouwekerk
+1786,2640,51.17047907,4.446794131,Mortsel,Heilig-Kruiskerk
+1787,3300,50.78969246,4.940380267,Bost,Sint-Odulphuskerk
+1788,1750,50.80671413,4.154459062,Sint-Kwintens-Lennik,Sint-Kwintenkerk
+1789,1861,50.93855594,4.306061674,Wolvertem,Sint-Stephanuskerk
+1790,8211,51.1194479,3.090233432,Aartrijke,Sint-Andreaskerk
+1791,8570,50.83232884,3.478697049,Anzegem,Sint-Jan-Baptist en Sint-Eligiuskerk
+1792,3960,51.15506219,5.603254155,Beek,Sint-Martinuskerk
+1793,2840,51.07801618,4.427007305,Rumst,Sint-Pieterskerk
+1794,9042,51.12227238,3.781025348,Ghent,Onze-Lieve-Vrouw-Geboortekerk
+1795,1560,50.76791662,4.472295753,Hoeilaart,Sint-Clemenskerk
+1796,9620,50.87253851,3.833261261,Grotenberge,Onze-Lieve-Vrouwcollege campus Grotenberge
+1797,3120,50.99156566,4.705284133,Tremelo,Onze-Lieve-Vrouw van Bijstandkerk
+1798,1730,50.91864457,4.157443912,Asse,Sint-Hubertuskerk
+1799,9772,50.89009092,3.551161274,Kruisem,Sint-Machutuskerk
+1800,2600,51.20271519,4.443659589,Antwerp,Heilige Drievuldigheidskerk
+1801,3060,50.8609442,4.62866252,Bertem,Sint-Pieterskerk
+1802,3001,50.87625601,4.678462538,Leuven,Onbevlekt Hart van Mariakerk
+1803,8340,51.25276478,3.383108102,Moerkerke,Sint-Ritakerk
+1804,8530,50.85650013,3.322646771,Harelbeke,De Vleugel
+1805,8500,50.84126505,3.268967909,Kortrijk,Pius X
+1806,8310,51.20925565,3.288371217,Bruges,Kasteel van Male
+1807,3080,50.85656741,4.536757885,Tervuren,Sint-Jozefkerk
+1808,9700,50.85178537,3.594941526,Bevere,Sint-Pieterskerk
+1809,8480,51.10247895,3.034283144,Ichtegem,Engelkerk
+1810,8400,51.22961016,2.921247824,Ostend,Sint-Petrus-en-Pauluskerk
+1811,3583,51.06154896,5.198013748,Paal,Onze-Lieve-Vrouw-Onbevlekt-Ontvangenkerk
+1812,3500,50.93712549,5.384353868,Hasselt,Onze-Lieve-Vrouw-Bezoeking
+1813,8790,50.86358144,3.401788697,Waregem,Sint-Margaretakerk
+1814,1673,50.73895138,4.179262815,Beert,Sint-Augustinuskerk
+1815,8570,50.83572088,3.402965645,Vichte,Oude Sint-Stephanus en Sint-Theodoricuskerk
+1816,9470,50.89518676,4.07340353,Denderleeuw,Sint-Annakerk
+1817,2570,51.09454049,4.500650886,Duffel,Sint-Martinuskerk
+1818,3620,50.88466975,5.674402454,Lanaken,Sint-Jozefskerk
+1819,3770,50.81662573,5.66793175,Kanne,Heilig Grafkapel
+1820,8600,51.0771456,2.825012912,Diksmuide,Sint-Pieterskerk
+1821,3370,50.84247052,4.851791667,Boutersem,Sint-Michielskerk
+1822,3060,50.83930206,4.641165311,Korbeek-Dijle,Sint-Bartholomeuskerk
+1823,3600,50.9996243,5.518637968,Winterslag,Oekraïens-Katholieke kerk
+1824,9620,50.86989065,3.807858413,Zottegem,0
+1825,9572,50.80416507,3.822426201,Sint-Martens-Lierde,Sint-Martinuskerk
+1826,3290,51.00018558,5.082607632,Schaffen,Sint-Hubertuskerk
+1827,9160,51.10241721,3.980548261,Lokeren,Sint-Annakapel
+1828,1740,50.87190396,4.176390664,Ternat,Sint-Gertrudiskerk
+1829,3212,50.87039383,4.794001872,Pellenberg,Sint-Pieterskerk
+1830,1831,50.8938839,4.435834135,Diegem,Sint-Catharina en Sint-Corneliuskerk
+1831,1600,50.80458595,4.28453328,Sint-Pieters-Leeuw,Sint-Stevenskerk
+1832,8470,51.13566513,2.919804213,Zevekote,Vrije Basisschool Driespan
+1833,1761,50.84808526,4.102615753,Ledeberg,0
+1834,8908,50.85502153,2.790111407,Vlamertinge,Heilige Familiekerk
+1835,3370,50.83346337,4.862606293,Roosbeek,Sint-Annakerk
+1836,9280,51.00007691,4.150489493,Heizijde,0
+1837,3640,51.12608932,5.802666061,Ophoven,Sint-Servatiuskerk
+1838,3740,50.8752914,5.574638959,Eigenbilzen,Sint-Ursulakerk
+1839,3001,50.86280133,4.687771218,Leuven,Campus Arenberg I
+1840,9630,50.85152337,3.719875212,Zwalm,Sint-Blasiuskerk
+1841,9968,51.252849,3.650055864,Bassevelde,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+1842,1700,50.84142964,4.279705061,Dilbeek,Sint-Theresia van het Kind Jezuskerk
+1843,9150,51.12762603,4.291054662,Rupelmonde,Onze-Lieve-Vrouwekerk
+1844,3050,50.82199367,4.663606291,Oud-Heverlee,Kapel Onze-Lieve-Vrouw van Steenbergen
+1845,3740,50.83325328,5.553213302,Grote-Spouwen,Sint-Lambertuskerk
+1846,8530,50.84074053,3.292979514,Harelbeke,Sint-Rita
+1847,9400,50.84644184,3.974927142,Nederhasselt,Sint-Amanduskerk
+1848,8433,51.1113373,2.83945915,Schore,Onze-Lieve-Vrouwkerk
+1849,9100,51.16523585,4.138073094,Sint-Niklaas,Onze-Lieve-Vrouwkerk
+1850,9988,51.28751257,3.589063051,Waterland-Oudeman,Sint-Niklaaskerk
+1851,9981,51.28232923,3.54615128,Sint-Margriete,Sint-Margaretakerk
+1852,8870,50.92174407,3.199103736,Mol,0
+1853,8340,51.27742451,3.295427604,Damme,Sint-Quintinuskerk
+1854,8340,51.29256008,3.330843297,Hoeke,Sint-Jacob de Meerderekerk
+1855,8300,51.33807048,3.304735991,Knokke-Heist,AZ Zeno campus Knokke-Heist
+1856,8300,51.34176459,3.286327337,Knokke-Heist,Onbevlekt Hart van Maria- en Margaretakerk
+1857,8300,51.35267977,3.305471275,Knokke-Heist,0
+1858,8340,51.27815465,3.356838113,Lapscheure,Heilige Drievuldigheid en Heilige Christianuskerk
+1859,8300,51.35110208,3.291591224,Knokke-Heist,Heilig Hartkerk
+1860,8380,51.27470922,3.228096602,Bruges,Sint-Pietersbandenkerk
+1861,8380,51.30973104,3.197436941,Bruges,Sint-Leo de Grotekerk
+1862,8380,51.29415767,3.199048626,Bruges,0
+1863,8301,51.34257476,3.262009349,Heist,Kristus-Koningkapel
+1864,8380,51.32808552,3.182423362,Bruges,Stella Mariskapel
+1865,8301,51.33940953,3.235886934,Heist,Sint-Antonius-Abtkerk
+1866,8380,51.33173656,3.207395149,Bruges,Sint-Donaaskerk
+1867,8301,51.34029524,3.260674653,Heist,Heilige Familiekerk
+1868,8301,51.31518007,3.250405131,Ramskapelle,Sint-Vincentiuskerk
+1869,8377,51.27400325,3.098838489,Nieuwmunster,Sint-Bartholomeuskerk
+1870,8420,51.29807358,3.082238696,Wenduine,Heilige-Kruisverheffingskerk
+1871,8370,51.30367336,3.142431478,Uitkerke,Sint-Amanduskerk
+1872,8370,51.31323856,3.137969257,Blankenberghe,Villa Karmel
+1873,8370,51.31178502,3.132796332,Blankenberge,Sint-Antonius Abtkerk
+1874,8370,51.31563423,3.131505161,Blankenberge,Sint-Rochuskerk
+1875,8420,51.27147396,3.035784612,De Haan,Sint-Monicakerk
+1876,2500,51.13817934,4.559976322,Lier,Heilig Hartkerk
+1877,2500,51.14491694,4.575366489,Lier,0
+1878,2500,51.13588009,4.56893159,Lier,Heilig Kruiskerk
+1879,2500,51.12900213,4.573735461,Lier,Zwartzustersklooster
+1880,2242,51.21778275,4.692430951,Pulderbos,Onze-Lieve-Vrouw Hemelvaartkerk
+1881,2500,51.13053054,4.57485151,Lier,Sint-Pieterskapel
+1882,2240,51.23387768,4.686654709,Zandhoven,0
+1883,2560,51.14655295,4.605604605,Kessel,0
+1884,2520,51.18373868,4.545545554,Ranst,Onze-Lieve-Vrouw-Ten-Hemel-Opgenomenkapel
+1885,2500,51.12829391,4.567762779,Lier,Sint-Margaritakerk
+1886,2520,51.19489844,4.557254388,Ranst,Zevenbergen
+1887,2260,51.10584607,4.906242637,Tongerlo,Abdijkerk Onze Lieve Vrouw-ten-hemel-opgenomen
+1888,2260,51.10614843,4.910485233,Tongerlo,Priorij Heilig Graf Tongerlo
+1889,2200,51.1800395,4.829308021,Herentals,Sint-Antoniuskerk
+1890,2500,51.1307847,4.57038628,Lier,Sint-Jacobskapel
+1891,2970,51.23169778,4.583272849,Schilde,Sint-Guibertuskerk
+1892,2970,51.26294582,4.554309591,'s-Gravenwezel,Sint-Catharinakerk
+1893,2970,51.24878065,4.57446399,'s-Gravenwezel,0
+1894,2290,51.20187822,4.771984913,Vorselaar,Klooster- en scholencomplex van de zusters van de Heilige Jozef van Calasanz
+1895,2280,51.19446568,4.74414385,Grobbendonk,0
+1896,2970,51.2634767,4.556935956,'s-Gravenwezel,Zorgcentrum Sint-Lodewijk
+1897,2200,51.17773515,4.83542076,Herentals,Hotel Karmel
+1898,3920,51.23592429,5.375344118,Lommel,Sint-Antoniuskerk
+1899,2400,51.22100685,5.205276292,Mol,Sint-Carolus Borromeuskerk
+1900,3990,51.13280943,5.451155339,Peer,Sint-Trudokerk
+1901,3970,51.1164816,5.264200915,Leopoldsburg,Karmel Vml klooster
+1902,3920,51.22384768,5.262329509,Lommel,Sint-Barbarakerk
+1903,3920,51.21114969,5.316357319,Lommel,Heilige Sacramentskerk
+1904,3990,51.13409052,5.428296061,Wijchmaal,Sint-Hubertuskapel
+1905,2400,51.21771035,5.112325512,Mol,Sint-Antoniuskerk
+1906,2490,51.16990141,5.137058336,Balen,Onze-Lieve-Vrouw van Altijddurende Bijstandkerk
+1907,2480,51.24008516,5.11320637,Dessel,Sint-Niklaaskerk
+1908,3910,51.20292937,5.448560674,Neerpelt,Sint-Willibrorduskerk
+1909,3900,51.23291468,5.398290963,Overpelt,Sint-Jozefskerk
+1910,3945,51.10381425,5.178268305,Oostham,Onze-Lieve-Vrouw-Geboortekerk
+1911,2490,51.17103741,5.168678402,Balen,Sint-Andrieskerk
+1912,2450,51.11954526,5.052794163,Meerhout,Parochiekerk Sint-Bavo
+1913,8900,50.84372657,2.870516219,Ypres,Onze-Lieve-Vrouw Middelareskerk
+1914,8890,50.86723758,3.088419183,Moorslede,Sint-Theresiakerk
+1915,8902,50.81694634,2.876192433,Voormezele,Onze-Lieve-Vrouwekerk
+1916,8890,50.89243462,3.066711553,Moorslede,Woon- en zorgcentrum Maria Middelares
+1917,8900,50.85217585,2.883001244,Ypres,Saint George's Memorial Church
+1918,8930,50.80074869,3.125352081,Menin,0
+1919,8908,50.83719202,2.855472782,Ieper,0
+1920,8970,50.85597084,2.725073193,Poperinge,0
+1921,8904,50.89574853,2.85585287,Boezinge,Sint-Michielskerk
+1922,8340,51.24944461,3.282682467,Damme,Onze-Lieve-Vrouw Hemelvaartkerk
+1923,9000,51.048799,3.735018042,Ghent,Sint-Annakerk
+1924,9320,50.92046057,4.058369897,Erembodegem,Onze-Lieve-Vrouw-Hemelvaartkerk
+1925,9040,51.07578339,3.751869477,Ghent,Sint-Bernadettekerk
+1926,9000,51.04308545,3.719740433,Ghent,0
+1927,9050,51.04490323,3.759402996,Ghent,Heilige Simon en Judas-Thaddeuskerk
+1928,9820,50.95790791,3.693587705,Melsen,Sint-Stephanuskerk
+1929,9300,50.93926087,4.025292453,Aalst,0
+1930,9810,50.9547031,3.640697466,Eke,VBS Eke
+1931,9310,50.97181831,4.06676099,Herdersem,Onze-Lieve-Vrouw Hemelvaartkerk
+1932,9000,51.04803865,3.742356097,Ghent,Regenboogkerk
+1933,9000,51.0542709,3.727749125,Ghent,Moederhuis van de zusters der Kindsheid Jesus
+1934,9300,50.93029026,4.070469698,Aalst,Sint-Jan Evangelistkerk
+1935,9050,51.04247782,3.74505935,Ghent,0
+1936,9000,51.05701648,3.712307742,Ghent,Sint-Elisabethkerk
+1937,9300,50.94943729,4.042923429,Aalst,Heilig Hartkerk
+1938,9050,51.03723565,3.742854307,Ghent,Sint-Lievenskerk
+1939,9320,50.91979899,3.987942624,Nieuwerkerken,Sint-Jozefkerk
+1940,9000,51.034317,3.726666633,Ghent,Sint-Coletakerk
+1941,9000,51.06940932,3.731723001,Ghent,0
+1942,9031,51.0760611,3.630289172,Ghent,Onze-Lieve-Vrouwekerk
+1943,9000,51.03924306,3.713173909,Ghent,Sint-Pauluskerk
+1944,9308,50.96090793,4.034525406,Hofstade,Onze-Lieve-Vrouw-Hemelvaartkerk
+1945,9520,50.92062917,3.860032382,Sint-Lievens-Houtem,Sint-Michielskerk
+1946,9290,51.04681009,3.946198011,Overmere,Onze-Lieve-Vrouw Hemelvaartkerk
+1947,9000,51.0511517,3.714697138,Ghent,Kapel Sint-Jozef
+1948,9040,51.06763466,3.76158663,Ghent,Zorgcentrum Heiveld
+1949,9000,51.06381702,3.729788626,Ghent,Sint-Salvatorkerk
+1950,9840,50.99142248,3.649174321,De Pinte,Sint Niklaaskerk
+1951,9240,51.06840829,4.039078121,Zele,Sint-Ludgeruskerk
+1952,9420,50.93577861,3.930697991,Vlekkem,Sint-Lambertuskerk
+1953,9340,50.95365628,3.931527143,Lede,Sint-Machariuskerk
+1954,9890,50.92891882,3.66258841,Gavere,WZC Mariahuis
+1955,9300,50.93580103,4.040725184,Aalst,0
+1956,8000,51.21910087,3.22199519,Bruges,Spermalie - Internaat De Veste
+1957,9070,51.05626464,3.765339438,Destelbergen,Basisschool Pius X
+1958,9050,51.03190078,3.763162583,Ghent,Sint-Eligiuskerk
+1959,9300,50.95232236,4.061588841,Aalst,Sint-Pauluszaal- en kerk
+1960,9300,50.93821929,4.042693027,Aalst,Stedelijk Museum 't Gasthuys
+1961,9308,50.9844221,4.050875141,Gijzegem,0
+1962,9031,51.05005175,3.663363358,Ghent,Sint-Gerolfkerk
+1963,9030,51.0722832,3.694602332,Ghent,Heilig Hartkerk
+1964,9000,51.05737184,3.714557373,Ghent,Klooster van de arme klaren-coletinnen
+1965,9320,50.99846068,3.889409337,Wetteren,Parochiecentrum Christus Koning
+1966,9000,51.07716093,3.730563989,Ghent,Sint-Theresia van Avillakerk
+1967,9052,51.00124481,3.716242736,Zwijnaarde,0
+1968,9000,51.05409881,3.713911614,Ghent,LUCA campus Sint-Lucas Architectuur
+1969,9051,51.02115042,3.670160679,Ghent,0
+1970,9300,50.94116053,4.035131464,Aalst,Sint-Jozefkerk
+1971,9260,51.00609856,3.974834542,Wichelen,Sint-Gertrudiskerk
+1972,9000,51.04778486,3.712951356,Ghent,Ziekenhuis Toevlucht van Maria Middelares
+1973,9290,51.02499962,4.003382665,Berlare,Sint-Martinuskerk
+1974,9030,51.07250867,3.675787564,Ghent,Onze-Lieve-Vrouwkerk
+1975,9000,51.04243255,3.727416366,Ghent,Onze-Lieve-Vrouw Sint-Pieterskerk
+1976,9000,51.05924803,3.720392202,Ghent,St Stephen's Church
+1977,9260,50.98905103,3.929957749,Serskamp,Sint-Denijskerk
+1978,9000,51.04812378,3.736176236,Ghent,Nieuwen Bosch
+1979,9521,50.92546758,3.883649142,Sint-Lievens-Houtem,0
+1980,9000,51.04418233,3.724083951,Ghent,0
+1981,9340,50.96619817,3.927724913,Smetlede,Sint-Pharaïldiskerk
+1982,9240,51.06520104,4.026798155,Zele,Onze-Lieve-Vrouw van Zeven Weeënkerk
+1983,9000,51.06860595,3.709144927,Ghent,Sint-Vincentiuskerk
+1984,9300,50.93783053,4.041014469,Aalst,Sint-Martinuskerk
+1985,9000,51.06637863,3.72175098,Ghent,Blaisantkerk
+1986,9000,51.0580912,3.71604148,Ghent,Leeuwenhok
+1987,9300,50.93262318,4.029989831,Aalst,0
+1988,9420,50.91383635,3.920597998,Burst,Sint-Martinuskerk
+1989,9000,51.02302294,3.71903338,Ghent,Christus Koningkerk
+1990,9520,50.93174282,3.896328881,Vlierzele,Sint-Fledericuskerk
+1991,9000,51.05374402,3.727172395,Ghent,0
+1992,9850,51.03400618,3.5427745,Deinze,Woonzorgcentrum Ter Leenen
+1993,9000,51.03366073,3.706429483,Ghent,Clemenspoort
+1994,2230,51.0361656,4.816091747,Ramsel,Strokapel
+1995,3271,51.0330495,4.980192615,Averbode,Sint-Jan Baptistkerk
+1996,3120,50.98834268,4.676244565,Tremelo,Pater Damiaanmuseum
+1997,3120,50.99735637,4.715983809,Tremelo,Kapel
+1998,3150,50.98221409,4.614593707,Haacht,Sint-Adrianuskerk
+1999,2860,51.05473698,4.544333311,Sint-Katelijne-Waver,Politie Bodukap (hoofdcommissariaat)
+2000,2580,51.0385421,4.588976111,Putte,Sint-Jozefkerk
+2001,2861,51.06517918,4.578461077,Onze-Lieve-Vrouw-Waver,Kloosterkerk
+2002,3270,50.98120502,4.979685086,Scherpenheuvel,Mariahal
+2003,2235,51.06093467,4.835034168,Westmeerbeek,Sint-Michielskerk
+2004,3110,50.94257067,4.739330732,Rotselaar,Montfortcollege
+2005,8720,50.93362619,3.397104786,Wakken,O.L.V. van Lourdes
+2006,3270,50.98032377,4.978252234,Scherpenheuvel,Basilica of Our Lady of Scherpenheuvel
+2007,3018,50.92670652,4.702472073,Leuven,Sint-Hadrianuskerk
+2008,3200,50.99238647,4.841299811,Aarschot,Christus Koningkerk
+2009,3461,50.91098869,4.951346328,Bekkevoort,Muggenbergkapel
+2010,2431,51.0631449,4.991339772,Veerle,Centra voor Ambulante Revalidatie Laakdal
+2011,2861,51.06196378,4.580393764,Onze-Lieve-Vrouw-Waver,0
+2012,3200,50.99218362,4.84107205,Aarschot,0
+2013,2861,51.06264478,4.580103967,Onze-Lieve-Vrouw-Waver,Onze-Lieve-Vrouwkerk
+2014,3200,50.98780327,4.839252401,Aarschot,CC 't Gasthuis
+2015,2580,51.05644448,4.629809732,Putte,Sint-Niklaaskerk
+2016,1601,50.79016501,4.298223154,Ruisbroek,Jan Ruusbroec en Onze-Lieve-Vrouwekerk
+2017,1600,50.78803455,4.198053902,Sint-Laureins-Berchem,Sint-Laurentiuskerk
+2018,1600,50.79184479,4.277483028,Sint-Pieters-Leeuw,Sint-Lutgardiskerk
+2019,1780,50.90961182,4.302408952,Wemmel,Sint-Servaaskerk
+2020,1600,50.79925803,4.283141093,Sint-Pieters-Leeuw,Missiehuis van Scheut
+2021,1600,50.78097234,4.199283441,Oudenaken,Sint-Pietersbandenkerk
+2022,1640,50.73876247,4.372596216,Sint-Genesius-Rode,Sint-Barbarakerk
+2023,1640,50.73989092,4.394235194,Sint-Genesius-Rode,Chapelle Notre Dame de l'Assomption
+2024,1970,50.84214665,4.497587778,Oppem,Passionistenklooster van Sint-Michael en Sint-Jozef
+2025,1760,50.82215078,4.114027024,Onze-Lieve-Vrouw-Lombeek,Onze-Lieve-Vrouwkerk
+2026,1700,50.88005,4.218061558,Sint-Ulriks-Kapelle,Sint-Ulrikkerk
+2027,1600,50.77916844,4.243449027,Sint-Pieters-Leeuw,Sint-Pieterskerk
+2028,1740,50.87622196,4.129938788,Sint-Katherina-Lombeek,Sint-Jozefkerk
+2029,1750,50.81220612,4.167006979,Sint-Martens-Lennik,Sint-Martinuskerk
+2030,3090,50.77676948,4.52491998,Overijse,0
+2031,1651,50.77081499,4.273718501,Ruisbroek,Wolfshagenkapel
+2032,1970,50.85339485,4.482050969,Wezembeek,Sint-Pieterskerk
+2033,1741,50.85266204,4.161597919,Wambeek,Sint-Remigiuskerk
+2034,1800,50.90635317,4.380654329,Vilvoorde,0
+2035,1670,50.75907907,4.159783782,Pepingen,Sint-Martinuskerk
+2036,3920,51.24232031,5.325511522,Lommel,0
+2037,2320,51.40089793,4.761966596,Hoogstraten,Sint-Catharinakerk
+2038,2300,51.32121938,4.942306311,Turnhout,Heilig Hartkerk
+2039,2390,51.28663357,4.665859044,Westmalle,Sint-Pauluskerk
+2040,2960,51.33549179,4.664604738,Sint-Lenaarts,Emmaus
+2041,2300,51.32200634,4.948812986,Turnhout,0
+2042,2300,51.32901517,4.949852193,Turnhout,Sint-Theobalduskapel
+2043,2387,51.44246038,4.930980776,Baarle,Sint-Remigiuskerk
+2044,2310,51.34965237,4.76081215,Rijkevorsel,Sint-Willibrorduskerk
+2045,2390,51.30148478,4.733047927,Oostmalle,Sint-Laurentiuskerk
+2046,2990,51.38866996,4.598868907,Wuustwezel,Onze-Lieve-Vrouw-Hemelvaartkerk
+2047,2960,51.29257284,4.583418806,Sint-Job-in-'t-Goor,Sint-Jobkerk
+2048,2328,51.49182763,4.76592187,Meerle,Sint-Luciakapel
+2049,2381,51.40827602,4.994658152,Weelde,Sint-Michielskerk
+2050,2960,51.35130382,4.642630113,Brecht,Sint-Michielskerk
+2051,2960,51.31662004,4.632931414,Brecht,Abdij Onze-Lieve-Vrouw van Nazareth
+2052,9800,50.9994099,3.550655731,Deinze,Sint-Petrus en Pauluskerk
+2053,3890,50.72131482,5.128646442,Montenaken,Sint-Martinuskerk
+2054,8700,51.0131138,3.402544641,Kanegem,Sint-Bavokerk
+2055,8870,50.93074226,3.218776741,Izegem,0
+2056,2920,51.43282264,4.518504335,Nieuwmoer,Onze-Lieve-Vrouw-Hemelvaartkerk
+2057,2180,51.29763804,4.409880135,Antwerp,Sint Vincentschool
+2058,2910,51.46805754,4.469140553,Essen,Onze-Lieve-Vrouw-Geboortekerk
+2059,2920,51.38266429,4.4771873,Kalmthout,Onze-Lieve-Vrouwekerk
+2060,2900,51.27903445,4.518752076,Schoten,0
+2061,9800,51.00894809,3.579487421,Deinze,Onze-Lieve-Vrouw en Sint-Jan-Baptistkerk
+2062,8587,50.71796383,3.35560597,Spiere,Heilig Hart van Jezus en Sint-Amanduskerk
+2063,3400,50.75585393,5.080791942,Landen,Sint-Gertrudiskerk
+2064,3500,50.90465854,5.35771176,Hasselt,Sint-Jozefskerk
+2065,3454,50.89180789,5.163224167,Rummen,Sint-Ambrosiuskerk
+2066,3700,50.80812503,5.43091179,Overrepen,Sint-Laurentiuskerk
+2067,3350,50.82233076,5.059011491,0,Sint-Pancratiuskerk
+2068,3800,50.82215879,5.247430359,Zepperen,Sint-Genovevakerk
+2069,9800,50.97589522,3.473400921,Deinze,Sint-Jan Baptistkerk
+2070,3891,50.75243849,5.17627728,Buvingen,Sint-Trudokerk
+2071,3800,50.81848262,5.19010752,Sint-Truiden,0
+2072,3570,50.89914525,5.276567977,Alken,Kasteel d'Erckenteel
+2073,3700,50.78622326,5.419957978,Piringen,Sint-Gertrudiskerk
+2074,3800,50.815591,5.187074618,Sint-Truiden,Onze-Lieve-Vrouwekerk
+2075,9031,51.03696925,3.61994752,Ghent,Sint-Martinuskerk
+2076,3570,50.8983837,5.276127088,Alken,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+2077,3501,50.88301461,5.352843927,Wimmertingen,Sint-Niklaaskerk
+2078,3800,50.78389638,5.235076485,Brustem,Saffraanberg
+2079,3800,50.81807215,5.183049324,Sint-Truiden,0
+2080,3440,50.83419699,5.101619637,Zoutleeuw,0
+2081,3540,50.90698306,5.202152257,Herk-de-Stad,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+2082,3800,50.81909302,5.193460772,Sint-Truiden,Sint-Jacobskerk
+2083,3850,50.89805927,5.224176952,Wijer,Sint-Pietersbandenkerk
+2084,3800,50.81183949,5.177100318,Sint-Truiden,Psychiatrisch Ziekenhuis Asster
+2085,8700,50.99727413,3.422692434,Aarsele,Sint-Martinuskerk
+2086,3000,50.87298402,4.697981043,Leuven,Zwartzustersklooster
+2087,3300,50.76674317,4.950954125,Goetsenhoven,Huize Nazareth
+2088,3020,50.90716712,4.674098479,Herent,Onze-Lieve-Vrouwkerk
+2089,3390,50.9081884,4.876457151,Sint-Joris-Winge,Sint-Joriskerk
+2090,3078,50.88251033,4.585725673,Meerbeek,Sint-Antoniuskerk
+2091,9800,51.01344975,3.583655613,Deinze,Sint-Martinuskerk
+2092,3040,50.78686772,4.616690335,Huldenberg,Klooster 't Keyhof
+2093,3061,50.84794178,4.590957511,Leefdaal,Sint-Lambertuskerk
+2094,3071,50.90373857,4.558073014,Erps,Sint-Amanduskerk
+2095,3010,50.87123203,4.723477558,Leuven,Sint-Franciscuskerk
+2096,3040,50.78725953,4.633940589,Sint-Agatha-Rode,Sint-Agathakerk
+2097,3000,50.87499978,4.704302456,Leuven,KADOC
+2098,3010,50.89178669,4.73613147,Leuven,Abdijkerk
+2099,3320,50.78826492,4.838235023,Meldert,Sint-Ermelindiskerk
+2100,3020,50.90652936,4.681168915,Herent,0
+2101,3000,50.88143694,4.688538643,Leuven,0
+2102,3300,50.80598881,4.939481616,Tienen,Sint-Germanuskerk
+2103,8800,50.93737067,3.122647172,Roeselare,Heilig-Hartkerk
+2104,8800,50.94386498,3.119783953,Roeselare,Zusters der Arme Klaren
+2105,3600,50.98772622,5.537959804,Genk,Onze-Lieve-Vrouw Hemelvaartkerk
+2106,3650,51.05238125,5.737526934,Rotem,Sint-Monulphus en Gondulphuskerk
+2107,8640,50.90063531,2.79044957,Woesten,Sint-Rectrudiskerk
+2108,8940,50.77988361,3.0457013,Wervik,0
+2109,8970,50.85260732,2.721950695,Poperinge,Onze-Lieve-Vrouwekerk
+2110,8900,50.85038909,2.881062782,Ypres,Sint-Niklaaskerk
+2111,8560,50.81707828,3.174507303,Wevelgem,Kerk Onbevlekt Hart van Maria
+2112,8890,50.84985911,3.094811622,Dadizele,Openluchtkapel
+2113,8900,50.85187652,2.885049362,Ypres,Saint Martin's Church
+2114,8890,50.85125876,3.094974196,Dadizele,Basiliek van Onze-Lieve-Vrouwe van Dadizele
+2115,8900,50.85790325,2.882422244,Ypres,0
+2116,8940,50.77717273,3.041551233,Wervik,Sint-Medarduskerk
+2117,3960,51.14240149,5.647491643,Bree,Sint-Lutgardiskerk
+2118,3640,51.16987725,5.737969325,Molenbeersel,Oude begraafplaatsen
+2119,8460,51.18438226,3.003890908,Oudenburg,Onze-Lieve-Vrouwekerk
+2120,8460,51.17898528,3.028753065,Ettelgem,Sint-Eligiuskerk
+2121,8670,51.11342277,2.633854926,Koksijde,Onze-Lieve-Vrouw-ter-Duinenkerk
+2122,8660,51.09321966,2.590281234,De Panne,Sint-Pieterskerk
+2123,8650,50.95187987,2.852204991,Merkem,Klooster- en scholencomplex van de zusters van Maria
+2124,8800,50.95963561,3.116484563,Roeselare,Sint-Godelievekerk
+2125,8600,50.99647678,2.869706899,Woumen,0
+2126,8820,51.06726836,3.083944905,Torhout,Don Boscokerk
+2127,2300,51.28717572,4.945269257,Turnhout,Onze-Lieve-Vrouw Berg Carmelkerk
+2128,2300,51.30889485,4.954354532,Turnhout,0
+2129,2350,51.30352027,4.881406353,Vosselaar,Vrijetijdshuis De Moer
+2130,2390,51.3012778,4.732973311,Oostmalle,Toren van de oude Sint-Laurentiuskerk
+2131,2330,51.38341977,4.899594064,Merksplas,Onze-Lieve-Vrouw der Stilte
+2132,2300,51.32313638,4.948912319,Turnhout,Sint-Pieterskerk
+2133,2960,51.30231409,4.560364515,Sint-Job-in-'t-Goor,Onze-Lieve-Vrouw van Lourdeskerk
+2134,2300,51.28729673,4.945383533,Turnhout,Onze-Lieve-Vrouw Berg Carmelkerk
+2135,8820,51.06914126,3.101468392,Goede Herder,Sint-Augustinusrusthuis
+2136,8800,50.93644995,3.097414557,Roeselare,Afscheidsruimte
+2137,1540,50.7086686,4.068706985,Herne,Onze-Lieve-Vrouwkerk
+2138,3700,50.79032586,5.471089358,Tongeren,Sint-Jozefskerk
+2139,3740,50.84227596,5.521504099,Rijkhoven,0
+2140,3920,51.22669579,5.227471957,Lommel,Stevensvennenkerk
+2141,3440,50.83327145,5.103033098,Zoutleeuw,Sint-Leonarduskerk
+2142,3830,50.83616294,5.358346195,Wellen,0
+2143,2830,51.05655821,4.364480665,Willebroek,Kapel Sint-Jozef-Ambachtsman
+2144,2800,51.02887299,4.479037082,Mechelen,St. Rumbold's Cathedral
+2145,1840,51.02012195,4.243330842,Malderen,Sint-Amanduskerk
+2146,2850,51.08572026,4.364881593,Boom,Onze-Lieve-Vrouw en Sint-Rochuskerk
+2147,9200,51.02044668,4.091686506,Sint-Gillis-bij-Dendermonde,Onze-Lieve-Vrouw van Zwijvekekerk
+2148,9220,51.06368062,4.156287704,Moerzeke,Kapel Priester Poppe
+2149,3000,50.88413514,4.699255853,Leuven,Sint-Geertruiabdij
+2150,3000,50.87952613,4.701238905,Leuven,Sint-Pieterskerk
+2151,3001,50.85925787,4.686139812,Leuven,Residentie Lerkeveld
+2152,3020,50.88455473,4.662897925,Winksele,jeugdhuis De Bar
+2153,3040,50.74704238,4.634477517,Huldenberg,0
+2154,3300,50.80769294,4.937865222,Tienen,Onze-Lieve-Vrouw-ten-Poelkerk
+2155,9940,51.13781709,3.680510602,Sleidinge,0
+2156,9060,51.1874226,3.809953964,Zelzate,Klooster-rustoord Sint-Jan
+2157,9160,51.10420741,3.99186545,Lokeren,Sint-Laurentiuskerk
+2158,9111,51.14451409,4.085180697,Belsele,koetshuis
+2159,9160,51.11529358,3.998335486,Lokeren,Onze-Lieve-Vrouw Hulp der Christenenkerk
+2160,2160,51.20544401,4.524545382,Wommelgem,Basisschool Sint Johanna
+2161,2018,51.19399575,4.410125593,Antwerp,0
+2162,2020,51.18712064,4.391469427,Antwerp,Christus Koningkerk
+2163,9100,51.17618746,4.138951194,St Nicolas,0
+2164,2000,51.2236224,4.412219136,Antwerp,Protestants Evangelische kerk
+2165,2018,51.198659,4.403265552,Antwerp,Sint-Laurentiuskerk
+2166,2000,51.22520297,4.413007251,Antwerp,Sint-Antoniuskerk
+2167,2640,51.16455136,4.450532523,Mortsel,Sint Bernadette
+2168,2018,51.21420578,4.425388585,Antwerp,Sint-Dominicuskerk
+2169,2610,51.16857592,4.38769131,Antwerp,Sint-Jan Maria Vianneykerk
+2170,2150,51.1951121,4.475388704,Borsbeek,Sint-Jan Berchmans
+2171,2100,51.23309144,4.449895524,Antwerp,Blijde-Boodschapkerk
+2172,2050,51.22522579,4.381006634,Antwerp,Sint-Lucaskerk
+2173,9140,51.1259616,4.199581295,Temse,Heilig Hartkerk
+2174,2140,51.21529614,4.44180881,Antwerp,Sint-Janskerk
+2175,2140,51.21088502,4.433730383,Antwerp,Heilige Familie en Sint-Corneliuskerk
+2176,2060,51.21966737,4.432286918,Antwerp,Sint-Willibrorduskerk
+2177,2060,51.22336531,4.438563218,Antwerp,Klooster en kapel van de zusters Franciscanessen
+2178,2140,51.21317806,4.451508368,Antwerp,Xaveriuskerk
+2179,2000,51.22392239,4.401346471,Antwerp,Sint-Pauluskerk
+2180,9170,51.21826893,4.127958752,Sint-Gillis-Waas,Sint-Egidiuskerk
+2181,9100,51.17644318,4.139181273,Sint-Niklaas,Christus Koningkerk
+2182,2600,51.18829291,4.435374035,Antwerp,De Verrezen Heer
+2183,2018,51.2068747,4.431036819,Antwerp,Sint-Norbertuskerk
+2184,2610,51.15325482,4.390392485,Antwerp,Heilige Naam Jezuskerk
+2185,9120,51.22311159,4.258449711,Beveren,Sint-Jan Evangelistkerk
+2186,8340,51.20129736,3.322354918,Damme,Sint-Martinuskerk
+2187,8310,51.21301287,3.282014011,Bruges,Sint-Thomas van Kantelbergkerk
+2188,8200,51.19633993,3.181185504,Bruges,WZC Regina Coeli
+2189,9900,51.18498729,3.566606771,Eeklo,Sint-Vincentiuskerk
+2190,8000,51.22443473,3.205021763,Bruges,0
+2191,8000,51.20550302,3.221570439,Bruges,Saint Salvator's Cathedral
+2192,8790,50.89228792,3.450295164,Waregem,Sint-Hubertuskapel
+2193,9790,50.83542916,3.556321274,0,VZC De Linde
+2194,8500,50.79075105,3.250085161,Kortrijk,0
+2195,8500,50.82756787,3.268349163,Kortrijk,Sint-Maartenskerk
+2196,8500,50.81198382,3.299547186,Kortrijk,0
+2197,8501,50.83036715,3.228834768,Kortrijk,Mariadorp
+2198,8790,50.86355321,3.401471284,Waregem,Sint-Margaretakerk
+2199,8790,50.87464157,3.424947018,Waregem,Sint-Jozefskerk
+2200,8500,50.8282122,3.267494121,Kortrijk,0
+2201,8510,50.80434338,3.249590561,Kortrijk,Onze-Lieve-Vrouw ten Spieghele
+2202,8791,50.87553611,3.346348996,Beveren-Leie,Sint-Jan de Doperkerk
+2203,8930,50.76217928,3.179674285,Rekkem,Heilige Maagd der Armenkerk
+2204,8500,50.82814519,3.271869031,Kortrijk,0
+2205,3581,51.07569533,5.221102506,Beringen,Sint-Theodarduskerk
+2206,3550,51.05084996,5.334328701,Heusden-Zolder,Onze-Lieve-Vrouwekerk
+2207,3500,50.92973964,5.336267097,Hasselt,Virga-Jessebasiliek
+2208,3545,50.96929672,5.09323544,Zelem,Sint-Jansbergklooster
+2209,3600,50.97122085,5.448499998,Winterslag,Sint-Jan Baptist de la Sallekerk
+2210,3290,50.98716195,5.05451268,Diest,0
+2211,3582,51.05439775,5.246375354,Beringen,0
+2212,3520,50.97813184,5.353496232,Zonhoven,Sint-Eligiuskerk
+2213,3600,50.95307808,5.421592822,Genk,0
+2214,3500,50.94662498,5.355596788,Hasselt,Onze-Lieve-Vrouw van Banneuxkerk
+2215,3980,51.05493434,5.086995061,Tessenderlo,Sint-Barbarakerk
+2216,3500,50.91769742,5.342682203,Hasselt,Sint-Martinuskerk
+2217,3560,50.99737606,5.186186392,Lummen,Sint-Ferdinand
+2218,3500,50.95023767,5.372257856,Hasselt,KIDS
+2219,3520,50.99414866,5.340170217,Zonhoven,Sint-Jozefskerk
+2220,3582,51.07117215,5.248622939,Beringen,Gerardus Majellakerk
+2221,3980,51.02952514,5.044245625,Tessenderlo,Sint-Luciakerk
+2222,9500,50.77590555,3.869520591,Nederboelare,Sint-Machariuskerk
+2223,9506,50.79681783,3.898858927,Geraardsbergen,Sint-Amanduskerk
+2224,8755,51.06707594,3.387510589,Kruiskerke,Heilige Kruisverheffingskerk
+2225,9400,50.79849487,4.025213179,Denderwindeke,Sint-Petruskerk
+2226,9400,50.83804157,4.021230284,Ninove,Onze-Lieve-Vrouw Hemelvaartkerk
+2227,9320,50.90968413,4.028557246,Erembodegem,Sint-Jozefskerk
+2228,8020,51.07716041,3.172573114,Ruddervoorde,Sint-Godelievekerk
+2229,8800,50.952027,3.135786358,Roeselare,0
+2230,8800,50.94663488,3.121496312,Roeselare,Burgerschool
+2231,8630,51.06918393,2.666076887,Veurne,0
+2232,8650,50.9759702,2.928570317,Houthulst,Sint-Kristoffelkerk
+2233,8610,51.03093446,3.042349853,Kortemark,Internaat Zusters van Liefde
+2234,8840,50.93136237,3.012513444,Westrozebeke,Sint-Baafskerk
+2235,8800,50.94547967,3.129064892,Roeselare,Klooster en retraitehuis paters redemptoristen
+2236,8820,51.05702153,3.115881729,Goede Herder,Basisschool Ten Parke - Scholengroep Sint-Rembert
+2237,8610,51.02904676,3.038696158,Kortemark,Margareta Maria Instituut
+2238,8600,51.03165609,2.86451721,Diksmuide,0
+2239,8830,50.98233582,3.068252829,Hooglede,0
+2240,8800,50.94592892,3.128973472,Roeselare,Klooster en retraitehuis paters redemptoristen
+2241,8800,50.98848333,3.162801004,Beveren,Sint-Catharinakerk
+2242,8630,51.07350541,2.65904343,Veurne,0
+2243,8647,50.97977362,2.749609819,Lo,Gemeentehuis Lo-Reninge
+2244,8820,51.06850367,3.102844372,Goede Herder,Ten Walle
+2245,8720,50.94606207,3.40315558,Markegem,Sint-Amandus en Sint-Luciakerk
+2246,8700,51.00167202,3.313319313,Tielt,Betel Kerk
+2247,9870,50.95982715,3.484345756,Machelen,Sint-Michiel-en-Cornelius-en-Ghislenuskerk
+2248,8720,50.92994915,3.398151116,Wakken,Sint-Pieter en Sint-Catharinakerk
+2249,8720,50.96412259,3.419820867,Dentergem,Onze-Lieve-Vrouw en Sint-Stefanuskerk
+2250,8740,50.97428515,3.272724034,Pittem,0
+2251,8755,51.0704267,3.356950348,Doomkerke,Sint-Caroluskerk
+2252,9870,50.93554728,3.465861835,Olsene,Sint-Petruskerk
+2253,8600,51.00130433,2.870681643,Woumen,Sint-Andreaskerk
+2254,9990,51.21514686,3.38232296,Maldegem,Sint-Jozefkerk
+2255,3830,50.84063532,5.337973325,Wellen,Neogotische Ursulinnenkapel
+2256,8750,51.06168923,3.318055867,Wingene,Sint-Jan-Baptistkerk
+2257,9850,51.03392574,3.51667421,Poesele,Sint-Laurentiuskerk
+2258,9750,50.91224381,3.596700588,Ouwegem,Sint-Jan Baptistkerk
+2259,3721,50.86402093,5.424231232,Kortessem,Sint-Eligiuskerk
+2260,8870,50.91108675,3.229516289,Izegem,0
+2261,9800,50.9960907,3.503048035,Deinze,Sint-Amanduskerk
+2262,9240,51.04816883,4.036351832,Zele,Onze-Lieve-Vrouwkerk
+2263,9800,50.96434561,3.463502981,Deinze,Sint-Martinus en Eutropiuskerk
+2264,8600,51.03280856,2.768779176,Diksmuide,Heilige-Kruisverheffingskerk
+2265,8720,50.96692733,3.416422541,Dentergem,RVT Mariaburcht
+2266,2040,51.34027041,4.31473053,Antwerp,Sint-Jan Baptistkerk
+2267,8870,50.92190033,3.196390144,Mol,0
+2268,9870,50.91007512,3.429683417,Zulte,Onze-Lieve-Vrouw ten Dalekapel
+2269,9870,50.92241801,3.443250717,Zulte,Sint-Petruskerk
+2270,9800,50.97228017,3.528458781,Petegem-aan-de-Leie,Sint-Pauluskerk
+2271,9850,51.03338208,3.54905844,Deinze,Sint-Mauritius en Gezellenkerk
+2272,3200,50.96569534,4.802883845,Gelrode,Sint-Corneliuskerk
+2273,8760,50.94971223,3.288245983,Meulebeke,Sint-Amanduskerk
+2274,8870,50.92241486,3.204185334,Mol,0
+2275,9800,51.01720096,3.54050016,Deinze,Sint-Niklaaskerk
+2276,8600,51.03492573,2.864370379,Diksmuide,0
+2277,9850,51.02624076,3.555418052,Vosselare,Sint-Eligiuskerk
+2278,9800,50.9773754,3.527273819,Deinze,Sint-Martinus-en-Sint-Antonius-Abtkerk
+2279,9850,51.07816437,3.577004515,Merendree,Sint-Radegundiskerk
+2280,9800,50.98337144,3.561368211,Deinze,Sint-Amandus en Sint-Jobkerk
+2281,9880,51.08352024,3.448186152,Aalter,Sint-Corneliuskerk
+2282,2200,51.18562716,4.836932237,Herentals,Gasthuiskapel
+2283,3520,50.99308309,5.363332724,Zonhoven,0
+2284,8750,51.08699016,3.306742537,Wingene,Sint-Joriskerk
+2285,9810,50.95910371,3.596888115,Nazareth,Onze-Lieve-Vrouw-Geboortekerk
+2286,8740,50.99461083,3.267245954,Pittem,Onze-Lieve-Vrouwekerk
+2287,9800,50.97963516,3.444498817,Deinze,Sint-Agneskerk
+2288,9770,50.92014841,3.567038779,Lozer,Onze-Lieve-Vrouw van Bijstandkerk
+2289,8760,50.96341947,3.328737646,Meulebeke,Onze-Lieve-Vrouw Bezoeking en Sint-Leokerk
+2290,8750,51.03624795,3.21102444,Zwevezele,Saint Aldegonde Church
+2291,8000,51.20464248,3.224450614,Bruges,Church of Our Lady
+2292,8870,50.93150883,3.19179877,Kachtem,Sint-Jan de Doperkerk
+2293,9880,51.0496835,3.459741163,Lotenhulle,Heilig-Kruiskerk
+2294,9850,51.05701125,3.572962371,Landegem,Sint-Blasius en Sint-Margrietkerk
+2295,9831,51.00626974,3.60427008,Deurle,Sint-Aldegondiskerk
+2296,8310,51.18224581,3.235531266,Bruges,Sint-Pietersabdij
+2297,8830,50.97828318,3.082062058,Hooglede,Sint-Amanduskerk
+2298,9800,50.9833239,3.527632103,Deinze,Onze-Lieve-Vrouwekerk
+2299,8000,51.19977282,3.222036661,Bruges,Huize Minnewater
+2300,8710,50.90932467,3.370556494,Wielsbeke,Sint-Laurentiuskerk
+2301,8820,51.07090752,3.139941327,Torhout,0
+2302,8000,51.21236855,3.233714339,Bruges,Jeruzalemkerk
+2303,9992,51.25599933,3.415894183,Middelburg,Sint-Petrus en Pauluskerk
+2304,8200,51.18836341,3.212001973,Bruges,Sint-Michielskerk
+2305,8800,50.94800314,3.133269635,Roeselare,Onze-Lieve-Vrouwekerk
+2306,2400,51.17848389,5.093142497,Mol,Kapel Sint-Willibrordus en Sint-Marculphus
+2307,8755,51.04139291,3.397780021,Ruiselede,Onze-Lieve-Vrouw-ten-Hemelopnemingskerk
+2308,8800,50.94891565,3.127107585,Roeselare,Sint-Amandskerk
+2309,8750,51.05815127,3.27867518,Wingene,Sint-Amanduskerk
+2310,8200,51.1966395,3.180175321,Bruges,Sint-Andreaskerk
+2311,8200,51.17962222,3.220119097,Bruges,0
+2312,3800,50.80880534,5.181978578,Sint-Truiden,Sint-Pieterskerk
+2313,8740,51.01509161,3.259919917,Egem,Sint-Germanuskerk
+2314,8700,50.98918345,3.32806146,Tielt,0
+2315,8700,50.99426815,3.326525796,Tielt,Onze-Lieve-Vrouwekerk
+2316,9800,50.9845292,3.528433043,Deinze,Leiepoort Campus Sint-Theresia
+2317,2520,51.18158038,4.601584638,Broechem,Onze-Lieve-Vrouwekerk
+2318,2240,51.18729585,4.649302782,Viersel,Sint-Willibrorduskerk
+2319,2440,51.14209094,4.945729002,Punt,Sint-Gerebernuskerk
+2320,2590,51.1185572,4.660985493,Berlaar,Sint-Pieterskerk
+2321,2260,51.11633898,4.860715913,Westerlo,Onze-Lieve-Vrouw-Ten-Hemel-Opgenomenkerk
+2322,2110,51.22269113,4.545394818,Wijnegem,0
+2323,2520,51.16261382,4.606996296,Emblem,Sint-Gummaruskerk
+2324,9870,50.92144187,3.440544127,Zulte,Ponthove
+2325,2970,51.23328575,4.555223029,Schilde,Onze-Lieve-Vrouw-ten-Hemel-Opgenomenkerk
+2326,2560,51.16437182,4.687693907,Nijlen,Onze-Lieve-Vrouwkerk
+2327,2500,51.12857457,4.58714964,Lier,Heilige Familiekerk
+2328,2460,51.2242971,4.920045782,Lichtaart,Onze-Lieve-Vrouwkerk
+2329,8000,51.20119834,3.223353341,Bruges,Begijnhofkerk Sint-Elisabeth
+2330,8000,51.20632941,3.214817079,Bruges,Onze-Lieve-Vrouw-van-Blindekenskapel
+2331,2260,51.1387924,4.90491621,Oevel,Sint-Michielskerk
+2332,3404,50.76774052,5.090378842,Attenhoven,Sint Pieterskerk
+2333,2520,51.21102954,4.597662861,Oelegem,Onze-Lieve-Vrouw ten Hemel Opgenomenkerk
+2334,3800,50.81127608,5.234778069,Ordingen,0
+2335,2290,51.20256133,4.771235666,Vorselaar,Sint-Pieterskerk
+2336,8700,51.03267106,3.333607784,Schuiferskapelle,Onze-Lieve-Vrouw Geboortekerk
+2337,2250,51.14430302,4.857549382,Olen,Sint-Martinuskerk
+2338,9880,51.08214783,3.449878986,Aalter,Veilige Have
+2339,2460,51.2240585,4.907685584,Lichtaart,Kapel Onze-Lieve-Vrouw in 't Zand
+2340,8340,51.24584383,3.339628006,Moerkerke,Sint-Dionysiuskerk
+2341,8740,50.99658549,3.254785198,Pittem,0
+2342,2520,51.15277064,4.581734321,Emblem,0
+2343,8770,50.92001867,3.254986154,Ingelmunster,Sint-Amandskerk
+2344,9870,50.9517973,3.497048338,Machelen,Maria Hulp der Christenen
+2345,2250,51.16807601,4.900273624,Onze-Lieve-Vrouw-Olen,Onze-Lieve-Vrouw Geboortekerk
+2346,9800,50.98600571,3.536277949,Deinze,0
+2347,8700,50.99885287,3.325871644,Tielt,Paterskerk
+2348,2240,51.19887924,4.635830728,Massenhoven,Sint-Stefaankerk
+2349,8630,51.05798383,2.68911285,Veurne,Sint-Laurentiuskerk
+2350,2275,51.26715507,4.867617815,Gierle,Onze-Lieve-Vrouw Geboortekerk
+2351,2222,51.10299306,4.729342407,Itegem,Sint-Guibertuskerk
+2352,2260,51.10559108,4.915932128,Tongerlo,Sint-Annakerk
+2353,2200,51.18123644,4.837452978,Herentals,Sint-Catharinakerk
+2354,2275,51.23814731,4.823691237,Lille,Sint-Pieterskerk
+2355,2560,51.16091812,4.670854378,Nijlen,Sint-Willibrorduskerk
+2356,3840,50.80404788,5.262219938,Rijkel,Sint-Jozefkerk
+2357,2288,51.16961925,4.743307339,Bouwel,Onze-Lieve-Vrouw Hemelvaartkerk
+2358,2520,51.1740629,4.622246655,Broechem,Campus Vesta
+2359,2222,51.10931916,4.794895819,Wiekevorst,Sint-Jan-Baptistkerk
+2360,2520,51.19049102,4.560490054,Ranst,Sint-Pancratiuskerk
+2361,2440,51.12439025,4.977401951,Geel,Sint-ApolloniaKerk
+2362,8700,50.99655136,3.316657014,Tielt,0
+2363,3201,50.99324763,4.870503691,Langdorp,Sint-Pieterskerk
+2364,2980,51.26714364,4.711898471,Zoersel,Heilige-Elisabeth van Hongarije
+2365,2500,51.13002311,4.574586069,Lier,Sint-Gummaruskerk
+2366,2440,51.16204196,4.990465013,Elsum,Sint-Amandskerk
+2367,2200,51.19242714,4.841751593,Herentals,Heilige Kruiskapel
+2368,2270,51.14007317,4.755922157,Herenthout,Sint-Pieter en Pauluskerk
+2369,2980,51.26419945,4.633770102,Sint-Antonius,Sint-Antonius-Abtkerk
+2370,2200,51.11885647,4.821211682,Morkhoven,Sint-Niklaaskerk
+2371,2460,51.24055613,4.966406252,Kasterlee,Sint-Willibrorduskerk
+2372,2440,51.10696168,4.979514251,Oosterlo,Sint-Luciakerk
+2373,2440,51.20429755,4.97977847,Ten Aard,Sint-Hubertuskerk
+2374,2500,51.09471913,4.610185429,Koningshooikt,Sint-Jan Evangelistkerk
+2375,8310,51.18789903,3.274839678,Bruges,Onze-Lieve-Vrouw-Onbevlekte- Ontvangeniskerk
+2376,3840,50.82323345,5.396329008,Gors-Opleeuw,Sint-Martinuskerk
+2377,8710,50.9089306,3.390924636,Sint-Baafs-Vijve,Sint-Bavokerk
+2378,9200,51.02917081,4.054558439,Appels,Sint-Apolloniakerk
+2379,8600,51.04885731,2.912976107,Diksmuide,0
+2380,8000,51.22434409,3.205597899,Bruges,Sint-Pauluskerk
+2381,9070,51.02803202,3.799291522,Heusden,Heilig Kruiskerk
+2382,8000,51.21437668,3.22973331,Bruges,Sint-Leocollege
+2383,9980,51.24128474,3.526024738,Sint-Laureins,Sint-Laurentiuskerk
+2384,9000,51.04595746,3.736327066,Ghent,Onze-Lieve-Vrouw ter Hoyekerk
+2385,8310,51.21405199,3.250014319,Bruges,Heilige-Kruisverheffing-en-Sint-Jozefkerk
+2386,3401,50.7369526,5.085134037,Walsbets,Sint-Jan de Doperkerk
+2387,9230,50.9892363,3.835754401,Wetteren,Heilig Hartbrouwerij
+2388,8700,51.00034318,3.325408091,Tielt,Sint-Pieterskerk
+2389,3350,50.83942129,5.019764472,0,Heilige Follianuskerk
+2390,8600,51.03596612,2.838105593,Diksmuide,Sint-Bartholomeuskerk
+2391,9300,50.93710075,4.041131756,Aalst,0
+2392,9310,50.97359546,4.065536576,Herdersem,WZC Denderrust
+2393,9308,50.98403911,4.05003944,Gijzegem,0
+2394,9260,50.9959491,3.95307686,Schellebelle,Sint-Jozefkapel
+2395,9090,51.0186276,3.76941672,Melle,Sint-Franciscusinstituut
+2396,9000,51.04404736,3.716968387,Ghent,Stadsmuseum Gent
+2397,9000,51.0575934,3.728688709,Ghent,Baudelokapel
+2398,9000,51.05773123,3.714559698,Ghent,0
+2399,9000,51.05997387,3.717110695,Ghent,Cultuurkapel Sint-Vincent
+2400,9000,51.06697838,3.703663983,Ghent,Psychiatrisch Centrum Dr. Guislain
+2401,9200,51.04855473,4.06176637,Dendermonde,Sint-Odulf
+2402,9000,51.04895844,3.724352196,Ghent,Sint-Barbaracollege
+2403,9000,51.05354518,3.711897535,Ghent,0
+2404,9040,51.05671939,3.746635045,Ghent,Kapel Sint-Antonius van Padua
+2405,9000,51.0227006,3.701487842,Ghent,Maaltebruggekasteel
+2406,9000,51.057038,3.716592937,Ghent,Kerk Paters Karmelieten
+2407,9000,51.06266289,3.723753562,Ghent,Psychiatrisch Ziekenhuis Sint-Jan de Deo
+2408,8340,51.20124517,3.322645786,Damme,Sint-Martinuskerk
+2409,9300,50.94075648,4.030958914,Aalst,Onze-Lieve-Vrouw van Meuleschettekapel
+2410,9000,51.04597408,3.739833258,Ghent,0
+2411,9000,51.04594117,3.736924846,Ghent,Sint-Godelievekapel
+2412,2222,51.05280187,4.779185035,Booischot,Sint-Salvatorkerk
+2413,8000,51.20734285,3.220862302,Bruges,Sint-Jozefsinstituut
+2414,8630,51.072824,2.661363689,Veurne,Stad- en Landshuis
+2415,2950,51.30850595,4.418062736,Kapellen,Onze-Lieve-Vrouw van Fatimakerk
+2416,8690,51.02412474,2.704691432,Alveringem,Sint-Pietersbandenkerk
+2417,8000,51.20520443,3.232036951,Bruges,Sint-Magdalena en Sint-Catharinakerk
+2418,9000,51.02959274,3.716486772,Ghent,Sint-Pieters-buitenkerk
+2419,9990,51.20950895,3.447290379,Maldegem,Sint-Barbarakerk
+2420,8000,51.2016384,3.22693432,Bruges,Academie: Bogardenkapel
+2421,9040,51.05402209,3.749637561,Ghent,Heilig Hartkerk
+2422,3400,50.78398134,5.010038553,Landen,Sint-Martinuskerk
+2423,3440,50.86429017,5.104366768,Budingen,Sint-Cyriacuskerk
+2424,3700,50.74747675,5.44313566,Rutten,Sint-Martinuskerk
+2425,3890,50.73418059,5.209247381,Jeuk,Sint-Joriskerk
+2426,3800,50.78162886,5.21336998,Aalst,Onze-Lieve-Vrouw-Onbevlekt-Ontvangenkerk
+2427,9890,50.93278784,3.718367629,Baaigem,Sint-Bavokerk
+2428,2360,51.33645796,4.973603481,Oosthoven,Sint-Antonius Abtkerk
+2429,3461,50.91971945,4.941875267,Bekkevoort,Sint-Laurentiuskerk
+2430,2230,51.04415157,4.929223816,Herselt,Onze-Lieve-Vrouw Onbevlekt Ontvangenkerk
+2431,3220,50.93266626,4.820573753,Sint-Pieters-Rode,Sint-Petruskerk
+2432,9520,50.94455075,3.866084777,Sint-Lievens-Houtem,Sint-Onkomenakerk
+2433,8310,51.19499148,3.251912242,Bruges,0
+2434,1780,50.90067863,4.314942279,Wemmel,Sint-Engelbertuskapel
+2435,2980,51.27043497,4.64244515,Sint-Antonius,0
+2436,3740,50.84596666,5.574758296,Rosmeer,Sint-Pieterskerk
+2437,8920,50.91823022,2.958209545,Poelkapelle,Onze-Lieve-Vrouwekerk
+2438,2260,51.13940165,4.916378928,Oevel,Onze-Lieve-Vrouw-Lelie-tusen-de-Doornenkapel
+2439,8800,50.93348925,3.154703844,Rumbeke,Sint-Petrus en Pauluskerk
+2440,1790,50.90757586,4.10904286,Hekelgem,Sint-Michielskerk
+2441,3300,50.83393319,4.883512018,Kumtich,Sint-Corneliuskapel
+2442,2560,51.13701054,4.681683679,Bevel,Onze Lieve Vrouw ten Hemel Opgenomenkerk
+2443,3890,50.74146558,5.139581686,Niel-bij-Sint-Truiden,Sint-Sebastiaankerk
+2444,1670,50.73543476,4.111734537,Heikruis,Mater Dei
+2445,8800,50.94497247,3.125491392,Roeselare,VISO campus Polenplein
+2446,2220,51.07297624,4.703066396,Heist-op-den-Berg,Heilig Hartkerk
+2447,1790,50.92449475,4.113253176,Hekelgem,Abdij van Affligem
+2448,2460,51.24157973,4.897052606,Tielen,Sint-Margarethakerk
+2449,8200,51.19731546,3.212832257,Bruges,Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw
+2450,9450,50.89693327,4.012375709,Haaltert,Kapel OLV Van Bijstand
+2451,3391,50.89832546,4.900780494,Meensel-Kiezegem,Sint-Pieterskerk
+2452,3300,50.79871333,4.963760264,Tienen,O.L. Vrouw-ten-Steen (Sint-Mauruskapel en leprozerij)
+2453,3380,50.87353887,4.972623607,Glabbeek,Sint-Catharinakerk
+2454,8970,50.85526723,2.731010569,Poperinge,Sint-Janskerk
+2455,9042,51.15645703,3.836101118,Sint-Kruis-Winkel,Onze-Lieve-Vrouw van Troost ter Warande
+2456,1701,50.83133846,4.234035835,Itterbeek,Sint-Annakerk
+2457,9160,51.09457044,3.912066755,Lokeren,Sint-Pauluskerk
+2458,8978,50.85920268,2.620178609,Watou,Sint-Bavokerk
+2459,8954,50.79755509,2.746551236,Westouter,Sint-Eligiuskerk
+2460,8953,50.78643096,2.882163498,Wijtschate,Sint-Medarduskerk
+2461,3950,51.20337531,5.560595648,Bocholt,Sint-Benedictuskerk
+2462,3670,51.105508,5.561553943,Wijshagen,Onze-Lieve-Vrouw Tenhemelopnemingskerk
+2463,8880,50.85496128,3.126733459,Ledegem,0
+2464,3730,50.84042663,5.490222293,Hoeselt,Lindekapel
+2465,2260,51.08870348,4.919988946,Westerlo,Sint-Lambertuskerk
+2466,9401,50.81637701,3.996847247,Pollare,Sint-Christoffelkerk
+2467,8900,50.86480512,2.903497389,Ypres,Sint-Jan Baptistkerk
+2468,3990,51.15322785,5.505413887,Grote-Brogel,Oude begraafplaats
+2469,1760,50.84069098,4.116090323,Strijtem,Sint-Martinuskerk
+2470,3960,51.14122004,5.597796361,Bree,Sint-Michielskerk
+2471,3700,50.76189971,5.508826327,Tongeren,Sint-Servatiuskerk
+2472,9820,50.94511061,3.744600173,Munte,Sint-Bonifatiuskerk
+2473,1750,50.8001188,4.189483491,Gaasbeek,Onze-Lieve-Vrouwkerk
+2474,3090,50.7933531,4.482768868,Overijse,Onze-Lieve-Vrouwekerk
+2475,3090,50.74866891,4.518723201,Maleizen,Sint-Judocuskerk
+2476,1674,50.74640643,4.154658401,Bellingen,Onze-Lieve-Vrouwkerk
+2477,1500,50.7355762,4.234568739,Halle,Residentie 't Convent
+2478,9700,50.89639081,3.603274171,Mullem,Sint-Hilariuskerk
+2479,8520,50.8639568,3.272781536,Kuurne,Sint-Pieter
+2480,8530,50.85802003,3.312834125,Harelbeke,Sint-Salvatorkerk
+2481,3040,50.75241829,4.615217781,Ottenburg,Sint-Niklaaskerk
+2482,8510,50.80744797,3.233278958,Kortrijk,Sint-Brixiuskerk
+2483,9185,51.16825855,3.857564395,Wachtebeke,Sint-Catharinakerk
+2484,9160,51.11044967,3.971476881,Lokeren,Sint-Annakerk
+2485,9968,51.19259549,3.688128815,Oosteeklo,Heilig Kruis en Onze-Lieve-Vrouwekerk
+2486,8554,50.75132974,3.368965775,Sint-Denijs,Sint-Dionysius en Sint-Genesiuskerk
+2487,3071,50.9049543,4.56898384,Kwerps,Sint-Pieterskerk
+2488,9940,51.10120116,3.659920773,Evergem,Heilig Hartkerk
+2489,3020,50.90134962,4.624474031,Veltem,Sint-Laurentiuskerk
+2490,3000,50.88510733,4.709710203,Leuven,Onze-Lieve-Vrouw Middelareskerk
+2491,3000,50.8762801,4.701034524,Leuven,Sint-Michielskerk
+2492,3061,50.8557961,4.611564236,Leefdaal,Sint-Veronakapel
+2493,3040,50.80733264,4.606657426,Loonbeek,Sint-Antoniuskerk
+2494,9620,50.83492204,3.795660517,Sint-Maria-Oudenhove,Onze-Lieve-Vrouw-Hemelvaartkerk
+2495,2530,51.15924306,4.492059389,Boechout,Sint-Bavokerk
+2496,2550,51.10570354,4.454885631,Waarloos,Sint-Michielskerk
+2497,2150,51.19310419,4.487440701,Borsbeek,Sint-Jacobuskerk
+2498,2845,51.09779137,4.340148056,Niel,Sint-Jozefkerk
+2499,1770,50.87061318,4.082490265,Liedekerke,Sint-Niklaaskerk
+2500,9680,50.81618543,3.653857632,Maarkedal,Het Marca
+2501,9470,50.87734125,4.065127577,Denderleeuw,Onze-Lieve-Vrouw ter Noodkerk
+2502,1755,50.77300816,4.063802475,Oetingen,Sint-Ursmaruskerk
+2503,8660,51.10127048,2.591423673,De Panne,Onze-Lieve-Vrouwkerk
+2504,9400,50.81899479,3.966288164,Appelterre-Eichem,Sint-Gertrudiskerk

@@ -1,1 +1,11 @@
-primarySlug,restaurant_id,name,address,city,supportsDelivery,supportsPickup,paymentMethods,ratings,ratingsNumber,deliveryScoober,durationRangeMin,durationRangeMax,deliveryFee,minOrder,longitude,latitude,id,restaurant_id,name,item_id
+name,ratings
+Kebap - Pizza De Brug,5.0
+De Echte Eethuis Carlos,5.0
+Munchies Ieper,5.0
+Trend Kebab & Pizzeria,5.0
+La Trinacria Bottega,5.0
+Snack-It,5.0
+Pizza Leie,4.9
+The Black Horse,4.9
+Pyramide,4.9
+Baskent Meerhout,4.9

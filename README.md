@@ -14,8 +14,8 @@
 - Which restaurants have the best price-to-rating ratio?
 - Where are the delivery ‘dead zones’—areas with minimal restaurant coverage?
 - How does the availability of vegetarian and vegan dishes vary by area?
-- Identify the World Hummus Order (WHO); top 3 hummus serving restaurants.
-- Best restos in Leuven price/rating
-- Restaurants with explicit low carb options
+- Identify the World Hummus Order (WHO); top 3 hummus serving restaurants
+- Where are the best restos in Leuven by price/rating?
+- Are there any restaurants with explicit low carb options?
 
 

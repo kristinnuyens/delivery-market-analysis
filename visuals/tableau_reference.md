@@ -12,3 +12,5 @@ https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-05/05-RestosB
 
 https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-06/06-DeliveryDeadZones-AreaswithMinimalRestaurantCoverage?publish=yes
 
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-07/07-AvailabilityofVegetarianVeganItemsbyArea?publish=yes
+

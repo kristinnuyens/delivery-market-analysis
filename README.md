@@ -16,11 +16,11 @@ We are analyzing Delivery data to uncover actionable insights for restaurant par
 1. Clone the repository
 git clone git@github.com:kristinnuyens/delivery-market-analysis.git
 
-1. Create and activate a virtual environment
+2. Create and activate a virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
-1. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 ```
 ## 🌳 Repo Structure

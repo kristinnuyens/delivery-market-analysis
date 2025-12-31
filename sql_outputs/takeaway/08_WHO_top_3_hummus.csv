@@ -1,114 +1,115 @@
-name,ratings
-Punto Caffè,5.0
-Royal Donuts & Bagels,5.0
-Restaurant le Royal,5.0
-D'Ostendsche Baguette,5.0
-The Black Horse,4.9
-Dilbi Restaurant,4.9
-Délices de Beirout,4.9
-Falafel Top,4.9
-Markies,4.9
-Lagash,4.8
-Cairo One,4.8
-The Sandwich Factory,4.8
-Sahtain,4.8
-Le Pain Quotidien,4.8
-Squadra Opdorp,4.8
-Tarboosh,4.7
-Limoena Grillhouse,4.7
-Délice du Liban,4.7
-Falafel King,4.7
-Bagelshop Houthalen,4.7
-Mazasam,4.6
-Royal Lebanon,4.6
-Zaytouna Lebanese Cuisine,4.6
-Ceders van Libanon,4.6
-Balls & Glory,4.6
-M'adam Traiteur,4.6
-Mogador - Moroccan Food,4.6
-Le Pain Quotidien,4.5
-Centerken - Food & Drinks,4.5
-Bij Mia & Maria,4.5
-Taboulé,4.5
-El Warda,4.5
-Cadix Food,4.5
-Arax,4.4
-Food Box,4.4
-Tabouleh,4.4
-Freshmade,4.4
-The Vend,4.4
-Momento,4.4
-BreadPoint,4.4
-Palmyra,4.4
-Yann Culinary,4.4
-Dar Za,4.4
-Oase,4.4
-Bbq Hema,4.4
-Beirut Palace,4.3
-Mosaic,4.3
-Pita Alexandria,4.3
-Gardenia,4.3
-Eeetwell,4.3
-Lito,4.3
-Pita Muradim,4.3
-Ons Suzanne,4.3
-Würst,4.2
-Balls & Glory,4.2
-AFC - Antwerp Fried Chicken,4.2
-Le Pain Quotidien,4.2
-The Crispy Crunch Diner,4.2
-Halab Al-Shahbae,4.1
-Cappadocia,4.1
-Casper,4.1
-Pizza That's It,4.1
-Mattina Antwerpen,4.1
-Bodega Gilles,4.1
-Veggi en Grill,4.1
-Lujain Restaurant,4.0
-Pita Pyramide,4.0
-Bodega Gust,4.0
-Halab Al Shahbae 2,4.0
-Palestijns Restaurant,4.0
-Foodbart,3.9
-Balls & Glory,3.9
-Sesam,3.9
-Hot Falafel,3.8
-Matiate Docks,3.8
-Le Pain Quotidien,3.8
-Restaurant Diamantclub,3.8
-Take one,3.8
-Casper,3.7
-Le Mezze - Chez Firas,3.7
-Masaya,3.7
-Le Pain Quotidien,3.7
-AFC - Antwerp Fried Chicken,3.6
-Frituur Heuvelpoort,3.6
-Beiruti,3.5
-Baguette & Salad Bar,3.5
-Casper,3.5
-Sewar Snack-Resto,3.4
-Le Pain Quotidien,3.4
-Casper,3.4
-Beiruti Xpress,3.3
-King Kebab,3.2
-Barouche Diner,3.1
-Wasbar,3.0
-Barouche Kortemunt,2.8
-Tchoks Burger,2.2
-Le Pain Quotidien,2.0
-AFC - Antwerp Fried Chicken,1.9
-Gevara,0.0
-Carthago Grill,0.0
-Bar Lux,0.0
-Mahshi - Linader,0.0
-Barouche,0.0
-Snack Gaza,0.0
-Boker Tov,0.0
-Morocco Nuts,0.0
-Shawarma Syria,0.0
-Najmat Al shaam,0.0
-Sufra,0.0
-Le Beldi,0.0
-Venice Corn,0.0
-Palmira Restaurant,0.0
-ô' Deli-Med,0.0
+name,city,ratings,ratingsNumber
+Restaurant le Royal,Bruxelles-Capitale,5.0,359
+Royal Donuts & Bagels,Maasmechelen,5.0,94
+Punto Caffè,Leuven,5.0,5
+D'Ostendsche Baguette,Oostende,5.0,4
+The Black Horse,Heist-op-den-Berg,4.9,127
+Falafel Top,Leuven,4.9,66
+Dilbi Restaurant,Antwerpen,4.9,34
+Markies,Oostende,4.9,14
+Délices de Beirout,Anderlecht,4.9,5
+Cairo One,Beveren,4.8,619
+Squadra Opdorp,Buggenhout (Opdorp),4.8,397
+Lagash,Genk,4.8,251
+Sahtain,Leuven,4.8,136
+The Sandwich Factory,Leuven,4.8,31
+Le Pain Quotidien,Gent,4.8,16
+Délice du Liban,Uccle,4.7,309
+Falafel King,Antwerpen,4.7,220
+Limoena Grillhouse,Sint-Amandsberg,4.7,118
+Tarboosh,Mechelen,4.7,21
+Bagelshop Houthalen,Houthalen-Oost,4.7,14
+Royal Lebanon,Waterloo,4.6,231
+Ceders van Libanon,Antwerpen,4.6,117
+Mogador - Moroccan Food,Gent,4.6,78
+Zaytouna Lebanese Cuisine,Deurne,4.6,30
+M'adam Traiteur,Brugge,4.6,11
+Mazasam,Anderlecht,4.6,6
+Balls & Glory,Mechelen,4.6,6
+Centerken - Food & Drinks,Sint-Niklaas,4.5,365
+El Warda,Antwerpen,4.5,141
+Taboulé,Brugge,4.5,81
+Bij Mia & Maria,Gent,4.5,64
+Cadix Food,Antwerpen,4.5,28
+Le Pain Quotidien,Leuven,4.5,20
+Oase,Boom,4.4,505
+Tabouleh,Ledeberg,4.4,389
+Palmyra,Leuven,4.4,253
+Food Box,Oostende,4.4,185
+Arax,Mechelen,4.4,146
+BreadPoint,Antwerpen,4.4,82
+Freshmade,Berchem,4.4,53
+Bbq Hema,Antwerpen,4.4,30
+Momento,Antwerpen,4.4,21
+The Vend,Antwerpen,4.4,9
+Yann Culinary,Bruxelles,4.4,8
+Dar Za,Leuven,4.4,8
+Pita Muradim,Antwerpen,4.3,338
+Mosaic,Leuven,4.3,250
+Pita Alexandria,Antwerpen,4.3,82
+Beirut Palace,Mechelen,4.3,80
+Eeetwell,Antwerpen,4.3,44
+Lito,Gent,4.3,11
+Gardenia,Gent,4.3,4
+Ons Suzanne,Antwerpen,4.3,4
+AFC - Antwerp Fried Chicken,Oostende,4.2,320
+Balls & Glory,Antwerpen,4.2,96
+Würst,Leuven,4.2,48
+The Crispy Crunch Diner,Gent,4.2,20
+Le Pain Quotidien,Bruges,4.2,13
+Veggi en Grill,Gent,4.1,253
+Cappadocia,Antwerpen,4.1,87
+Bodega Gilles,Schilde,4.1,84
+Casper,Brugge,4.1,44
+Pizza That's It,Oostende,4.1,20
+Mattina Antwerpen,Antwerpen,4.1,17
+Halab Al-Shahbae,Gent,4.1,14
+Pita Pyramide,Oudenaarde,4.0,105
+Halab Al Shahbae 2,Gent,4.0,75
+Bodega Gust,Deurne,4.0,40
+Lujain Restaurant,Gent,4.0,18
+Palestijns Restaurant,Antwerpen,4.0,8
+Foodbart,Deinze,3.9,611
+Balls & Glory,Gent,3.9,182
+Sesam,Kortrijk,3.9,77
+Hot Falafel,Gent,3.8,229
+Matiate Docks,Bruxelles,3.8,62
+Le Pain Quotidien,Gent,3.8,16
+Restaurant Diamantclub,Antwerpen,3.8,5
+Take one,Gent,3.8,5
+Casper,Gent,3.7,297
+Masaya,Herent,3.7,100
+Le Pain Quotidien,Antwerpen,3.7,12
+Le Mezze - Chez Firas,Brussel,3.7,3
+AFC - Antwerp Fried Chicken,Merksem,3.6,1391
+Frituur Heuvelpoort,Gent,3.6,172
+AFC - Antwerp Fried Chicken,Antwerpen,3.6,105
+Beiruti,Gent,3.5,295
+Casper,Antwerpen,3.5,83
+Baguette & Salad Bar,Leuven,3.5,34
+Sewar Snack-Resto,Leuven,3.4,301
+Casper,Leuven,3.4,144
+Le Pain Quotidien,Mechelen,3.4,10
+Beiruti Xpress,Mechelen,3.3,4
+King Kebab,Brugge,3.2,35
+Barouche Diner,Gent,3.1,4
+Wasbar,Gent,3.0,46
+Barouche Kortemunt,Gent,2.8,8
+Tchoks Burger,Laeken,2.2,35
+Le Pain Quotidien,Antwerpen,2.0,3
+AFC - Antwerp Fried Chicken,Anderlecht,1.9,3
+Gevara,Antwerpen,0.0,0
+Carthago Grill,Antwerpen,0.0,0
+Bar Lux,Mechelen,0.0,0
+Mahshi - Linader,Antwerpen,0.0,0
+Barouche,Antwerpen,0.0,0
+Snack Gaza,Antwerpen,0.0,0
+Boker Tov,Antwerpen,0.0,0
+Morocco Nuts,Mechelen,0.0,0
+Shawarma Syria,Gent,0.0,0
+Najmat Al shaam,Borgerhout,0.0,0
+Sufra,Antwerpen,0.0,0
+Le Beldi,Antwerpen,0.0,0
+Venice Corn,Brugge,0.0,0
+Palmira Restaurant,Antwerpen,0.0,0
+ô' Deli-Med,Mechelen,0.0,0

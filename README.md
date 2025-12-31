@@ -33,7 +33,7 @@ delivery-market-analysis
 ├── notebooks/
 │   ├── SQL.ipynb
 │   └── tableau_csv_exports.ipynb
-├── sql/
+├── sql/  --> disregard contents as was not working
 ├── sql_outputs/takeaway/
 │   ├── db_csv_export/
 │   ├── 01_price_distribution.csv
@@ -47,10 +47,10 @@ delivery-market-analysis
 │   ├── 09_best_Leuven_price_rating.csv
 │   └── 10_restaurants_with_low_carb_options.csv
 ├── visuals/
-│   ├── 01-  idem as above for each question
+│   ├── 01-  --> idem as above in sql_outputs, one visual for each question
 │   ├── 02-
 │   ├── ...
-│   ├── ....py
+│   ├── ...
 │   └── tableau_reference.md
 ├── README.md
 └── requirements.txt

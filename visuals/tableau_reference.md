@@ -1,9 +1,14 @@
-Visuals are being created in Tableau Public at [Kristin's Tableau](https://public.tableau.com/views/TakeAway/05-RestosBestPrice-to-RatingRatio?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-I still need to find a way to get multiple visuals in there. 
-I probably need to have separate files for each of them...
+Visuals are being created in Tableau Public at [Kristin's Tableau](https://public.tableau.com/app/profile/kristin.nuyens/vizzes)
 
 https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-01/01-PriceDistributionMenuItems?publish=yes
 
 https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-02/02-RestoDistributionbyRestoLocation?publish=yes
+
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-03/03-Top10PizzaRestaurantsbyRating?publish=yes
+
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-04/04-RestoLocationKapsalonvsAvgPrice?publish=yes
+
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-05/05-RestosBestPrice-to-RatingRatio?publish=yes
+
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-06/06-DeliveryDeadZones-AreaswithMinimalRestaurantCoverage?publish=yes
 

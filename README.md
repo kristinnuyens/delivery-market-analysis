@@ -51,7 +51,7 @@ delivery-market-analysis
 │   ├── 02-
 │   ├── ...
 │   ├── ...
-│   ├── Delivery_Market_Analysis_Krsitin.pdf
+│   ├── Delivery_Market_Analysis_Kristin.pdf
 │   └── tableau_reference.md
 ├── README.md
 └── requirements.txt

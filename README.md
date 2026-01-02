@@ -10,7 +10,7 @@ We are analyzing Delivery data to uncover actionable insights for restaurant par
   - Where are the best restos in Leuven by price/rating?
   - Are there any restaurants with explicit low carb options?
 - I used Tableau Public on Mac to create visuals at [Kristin's Tableau](https://public.tableau.com/app/profile/kristin.nuyens/vizzes), more details about different visual links are in the `tableau_reference.md` in the visuals folder
-- Created a presentation using most appealing/unique visuals created: `Delivery_Market_Analysis_Krsitin.pdf`
+- Created a presentation using most appealing/unique visuals created: `Delivery_Market_Analysis_Kristin.pdf`
 ## ⚙️ Local Setup
 ``` bash
 1. Clone the repository

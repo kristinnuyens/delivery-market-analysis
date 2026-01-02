@@ -15,3 +15,9 @@ https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-06/06-Deliver
 https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-07/07-AvailabilityofVegetarianVeganItemsbyArea?publish=yes
 
 https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-08/08-Top3WHOHummusbyRating?publish=yes
+
+    https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-08a/08a-HasHummus?publish=yes
+
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-09/09-LeuvenRestosBestBalanceRatingPrice?publish=yes
+
+https://public.tableau.com/app/profile/kristin.nuyens/viz/TakeAway-10/10-RestoswExplicitKetoLowCarbMenuItems?publish=yes

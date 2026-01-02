@@ -4,8 +4,8 @@ We are analyzing Delivery data to uncover actionable insights for restaurant par
 ## 🧾 Approach
 - Created a GitHub repository named `delivery-market-analysis`, with needed accesses, `README.md` documenting project goals, and `requirements.txt`
 - Created folders to store databases and deliverables
-- Explored the `takeaway.db` database and its schema to understand the data structure and created an additional version of the schema including relationships `ER_schema_takeaway_RELATIONSHIPS.png`
-- As the SQL extensions were originally not working in my VSCode, I used the `SQL.ipynb` notebook to create all SQL code
+- Used DB Browser for SWLite to explore the `takeaway.db` database and its schema to understand the data structure and created an additional version of the schema including relationships `ER_schema_takeaway_RELATIONSHIPS.png`
+- As the SQL extensions were originally not working in my VSCode, I used the `SQL.ipynb` notebook to create all SQL code (since then I think I got them to work, the issue was with `node.js`, but never got back to trying it out)
 - I chose 2 personal questions to answer based on the data: 
   - Where are the best restos in Leuven by price/rating?
   - Are there any restaurants with explicit low carb options?
@@ -15,11 +15,9 @@ We are analyzing Delivery data to uncover actionable insights for restaurant par
 ``` bash
 1. Clone the repository
 git clone git@github.com:kristinnuyens/delivery-market-analysis.git
-
 2. Create and activate a virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
-
 3. Install dependencies
 pip install -r requirements.txt
 ```
